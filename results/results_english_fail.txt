@@ -1,0 +1,3001 @@
+0. zdohdwu
+['dohdw', 'ohd', 'ohdwu', 'wu', 'dohdwu', 'w', 'hdwu', 'dw', 'hd', 'zdoh']
+greedy output: ohdwzdohdwu 1.57142857143
+1. uiuwqbj
+['b', 'uwqbj', 'w', 'uw', 'uiuw', 'qb', 'wqbj', 'wq', 'u', 'uwqb', 'iuw']
+greedy output: wqbuiuwqbj 1.42857142857
+2. qesiihc
+['qesii', 'e', 'h', 'qes', 'q', 'si', 'qesiihc', 'esi', 'esiih', 'iih', 'qesi']
+greedy output: esiihqesiihcsi 2.0
+3. kaonskw
+['a', 'on', 'ka', 'nsk', 'aonsk', 'k', 'ao', 'n', 'nskw', 'kw', 'aonskw', 'ns', 'onskw']
+greedy output: onskaonskwk 1.57142857143
+4. ywfabgt
+['gt', 'ywfabgt', 'g', 'abg', 'wfa', 'fabg', 'ywfa', 'bgt', 'bg', 'ab', 'wfab']
+greedy output: wfabgywfabgtab 2.0
+5. lojksws
+['oj', 'loj', 'lojk', 'ks', 'ws', 'o', 'lojksw', 'jksw', 'sws']
+greedy output: lojkswsksoj 1.57142857143
+6. ikskdix
+['iks', 'ix', 'kdi', 'kd', 'skdix', 'k', 'skd', 'ikskdix', 'kskd', 'd']
+greedy output: kskdikskdixd 1.71428571429
+7. jusijai
+['a', 'jusija', 'ai', 'ju', 'j', 'ija', 'jusij', 'sij', 'ijai']
+greedy output: asijusijai 1.42857142857
+8. vdulagi
+['ulag', 'vdu', 'agi', 'g', 'lag', 'u', 'dulagi', 'vdulagi', 'du', 'gi', 'lagi']
+greedy output: vdulagidulag 1.71428571429
+9. rkdnnyn
+['dn', 'kd', 'yn', 'n', 'rkd', 'ny', 'nyn', 'nnyn', 'nny', 'y']
+greedy output: rkdnynnyn 1.28571428571
+10. rjwgcux
+['rjw', 'c', 'jw', 'ux', 'rjwg', 'gcu', 'cux', 'u', 'jwgcu', 'gcux', 'j', 'gc']
+greedy output: rjwgcuxujwgc 1.71428571429
+11. zaunura
+['r', 'unur', 'unu', 'nura', 'ur', 'un', 'u', 'ra', 'z', 'nu']
+greedy output: urznunura 1.28571428571
+12. ifjrvcs
+['rvc', 'ifjr', 'c', 'vc', 'jrvcs', 'ifjrvcs', 'jr', 'vcs', 'v', 'cs', 'r', 'ifj', 'if']
+greedy output: jrvcvrifjrvcs 1.85714285714
+13. ivdeyaj
+['a', 'deya', 'vd', 'd', 'i', 'aj', 'ivdeyaj', 'ya', 'de', 'y']
+greedy output: vdeyaivdeyajy 1.85714285714
+14. lnrszfh
+['nrszf', 'rs', 'ln', 'szf', 'nrs', 'zfh', 'rsz', 'fh', 'rszf']
+greedy output: rszlnrszfh 1.42857142857
+15. sfsfvbt
+['fs', 'fv', 'f', 'sfsf', 'sfvb', 'fsfvb', 'sfs', 'fvb', 'v', 'fvbt', 'sf']
+greedy output: fvfsfsfvbt 1.42857142857
+16. mjukusq
+['sq', 'mjuku', 'mjukusq', 'uku', 'ukusq', 'us', 'mj', 'mju', 's', 'mjukus', 'usq', 'k']
+greedy output: ukusmjukusqk 1.71428571429
+17. rmntwwg
+['wg', 'twwg', 'tw', 'mnt', 'ntw', 'ww', 'wwg', 'w', 'rmntw', 'rmntwwg', 'mntw']
+greedy output: mntwwrmntwwg 1.71428571429
+18. awwvhmi
+['a', 'ww', 'awwvhm', 'm', 'wwvh', 'vhm', 'awwv', 'vhmi', 'hmi', 'aw', 'v']
+greedy output: awwvhmiwwvhmv 1.85714285714
+19. zrfbniu
+['zrfb', 'b', 'i', 'bn', 'rfbniu', 'fb', 'r', 'zrfbn', 'z', 'rfbn', 'fbn']
+greedy output: ifbrfbnzrfbniu 2.0
+20. xjmbmoe
+['mb', 'oe', 'm', 'mbmo', 'bmo', 'moe', 'jmb', 'mbmoe', 'mo', 'jmbmo']
+greedy output: mbmojmbmoe 1.42857142857
+21. tcnmozd
+['moz', 'ozd', 'nmozd', 'nm', 'mozd', 'zd', 't', 'oz', 'nmo', 'z', 'tc', 'cn']
+greedy output: moztcnmozd 1.42857142857
+22. rwhjdqy
+['hjdq', 'd', 'qy', 'hjdqy', 'whj', 'rwhj', 'hj', 'hjd', 'w', 'whjdqy', 'whjdq']
+greedy output: drwhjdqyhjdqw 1.85714285714
+23. ywuusgt
+['usg', 'ywu', 'uusg', 'g', 'uu', 'wuusgt', 'sgt', 'ywuu', 'u', 'usgt', 'sg']
+greedy output: ywuusgtuusg 1.57142857143
+24. jqfcjlm
+['j', 'cjlm', 'f', 'qfcjlm', 'lm', 'l', 'fc', 'jlm', 'fcjlm', 'qfc']
+greedy output: jfclqfcjlm 1.42857142857
+25. zvrmysr
+['s', 'mys', 'rmy', 'mysr', 'vr', 'r', 'rm', 'y', 'zvr', 'vrmys']
+greedy output: szvrmysrmy 1.42857142857
+26. lqbaibn
+['a', 'i', 'ibn', 'ai', 'bn', 'q', 'qba', 'baib', 'lq', 'ib', 'lqbaib']
+greedy output: qbaiblqbaibn 1.71428571429
+27. syfjava
+['a', 'va', 'j', 'yfjav', 'syfjava', 'jav', 'fjav', 'yfjava', 'yf', 'v', 'syfj']
+greedy output: jyfjavsyfjava 1.85714285714
+28. xtwnzim
+['wnzim', 'twnzi', 'xtwnz', 'n', 'im', 'tw', 'wn', 'z']
+greedy output: xtwnzimtwnz 1.57142857143
+29. iyigieb
+['iy', 'yig', 'i', 'eb', 'igie', 'ieb', 'ie', 'gi']
+greedy output: iegiyigieb 1.42857142857
+30. efbgnye
+['efbgny', 'gny', 'ef', 'ye', 'n', 'ny', 'y', 'gnye', 'bgnye', 'nye']
+greedy output: gnyefbgnyen 1.57142857143
+31. bexlntt
+['e', 'xlntt', 'ln', 'tt', 'bexlnt', 'lntt', 'exln', 'bexlntt', 't', 'xlnt', 'bexl', 'nt']
+greedy output: exlntlnbexlntt 2.0
+32. bkxigdi
+['kxigd', 'xi', 'd', 'g', 'di', 'i', 'xig', 'bkxigd', 'igd', 'ig', 'kxig']
+greedy output: xibkxigdikxig 1.85714285714
+33. ruzwmyc
+['wmy', 'uz', 'yc', 'm', 'ruz', 'w', 'y', 'myc', 'uzw', 'my', 'ruzw']
+greedy output: uzmyruzwmycw 1.71428571429
+34. ygvufeb
+['vuf', 'gv', 'feb', 'g', 'vufe', 'ufe', 'yg', 'ygv', 'u', 'fe', 'gvuf', 'e']
+greedy output: gygvufebufe 1.57142857143
+35. tfzjicc
+['zjicc', 'fzji', 'jic', 'zji', 'f', 'i', 't', 'cc', 'tfzj', 'ji', 'jicc', 'z', 'fzjicc']
+greedy output: ftfzjiccjizjic 2.0
+36. pcprflv
+['pr', 'rflv', 'l', 'lv', 'rf', 'pcprf', 'cp', 'fl', 'rfl']
+greedy output: pcprflvcprfl 1.71428571429
+37. naadssa
+['a', 'ad', 'adssa', 'ss', 'naadssa', 'dssa', 'aads', 's', 'sa', 'ssa']
+greedy output: naadssadaadss 1.85714285714
+38. swtcikp
+['swtcikp', 'ci', 'wtcik', 'i', 'k', 'c', 'tc', 'tcikp', 'ik', 't', 'tci', 'swt']
+greedy output: wtcikctciswtcikp 2.28571428571
+39. lkacail
+['kac', 'a', 'c', 'i', 'ca', 'acai', 'cai', 'lkacai', 'kacai', 'cail']
+greedy output: kacailkacail 1.71428571429
+40. pvghxch
+['hxc', 'vghxc', 'c', 'ch', 'pv', 'hxch', 'ghxch', 'ghx', 'pvghxch', 'pvg']
+greedy output: vghxcpvghxchghx 2.14285714286
+41. pjayifd
+['yi', 'jayi', 'yif', 'pjayifd', 'pjay', 'y', 'fd', 'ay', 'jayifd', 'ayifd', 'pj']
+greedy output: jayifaypjayifd 2.0
+42. porbdri
+['bd', 'b', 'orbdr', 'o', 'dri', 'bdri', 'r', 'rb', 'rbd', 'dr', 'ri']
+greedy output: borbdrirbdr 1.57142857143
+43. jbgnvtr
+['bgnvt', 'nvt', 'gnvt', 'g', 'jbgn', 'nvtr', 'n', 'vtr', 'vt', 'bgnv', 'bg', 't']
+greedy output: jbgnvtrnvtbg 1.71428571429
+44. qiqnary
+['a', 'nary', 'qnary', 'q', 'ar', 'iqna', 'qiq', 'qiqna', 'qn']
+greedy output: arqiqnaryqn 1.57142857143
+45. ggssdcn
+['dcn', 'c', 'd', 'ss', 'ssdc', 'ssdcn', 'dc', 'gg', 's', 'sdc', 'cn']
+greedy output: dggssdcnsdc 1.57142857143
+46. dmmhqkb
+['kb', 'mm', 'qkb', 'k', 'm', 'mh', 'q', 'mmhqkb', 'mmhq', 'qk', 'mhqk']
+greedy output: mmhqkbmhqkq 1.57142857143
+47. jocbrdk
+['c', 'b', 'brdk', 'cb', 'ocb', 'oc', 'j', 'rd', 'jo', 'jocbrdk', 'cbrd', 'brd', 'ocbrd']
+greedy output: cbocbrdjocbrdk 2.0
+48. qonvekc
+['kc', 'on', 'e', 'qonve', 'k', 'nvekc', 'n', 'q', 'nve', 'nvek', 'vekc']
+greedy output: onekqonvekc 1.57142857143
+49. ykizrjb
+['k', 'j', 'izrjb', 'kizr', 'ykizr', 'rjb', 'z', 'zrjb', 'zrj', 'jb']
+greedy output: kykizrjbzrj 1.57142857143
+50. jueopra
+['eo', 'e', 'eopr', 'opr', 'jue', 'opra', 'r', 'u', 'ra', 'ueop', 'op']
+greedy output: eopjueopraru 1.71428571429
+51. xafkyam
+['a', 'f', 'af', 'ya', 'k', 'afk', 'am', 'yam', 'y', 'xafk', 'x', 'ky']
+greedy output: afyxafkyam 1.42857142857
+52. tsjuoot
+['oo', 'juoo', 'tsju', 'oot', 'uoot', 'o', 'sj', 'u', 'tsjuoot', 'ot', 'juoot']
+greedy output: tsjuootsjuoou 1.85714285714
+53. bhgbnjc
+['g', 'gbnjc', 'n', 'bnjc', 'gb', 'hgbnjc', 'hg', 'jc']
+greedy output: gbnhgbnjc 1.28571428571
+54. okeinml
+['e', 'nm', 'kei', 'i', 'ml', 'okeinm', 'nml']
+greedy output: ekeiokeinml 1.57142857143
+55. npfyydz
+['pf', 'npfyydz', 'ydz', 'd', 'yyd', 'fy', 'pfy', 'dz', 'np', 'pfyyd', 'npfyy']
+greedy output: pfyydfynpfyydz 2.0
+56. pxgtixk
+['ix', 'gtix', 'xgti', 'ixk', 'i', 'xgtixk', 'pxgt', 'pxgti', 'x', 'tixk', 'xgtix']
+greedy output: gtixipxgtixk 1.71428571429
+57. ddvwfmo
+['d', 'mo', 'vw', 'm', 'fmo', 'ddvwf', 'v', 'dv', 'vwf']
+greedy output: ddvwfmomdvw 1.57142857143
+58. mhmvjyf
+['vjy', 'mhm', 'jy', 'vj', 'hmvjy', 'jyf', 'hm', 'y']
+greedy output: vjhmhmvjyfy 1.57142857143
+59. qosgwku
+['ku', 'sgwk', 'qosgwku', 'osgwk', 'sgw', 'sgwku', 'o', 'gwku', 'qosg', 'os', 'k', 'osg']
+greedy output: sgwosgwkqosgwku 2.14285714286
+60. pbqfpwg
+['wg', 'fpwg', 'pbqfpwg', 'pw', 'p', 'q', 'pwg', 'fpw', 'w']
+greedy output: pbqfpwgqfpw 1.57142857143
+61. ydoyrpe
+['ydo', 'rp', 'd', 'doyr', 'o', 'yrpe', 'r', 'ydoyrpe', 'oy', 'ydoyrp', 'oyrp']
+greedy output: doyrpoydoyrper 2.0
+62. cfjgvxq
+['gv', 'c', 'gvxq', 'g', 'f', 'jgvx', 'fjgvx', 'cf', 'cfjgvxq', 'jg', 'jgv', 'fjgv']
+greedy output: cfjgvxqgfjgvxjgv 2.28571428571
+63. wqkcxyp
+['kc', 'xyp', 'c', 'yp', 'qkc', 'k', 'q', 'xy', 'qkcxy', 'y', 'x', 'kcxyp']
+greedy output: kcqkcxypxy 1.42857142857
+64. numfsio
+['mfsio', 'mf', 'umfsi', 'numfsio', 'i', 'fs', 'n', 's', 'num', 'fsio', 'sio']
+greedy output: mfsumfsinumfsio 2.14285714286
+65. naptimw
+['a', 'napt', 'aptimw', 'timw', 'm', 'p', 'nap', 't', 'imw', 'napti']
+greedy output: ampnaptimwt 1.57142857143
+66. qpudxdq
+['d', 'pudxd', 'q', 'xdq', 'x', 'qpudxd', 'dxd', 'dx', 'dq']
+greedy output: dxqpudxdq 1.28571428571
+67. ghdhjiy
+['hjiy', 'iy', 'dhj', 'dh', 'i', 'ghdhj', 'j', 'dhjiy', 'ghd', 'hji', 'dhji']
+greedy output: dhjijghdhjiy 1.71428571429
+68. ddxhsau
+['a', 'xh', 'hsa', 'ddxhsa', 'hs', 'ddxhs', 's', 'ddx', 'au', 'dx', 'xhsau', 'x', 'xhsa']
+greedy output: hsddxhsaudxhsax 2.14285714286
+69. dieddyl
+['ddy', 'yl', 'ieddy', 'di', 'i', 'ed', 'dd', 'eddyl', 'eddy', 'dy', 'ied']
+greedy output: eddyddieddyl 1.71428571429
+70. pzxzeci
+['zxzec', 'xzeci', 'pzx', 'pz', 'zxze', 'c', 'eci', 'xz', 'ec', 'xzec']
+greedy output: pzxzecixzec 1.57142857143
+71. houawkb
+['a', 'kb', 'ouawkb', 'k', 'wkb', 'uaw', 'u', 'o', 'aw', 'oua']
+greedy output: akuawouawkb 1.57142857143
+72. ymifewe
+['ym', 'ifew', 'f', 'm', 'mi', 'mif', 'fe', 'w', 'ew', 'mifewe']
+greedy output: ymifeweifewfe 1.85714285714
+73. acuzffc
+['c', 'ff', 'acuzffc', 'uz', 'cuzf', 'zf', 'cuzff', 'acuzf', 'uzffc', 'fc', 'acu']
+greedy output: uzfacuzffcuzff 2.0
+74. tylxrgz
+['tyl', 'tylxrg', 'xrgz', 'g', 'rgz', 'xrg', 'rg', 'y', 'x', 'r', 'ylxrg']
+greedy output: tylxrgzyxrgr 1.71428571429
+75. ijfirkb
+['kb', 'ijf', 'i', 'ij', 'irkb', 'ijfi', 'r', 'ijfir', 'rkb', 'fi', 'irk']
+greedy output: rfijfirkb 1.28571428571
+76. iknydqx
+['nydq', 'ikny', 'iknyd', 'qx', 'yd', 'q', 'ydqx', 'kny', 'y', 'ydq']
+greedy output: iknydqxknydqy 1.85714285714
+77. tkqrovs
+['rovs', 'qrovs', 'tkqr', 'o', 'kqrovs', 'vs', 't', 'ov', 'r']
+greedy output: ovtkqrovsr 1.42857142857
+78. mujynvt
+['jynv', 'ujynv', 'm', 'mu', 'ujynvt', 'v', 'vt', 'ynv', 'nv', 'muj']
+greedy output: jynvmujynvt 1.57142857143
+79. ixmlmto
+['i', 'lmto', 'ixmlm', 'ml', 'lmt', 'mt', 't', 'xmlmt', 'mto']
+greedy output: ixmlmtomlmt 1.57142857143
+80. gvzhfor
+['vzhf', 'vzh', 'h', 'o', 'gvzhf', 'zhfor', 'gvzhfo', 'zhf', 'vzhfo', 'vz', 'hfor']
+greedy output: hogvzhforvzhf 1.85714285714
+81. gaclvxt
+['a', 'c', 'cl', 'clvxt', 'aclvx', 'l', 'acl', 'gacl', 'gaclvxt', 'v', 'x', 'xt']
+greedy output: aclvxclgaclvxtv 2.14285714286
+82. qcbztdd
+['bztd', 'cbzt', 'c', 'bzt', 'd', 'qcbz', 'ztd', 'b', 'td']
+greedy output: cqcbztdbzt 1.42857142857
+83. zwqbrep
+['qbre', 'z', 'e', 'rep', 'q', 'r', 'wq', 'wqbre', 'zw', 'ep']
+greedy output: zwqbrepeqr 1.42857142857
+84. fhqbbah
+['a', 'hqbbah', 'b', 'ah', 'hq', 'hqbb', 'qb', 'qbba', 'h', 'bah', 'hqbba']
+greedy output: bhqbbahqbba 1.57142857143
+85. vdnuxnl
+['xn', 'nux', 'dnuxn', 'n', 'u', 'v', 'uxn', 'uxnl', 'nu']
+greedy output: xnuxdnuxnluv 1.71428571429
+86. doftuah
+['a', 'ft', 'ah', 'dof', 'oftu', 'ftua', 'oftuah', 'tua', 'oftua', 'ua', 'doftuah']
+greedy output: ftdoftuahoftua 2.0
+87. okplhxk
+['xk', 'hx', 'kplh', 'hxk', 'h', 'plhxk', 'okpl', 'plhx', 'kplhxk', 'x', 'pl', 'lhx']
+greedy output: hokplhxkplhx 1.71428571429
+88. xroytgu
+['xro', 'oytg', 'roytg', 'g', 'oyt', 'r', 't', 'oy', 'tg', 'y', 'ytg', 'ro', 'xroy', 'xroyt']
+greedy output: xroytgroyty 1.57142857143
+89. jwefqku
+['jwefq', 'fq', 'we', 'wefq', 'efq', 'efqku', 'q', 'efqk', 'jwef', 'qku']
+greedy output: fqwejwefqku 1.57142857143
+90. pumjyxz
+['yxz', 'umjyxz', 'mjyx', 'pum', 'pumj', 'jyx', 'yx', 'y', 'x']
+greedy output: mjyxpumjyxzy 1.71428571429
+91. dkxgxfo
+['xgxfo', 'd', 'xfo', 'f', 'gxfo', 'dkx', 'gx', 'g', 'xgx', 'x', 'fo']
+greedy output: dkxgxfofgx 1.42857142857
+92. ecpubus
+['pubus', 'cpubus', 'b', 'bus', 'c', 'us', 'ubus', 'u', 'ec', 'pubu', 'ecpubu', 'cp', 'ub']
+greedy output: cpububecpubus 1.85714285714
+93. gkfplkm
+['lkm', 'p', 'kf', 'kfplk', 'fpl', 'l', 'km', 'fplk', 'plkm', 'fplkm', 'pl', 'gkf']
+greedy output: pfplgkfplkm 1.57142857143
+94. oesqced
+['esqced', 'esqce', 'qce', 'sqce', 'ed', 'o', 'q', 'qc', 'oesq', 'oesqc', 'oesqced', 'es', 'qced']
+greedy output: oesqcedqcesqce 2.0
+95. esrybkt
+['ybkt', 'bkt', 'esrybk', 'yb', 'sryb', 'srybk', 's', 'ybk', 'kt', 'y', 'sry', 'es']
+greedy output: srybkyesrybkt 1.85714285714
+96. ivilhzb
+['hz', 'vilhzb', 'ivi', 'vil', 'l', 'vilhz', 'il', 'v', 'z', 'lhz']
+greedy output: ivilhzbilhzv 1.71428571429
+97. rwzqghf
+['w', 'wzqg', 'wzq', 'ghf', 'r', 'qg', 'zqg', 'z', 'zq', 'qghf', 'gh']
+greedy output: wzqghfrzqgh 1.57142857143
+98. vqihglu
+['hglu', 'vqihg', 'l', 'q', 'ihglu', 'lu', 'qihgl', 'vqi', 'vqih', 'glu']
+greedy output: lqvqihglu 1.28571428571
+99. tqlkaby
+['lkab', 'b', 'lkaby', 'tq', 'tqlk', 'qlkab', 'kaby', 'qlkaby', 'qlk']
+greedy output: tqlkabyqlkab 1.71428571429
+100. kmrcbse
+['rcbs', 'c', 'b', 'cbs', 's', 'r', 'kmr', 'kmrcbs', 'cbse', 'bse', 'se']
+greedy output: cbsrkmrcbse 1.57142857143
+101. iqkzgpe
+['iqkz', 'iqk', 'g', 'zg', 'p', 'kzgpe', 'pe', 'kz', 'z']
+greedy output: iqkzgpepkzgz 1.71428571429
+102. kqaknfh
+['aknfh', 'f', 'qaknf', 'ak', 'kqaknf', 'n', 'knf', 'kqa', 'kqaknfh', 'fh']
+greedy output: qaknfakqaknfhn 2.0
+103. ifrfwrm
+['fr', 'rfw', 'ifr', 'f', 'ifrfwr', 'rf', 'r', 'fwr', 'frfwr', 'fwrm', 'if']
+greedy output: frfwrifrfwrm 1.71428571429
+104. nzulvba
+['zulv', 'nzul', 'ulvb', 'ulv', 'l', 'n', 'ul', 'u', 'v', 'nzulvb', 'zul', 'ba']
+greedy output: nzulvbaulzulv 1.85714285714
+105. nzrevvg
+['zrev', 'vg', 'nzre', 'rev', 'nzrevv', 're', 'zre', 'r', 'v', 'zrevv']
+greedy output: nzrevvgzrevre 1.85714285714
+106. bdzphdp
+['d', 'h', 'phd', 'phdp', 'p', 'zphd', 'ph', 'z', 'dp']
+greedy output: dzphdph 1.0
+107. wwzemvh
+['wzemvh', 'mv', 'm', 'w', 'emv', 'zemv', 'v', 'wwzemv', 'wwzemvh', 'wzemv']
+greedy output: mwwzemvhwzemv 1.85714285714
+108. aoyujwn
+['a', 'oyujw', 'jwn', 'wn', 'oyu', 'aoyujwn', 'ujwn', 'oyuj', 'oy', 'y']
+greedy output: aoyujwnoyujwy 1.85714285714
+109. urijqsr
+['qs', 'urijqs', 'rijqs', 'jqsr', 'ijqs', 's', 'r', 'rij', 'urijqsr', 'jqs']
+greedy output: urijqsrijqs 1.57142857143
+110. hujcqmo
+['ujcq', 'c', 'cqmo', 'cqm', 'hujcqmo', 'h', 'mo', 'uj', 'ujcqmo', 'jcqmo', 'hujcqm']
+greedy output: chujcqmoujcqm 1.85714285714
+111. tturoun
+['urou', 'uroun', 'o', 'roun', 'ttur', 'r', 'u', 't', 'ro', 'rou']
+greedy output: oroutturoun 1.57142857143
+112. dedzhdo
+['do', 'dzhdo', 'h', 'zhdo', 'dedzhdo', 'zhd', 'dzh', 'dedzh', 'edzhdo', 'z']
+greedy output: hdzhdedzhdoz 1.71428571429
+113. lvdtndi
+['ndi', 'd', 'lvdt', 'di', 'nd', 'dtnd', 'vdtn', 'lvdtnd', 'tndi', 'lvdtndi', 'vdtndi']
+greedy output: lvdtndivdtnd 1.71428571429
+114. iguxpce
+['iguxpce', 'ux', 'uxp', 'ce', 'pc', 'guxpc', 'x', 'igux']
+greedy output: uxpguxpcxiguxpce 2.28571428571
+115. eejiypy
+['jiyp', 'e', 'ej', 'i', 'j', 'ji', 'eej', 'y', 'yp', 'iypy']
+greedy output: eejiypypi 1.28571428571
+116. ybjmjzj
+['zj', 'jz', 'jmjz', 'j', 'ybjmjz', 'mj', 'jm', 'bjmj', 'mjzj', 'ybjmj']
+greedy output: bjmjzybjmjzjm 1.85714285714
+117. npaihfw
+['fw', 'h', 'f', 'npa', 'p', 'paihf', 'hfw', 'aih', 'pai', 'ihf']
+greedy output: fnpaihfwpaih 1.71428571429
+118. vnyvmbh
+['b', 'mbh', 'mb', 'yvmb', 'yvmbh', 'bh', 'm', 'v', 'y', 'vmb', 'yv']
+greedy output: mvmbyvmbh 1.28571428571
+119. mzjvmop
+['vmo', 'zjvmop', 'jvmop', 'j', 'vm', 'o', 'vmop', 'jvm', 'zjv', 'mzj', 'op']
+greedy output: jvmomzjvmop 1.57142857143
+120. ercyztk
+['ercy', 'rcyztk', 'rc', 'cyz', 'cy', 'r', 't', 'rcyzt', 'y', 'z', 'tk']
+greedy output: ercyztkrcyzty 1.85714285714
+121. nzpbcdr
+['zpbcdr', 'd', 'bc', 'zp', 'nzpbcd', 'cd', 'p', 'b', 'cdr', 'z', 'dr']
+greedy output: nzpbcdrbcdzp 1.71428571429
+122. pstnkgs
+['kgs', 'gs', 'pstnk', 'nkg', 'stn', 's', 'n', 'tn', 'p', 'stnkg', 'nkgs', 'tnk']
+greedy output: snpstnkgstnk 1.71428571429
+123. yeoxhrf
+['xh', 'e', 'yeoxh', 'yeox', 'ye', 'r', 'oxhr', 'eoxhrf', 'y', 'x', 'hrf', 'yeoxhr']
+greedy output: eoxhryeoxhrfxh 2.0
+124. rawjiny
+['wjin', 'jin', 'j', 'wj', 'n', 'ny', 'awjiny', 'aw', 'in', 'rawj', 'jiny']
+greedy output: jawjinrawjiny 1.85714285714
+125. lsjpsnr
+['ps', 'psn', 'sjps', 'lsj', 'l', 'n', 'p', 's', 'snr', 'sn', 'sjpsnr']
+greedy output: lsjpsnrpsns 1.57142857143
+126. aaiwyfm
+['aaiwyfm', 'aaiwyf', 'aiwy', 'f', 'ai', 'aiw', 'aai', 'aaiwy', 'iwy', 'iwyfm', 'wy', 'wyfm']
+greedy output: faiwyaaiwyfm 1.71428571429
+127. csmxuyw
+['mxuy', 'smxuyw', 'mxu', 'm', 'csmxuy', 'mxuyw', 's', 'u', 'csmx', 'sm', 'smxuy', 'cs', 'smxu']
+greedy output: mxusmxuycsmxuyw 2.14285714286
+128. vsfilez
+['sfilez', 'e', 'filez', 'sfile', 'le', 'vsf', 'ez', 'lez', 'ilez']
+greedy output: levsfilez 1.28571428571
+129. mdbxcqr
+['qr', 'd', 'mdbxcq', 'q', 'dbx', 'bxcqr', 'x', 'cq', 'mdbx', 'bxcq']
+greedy output: dbxcqxmdbxcqr 1.85714285714
+130. xgsmqpk
+['qpk', 'g', 'qp', 'gsmq', 'xgsmqp', 'p', 'gsmqp', 'mq', 'pk', 'gsmqpk']
+greedy output: gsmqpxgsmqpk 1.71428571429
+131. swigsdk
+['d', 'i', 'swigsd', 'swig', 'gsdk', 'wigsdk', 'igsd', 'w', 'sd', 'ig', 'sdk']
+greedy output: igsdswigsdkw 1.71428571429
+132. jfugwdx
+['gw', 'fugwd', 'wd', 'fu', 'g', 'fugwdx', 'dx', 'ugwdx', 'ug', 'ugw', 'd']
+greedy output: fugwdxgugwd 1.57142857143
+133. mtuwocg
+['c', 'mtuwocg', 'tuwocg', 'wo', 'm', 'mtuwoc', 'oc', 'cg', 'uwo', 't', 'w', 'mtuw']
+greedy output: mtuwocguwoctw 1.85714285714
+134. gjarjqe
+['a', 'j', 'jqe', 'rjqe', 'gjarj', 'q', 'qe', 'arjqe', 'arj', 'gj']
+greedy output: arjqgjarjqe 1.57142857143
+135. xwqdowx
+['qdowx', 'dowx', 'qdow', 'q', 'wqdowx', 'qd', 'w', 'ow', 'dow', 'wx']
+greedy output: qdowqdowxw 1.42857142857
+136. nbtyhkl
+['b', 'btyhkl', 'h', 'k', 'yhkl', 'nbt', 'nbtyhk', 'hk', 'tyhkl', 'nb']
+greedy output: bhknbtyhkl 1.42857142857
+137. gldciww
+['ldc', 'c', 'd', 'gldci', 'gld', 'dc', 'iw', 'l', 'ww', 'ld', 'w']
+greedy output: dgldciwwldc 1.57142857143
+138. cmrjyfe
+['f', 'j', 'rjy', 'yf', 'jyf', 'mrjyf', 'cmrjyfe', 'jyfe', 'cmrjyf', 'cmr', 'fe']
+greedy output: jrjymrjyfcmrjyfe 2.28571428571
+139. ntjzjym
+['ntjzjy', 'tjzjym', 'jz', 'jym', 'j', 'jzjy', 'ntjzj', 'zjy', 'y', 'z', 'zjym']
+greedy output: jzjyntjzjymz 1.71428571429
+140. lszagsc
+['zagsc', 'g', 'sz', 'zag', 'sc', 's', 'lsza', 'lszagsc']
+greedy output: szaglszagsc 1.57142857143
+141. kadvqka
+['ka', 'd', 'advqk', 'qka', 'dvqk', 'dvqka', 'v', 'qk', 'advq', 'k', 'ad']
+greedy output: dvqkadvqka 1.42857142857
+142. tejjrfg
+['jrf', 'tej', 'f', 'jjrf', 'ejjrfg', 'jr', 'rf', 'r', 'jj', 'fg', 'ejjr']
+greedy output: tejjrfgjrjjrf 1.85714285714
+143. cmrtmpd
+['rt', 'cmrtm', 'mrtmp', 'p', 'rtmpd', 'mp', 'pd', 'cmr', 'mrtmpd', 'rtmp']
+greedy output: rtmpcmrtmpd 1.57142857143
+144. ouiomvt
+['iomv', 'mvt', 'omvt', 'uiomv', 'o', 'iom', 'vt', 'omv', 'io', 'v', 'iomvt']
+greedy output: uiomvtoiomv 1.57142857143
+145. bksnsqs
+['qs', 'ns', 'bks', 'bk', 'q', 'n', 'sn', 'snsq', 'ksn', 'ksns']
+greedy output: bksnsqsnsqn 1.57142857143
+146. ovfqygv
+['g', 'vf', 'f', 'vfqyg', 'yg', 'q', 'ygv', 'fqygv', 'qyg', 'vfq']
+greedy output: vfqygvfqyg 1.42857142857
+147. suoowig
+['ig', 'uoowig', 'w', 'i', 'suoo', 'oowig', 'su', 'uo', 'o', 'owig', 'ow', 'oowi']
+greedy output: suoowiguowoowi 2.0
+148. vqschrc
+['ch', 'schr', 'sch', 'hr', 'vqs', 's', 'r', 'qschr', 'rc', 'qsch']
+greedy output: vqschrcsch 1.42857142857
+149. vrrpjeb
+['rpjeb', 'vrr', 'rp', 'pjeb', 'j', 'vrrpj', 'eb', 'jeb', 'je', 'rrpjeb', 'rrp']
+greedy output: vrrpjebjerrp 1.71428571429
+150. ptlbeix
+['b', 'lb', 'ptlbei', 'i', 'eix', 'tlbeix', 'p', 'lbe', 't', 'lbeix', 'beix', 'e']
+greedy output: blbeiptlbeixt 1.85714285714
+151. imcrfvv
+['c', 'fvv', 'fv', 'imcrfvv', 'v', 'm', 'r', 'vv', 'crfv', 'mcrf', 'cr']
+greedy output: crimcrfvvmcrfv 2.0
+152. vkdfqlh
+['fqlh', 'fql', 'f', 'kd', 'dfq', 'lh', 'qlh', 'kdfql', 'kdfqlh', 'ql', 'vkdf']
+greedy output: fkdfqlvkdfqlh 1.85714285714
+153. gsjndbp
+['gsjn', 'b', 'gs', 'sjnd', 'ndb', 'n', 'sj', 'bp', 'sjndbp', 'gsjndbp', 'jndb', 'gsj', 'd']
+greedy output: gsjndbpnsjndbd 2.0
+154. jqvhyyk
+['yy', 'vhy', 'vh', 'jqvhyy', 'jq', 'q', 'y', 'v', 'jqv', 'hyy']
+greedy output: jqvhyyqvhy 1.42857142857
+155. mxnljjq
+['ljj', 'xn', 'nljj', 'j', 'm', 'mxn', 'mxnl', 'nlj', 'xnljj']
+greedy output: xnljmxnljj 1.42857142857
+156. lnycdey
+['dey', 'lny', 'd', 'ln', 'l', 'cd', 'ey', 'y', 'nyc', 'lnycdey', 'e']
+greedy output: lnycdeynycde 1.71428571429
+157. qnnxdub
+['qnnxdu', 'nn', 'nxdu', 'dub', 'xd', 'nx', 'nxd', 'xdu', 'nnxdub', 'du', 'nnxd', 'ub']
+greedy output: qnnxdubnnxdunxd 2.14285714286
+158. eymspzs
+['eymspz', 'ym', 'pz', 'm', 'pzs', 'msp', 'spzs', 'e', 'z', 'zs']
+greedy output: ymspzeymspzs 1.71428571429
+159. vshayfa
+['a', 'yfa', 'f', 'shay', 'vshay', 'fa', 'vshayfa', 's', 'sh', 'hayf', 'v']
+greedy output: shayfvshayfa 1.71428571429
+160. myrvukm
+['rv', 'vukm', 'yrvu', 'k', 'myr', 'yrvukm', 'km', 'u', 'uk', 'yr']
+greedy output: myrvukmukyrv 1.71428571429
+161. qsdmnag
+['a', 'nag', 'qsd', 'm', 'mnag', 'dmnag', 's', 'mna', 'qsdm']
+greedy output: qsdmnagmnas 1.57142857143
+162. wbfzxrr
+['fzxrr', 'bf', 'zxrr', 'f', 'fz', 'bfzx', 'r', 'fzxr', 'xr', 'zxr', 'xrr']
+greedy output: bfzxrrfzxr 1.42857142857
+163. ztqdrfx
+['tqd', 'qdrf', 'fx', 'rfx', 'drfx', 'rf', 'r', 'qdrfx', 'qd', 'ztqdrfx', 'z', 'ztqd', 'drf']
+greedy output: tqdrfrqdztqdrfx 2.14285714286
+164. irbenqw
+['irben', 'e', 'nqw', 'qw', 'irbenqw', 'n', 'q', 'r', 'rb']
+greedy output: irbenqwenqrb 1.71428571429
+165. dscvdzx
+['vd', 'dscv', 'vdz', 'dscvdzx', 'zx', 'cvdz', 'vdzx', 'dzx', 'z', 'dscvdz', 'dsc']
+greedy output: vdscvdzxcvdz 1.71428571429
+166. jfhmsom
+['fhm', 'fhmso', 'hmsom', 'som', 'msom', 's', 'so', 'ms', 'h', 'fh', 'fhms']
+greedy output: hfhmsomso 1.28571428571
+167. ihwpgzz
+['pgzz', 'w', 'g', 'ihwpgz', 'ihwpg', 'hwpgz', 'hwpg', 'wpgz', 'wp', 'zz']
+greedy output: wpihwpgzzhwpg 1.85714285714
+168. oaohxrg
+['hx', 'xrg', 'oaoh', 'hxr', 'r', 'aohxrg', 'rg', 'ohxr', 'xr', 'ohx', 'hxrg']
+greedy output: hxoaohxrgohxr 1.85714285714
+169. cpkxqlc
+['kxqlc', 'cpkxql', 'cpk', 'kxql', 'l', 'p', 'pk', 'x', 'kx', 'cpkx', 'qlc']
+greedy output: cpkxqlcpkxqlx 1.85714285714
+170. lcopguy
+['opgu', 'copgu', 'uy', 'g', 'pguy', 'p', 'pgu', 'u', 'opguy', 'lcopguy', 'copguy']
+greedy output: copgugplcopguy 2.0
+171. pwonkov
+['nk', 'pwonko', 'k', 'ko', 'onko', 'o', 'nko', 'pwonk', 'ov', 'pwo', 'pwonkov', 'kov']
+greedy output: nkonkopwonkov 1.85714285714
+172. sjmirwd
+['wd', 'i', 'sjmi', 'sjmir', 'ir', 'irw', 'jmirwd', 'sj', 's', 'jmi', 'w', 'mirwd']
+greedy output: sjmirwdjmirw 1.71428571429
+173. plsuzgy
+['g', 'uz', 'uzg', 'gy', 's', 'lsuzgy', 'ls', 'suzg', 'lsuz', 'pl', 'plsuz']
+greedy output: uzlsuzgplsuzgy 2.0
+174. vyituir
+['ui', 'yituir', 'i', 'ir', 'vyit', 'uir', 'u', 'y', 'ituir', 'tu']
+greedy output: vyituirytui 1.57142857143
+175. gfaqmzv
+['faqmz', 'aq', 'qmz', 'f', 'gfaqmz', 'q', 'qmzv', 'aqm', 'gfa', 'qm']
+greedy output: aqmfqgfaqmzv 1.71428571429
+176. onowntl
+['nown', 'wn', 'onowntl', 'n', 'ownt', 'tl', 'o', 'w', 't', 'ow', 'nt', 'owntl']
+greedy output: nonowntlownownt 2.14285714286
+177. usttqjt
+['qj', 'sttqjt', 'jt', 'j', 'sttq', 's', 'u', 't', 'usttqj', 'ttqj']
+greedy output: sttqjusttqjt 1.71428571429
+178. haocsqo
+['a', 'c', 'hao', 'haocsqo', 'sq', 'haoc', 'oc', 'aocs', 'ocsq', 'csqo', 'ocs', 'csq', 'qo']
+greedy output: aocsqchaocsqocs 2.14285714286
+179. pcutgve
+['utgv', 'cut', 'tgv', 'ut', 'gve', 'cutg', 'pcut', 't', 'v']
+greedy output: utpcutgvev 1.42857142857
+180. iccxpel
+['ccxpel', 'ccxp', 'cc', 'xpe', 'pel', 'cx', 'pe', 'x', 'ic', 'iccx']
+greedy output: ccxpexiccxpel 1.85714285714
+181. wdbbyok
+['b', 'yok', 'wdbb', 'yo', 'db', 'o', 'bby', 'ok', 'bbyok', 'wdbby']
+greedy output: wdbbyokyodb 1.57142857143
+182. xqemqqe
+['qq', 'qqe', 'xqem', 'e', 'm', 'xqe', 'q', 'mq', 'qe', 'emqqe']
+greedy output: mqqxqemqqe 1.42857142857
+183. vgcoiqg
+['c', 'vg', 'coiqg', 'gco', 'vgc', 'q', 'qg', 'v', 'coi', 'vgcoiq']
+greedy output: cqvgcoiqgcoi 1.71428571429
+184. najxbqh
+['a', 'b', 'aj', 'bqh', 'n', 'q', 'najxbqh', 'jxb', 'ajxbq', 'bq']
+greedy output: ajxbqnajxbqhjxb 2.14285714286
+185. veozwtj
+['eo', 'ozw', 'veozwt', 'tj', 't', 'w', 'wtj', 'zw', 'eozwt', 'oz']
+greedy output: eozwveozwtjt 1.71428571429
+186. xilyetr
+['etr', 'xi', 'e', 'lyetr', 'xilyetr', 'xil', 'tr', 'i', 't', 'lye', 'x']
+greedy output: itlyexilyetr 1.71428571429
+187. wvmwxqd
+['wxqd', 'xqd', 'm', 'vm', 'q', 'mw', 'vmwxq', 'v', 'x', 'xq', 'wvmwx']
+greedy output: vmwvmwxqdxq 1.57142857143
+188. rnrzbje
+['bje', 'b', 'bj', 'n', 'nrz', 'r', 'rz', 'je', 'rnr', 'z']
+greedy output: bjenrnrz 1.14285714286
+189. oqjtnhn
+['nh', 'oqjt', 'j', 'tnhn', 'qjtnh', 'qjtn', 'hn', 'qjt', 'tnh']
+greedy output: oqjtnhnjqjtnh 1.85714285714
+190. oskvvfg
+['skv', 'vf', 'f', 'vfg', 'skvvfg', 'kvv', 's', 'kv', 'vv', 'v', 'kvvfg']
+greedy output: skvvfgkvvfv 1.57142857143
+191. igpsrwt
+['gpsrw', 'gpsr', 'rw', 'igp', 'i', 'sr', 'p', 'wt', 'igps', 'igpsrw', 'gpsrwt', 'ig']
+greedy output: gpsrwigpsrwtp 1.85714285714
+192. xcxhzeq
+['cxhze', 'xcxhzeq', 'xc', 'xhze', 'zeq', 'cx', 'xhzeq', 'cxh', 'x', 'cxhzeq', 'eq']
+greedy output: cxhzexcxhzeq 1.71428571429
+193. artnhnq
+['a', 'nh', 'art', 'h', 'nhn', 'nhnq', 'n', 'hnq', 'rtnh', 't', 'nq', 'artnhnq', 'tnh']
+greedy output: artnhnqhrtnhnt 2.0
+194. syokqrd
+['yokq', 'rd', 'qr', 'qrd', 'yo', 'k', 'q', 'kq', 'r', 'okq', 'ok']
+greedy output: yokqrdqrok 1.42857142857
+195. byqgjmw
+['g', 'byqg', 'yqg', 'jmw', 'q', 'mw', 'gjm', 'yqgj', 'qg', 'yq', 'qgj']
+greedy output: byqgjmwyqg 1.42857142857
+196. rymhnzh
+['zh', 'z', 'ym', 'ry', 'n', 'hnz', 'rymhn', 'mhnzh', 'y', 'ymhn', 'nzh']
+greedy output: rymhnzhnznym 1.71428571429
+197. giaiglt
+['giaigl', 'g', 'ai', 'l', 'lt', 'iglt', 'giaiglt', 'igl', 'ig']
+greedy output: giaigltaigl 1.57142857143
+198. sdqqyir
+['yi', 'qq', 'i', 'dqqy', 'yir', 'qqy', 'sdqqyir']
+greedy output: qqdqqyisdqqyir 2.0
+199. lhhuytx
+['lhhuytx', 'uyt', 'h', 'huyt', 'lhhuyt', 'uytx', 'lhhuy', 'hh', 'hhuyt', 'u', 'lhhu', 'lhh', 'huy']
+greedy output: hhuytulhhuytxhuy 2.28571428571
+200. axygzov
+['zo', 'ygzov', 'yg', 'xy', 'gzov', 'o', 'y', 'ov', 'z', 'axygzo', 'axyg']
+greedy output: xygyzoaxygzov 1.85714285714
+201. yxdephv
+['dep', 'xdephv', 'dephv', 'de', 'hv', 'deph', 'phv', 'p', 'ph', 'ep', 'yxd']
+greedy output: dephepyxdephv 1.85714285714
+202. eudzjqa
+['q', 'eudzj', 'e', 'zj', 'jqa', 'j', 'jq', 'eudzjqa', 'qa', 'zjqa', 'z']
+greedy output: eudzjqazjq 1.42857142857
+203. imtoqgt
+['imtoqg', 'g', 'i', 'qgt', 'o', 'to', 'mto', 'qg', 'imtoqgt', 'imt']
+greedy output: imtoqgtmtoqg 1.71428571429
+204. zhwpvtk
+['zh', 'pvt', 'h', 'vtk', 'wpvt', 'hwpvt', 'vt', 'tk', 'w', 'v', 'pv', 'wpv']
+greedy output: zhwpvtkwpvtv 1.71428571429
+205. rxhesli
+['hesl', 'xhe', 'hes', 'h', 'xhesli', 'l', 'li', 'r', 'rxhesl', 'e', 'es', 'he']
+greedy output: xheslhesrxhesli 2.14285714286
+206. wtftsli
+['tsl', 'l', 'li', 's', 'sli', 'wtf', 'fts', 'wtftsl', 'tftsli', 't']
+greedy output: swtftsliftslt 1.85714285714
+207. ykwcnfb
+['yk', 'cn', 'f', 'k', 'n', 'fb', 'wcnf', 'ykwcn', 'cnfb']
+greedy output: ykwcnfbcnfk 1.57142857143
+208. aboktdp
+['d', 'aboktd', 'k', 'boktd', 'oktd', 'kt', 'ktd', 'aboktdp', 'tdp', 'dp', 'ktdp']
+greedy output: aboktdpktboktd 2.0
+209. reocssb
+['c', 'reocss', 'ss', 'reo', 's', 'eocssb', 'reocs', 'eocss', 'sb', 'css', 'ssb']
+greedy output: creocssbeocss 1.85714285714
+210. rokqyzi
+['r', 'kqy', 'kqyzi', 'o', 'rokqy', 'q', 'yz', 'y', 'yzi', 'z']
+greedy output: rokqyzioqyz 1.57142857143
+211. qbjmkkh
+['kk', 'k', 'j', 'qbjmkkh', 'jmk', 'bjmk', 'kkh', 'qbjmk', 'bjmkk']
+greedy output: jmkbjmkkqbjmkkh 2.14285714286
+212. izyonqp
+['qp', 'nqp', 'zyonq', 'on', 'i', 'n', 'izyonq', 'yonq', 'zyon', 'zy', 'nq']
+greedy output: izyonqpzyonq 1.71428571429
+213. owqwszf
+['sz', 'wqwszf', 'w', 'qws', 'szf', 'owqw', 'q', 'o', 'wqws', 'owqwsz', 'owq']
+greedy output: wqwszqowqwszf 1.85714285714
+214. iqhrras
+['a', 'qhr', 'hr', 'rra', 'i', 'as', 'r', 'ra']
+greedy output: qhrrasir 1.14285714286
+215. ahpflck
+['ck', 'c', 'hpflc', 'lc', 'f', 'h', 'l', 'pflc', 'ahpf', 'ahpflck', 'pflck', 'fl']
+greedy output: flhpflcahpflck 2.0
+216. djsidey
+['d', 'de', 'jsi', 'side', 's', 'ey', 'idey', 'sid', 'ide', 'id']
+greedy output: djsideyside 1.57142857143
+217. xuzocik
+['c', 'uzo', 'uzoc', 'i', 'xuzo', 'oc', 'zoci', 'ik', 'xuzoci', 'x', 'z', 'xuzoc']
+greedy output: uzocxuzocikz 1.71428571429
+218. anslchx
+['nslchx', 'c', 'ch', 'h', 'l', 'slch', 's', 'ansl', 'anslch', 'chx', 'ns', 'lch']
+greedy output: clanslchxnslch 2.0
+219. unylflu
+['lf', 'ny', 'f', 'lfl', 'flu', 'l', 'n', 'ylfl', 'u', 'unylfl', 'nylf']
+greedy output: lnylfunylflu 1.71428571429
+220. xtthcgr
+['c', 'cgr', 'gr', 'g', 'cg', 'tth', 'thcg', 'thcgr', 'tthcg', 'thc', 'xt']
+greedy output: thcgxtthcgr 1.57142857143
+221. wxdgkwi
+['wxdgkw', 'g', 'k', 'dgkw', 'gkw', 'kw', 'wi', 'w', 'xdgkw', 'wxdg', 'gkwi', 'wx']
+greedy output: gkwxdgkwi 1.28571428571
+222. nzpgcmd
+['c', 'cm', 'g', 'zpgcmd', 'm', 'gcmd', 'zpgc', 'p', 'nz']
+greedy output: cmgpnzpgcmd 1.57142857143
+223. jwrvrpd
+['jwrvr', 'rvrp', 'jw', 'jwrvrpd', 'wrv', 'p', 'r', 'rpd', 'pd', 'v', 'wr']
+greedy output: jwrvrpdrvwrvrp 2.0
+224. wkaknao
+['a', 'kakna', 'ak', 'wkakn', 'kn', 'wkak', 'kna', 'ao', 'na', 'nao', 'k', 'akn']
+greedy output: aknwkaknaok 1.57142857143
+225. ctmvilu
+['ctmvi', 'vilu', 'vi', 'v', 'lu', 'il', 'mvilu', 'ctm', 'mvi', 'tmvil']
+greedy output: vctmvilumvil 1.71428571429
+226. hqyvnpa
+['hqyvn', 'p', 'qy', 'npa', 'hqyvnp', 'n', 'y', 'pa', 'yvnpa', 'np', 'yvnp', 'yv']
+greedy output: hqyvnpaqyvnpn 1.85714285714
+227. jsidurv
+['rv', 'd', 'i', 'idu', 'sidur', 's', 'idur', 'js', 'si', 'r', 'dur', 'id']
+greedy output: didujsidurvr 1.71428571429
+228. eslcuen
+['eslcuen', 'lcu', 'lcuen', 'c', 'l', 'uen', 'en', 'ue', 'cuen', 'slcuen', 'esl']
+greedy output: clcueslcuen 1.57142857143
+229. zlcyhmc
+['cyhm', 'lc', 'lcyh', 'h', 'yhmc', 'm', 'zlcy', 'y', 'cyh', 'lcyhmc', 'hmc']
+greedy output: lcyhmhzlcyhmcy 2.0
+230. ozmwhmh
+['mwhm', 'ozmwhmh', 'ozmw', 'm', 'mh', 'o', 'oz', 'w', 'h', 'zmw']
+greedy output: ozmwhmhwzmwhm 1.85714285714
+231. jdrjrgk
+['jrg', 'drjr', 'g', 'drjrgk', 'jr', 'r', 'rg', 'rgk', 'gk', 'rj']
+greedy output: drjrgkrjrg 1.42857142857
+232. dxlhdij
+['d', 'dij', 'xlh', 'i', 'h', 'dxlhdij', 'di', 'ij', 'hdi']
+greedy output: dxlhdijxlhdi 1.71428571429
+233. aiozlqa
+['zl', 'ioz', 'i', 'ozl', 'l', 'ozlq', 'q', 'aiozlq', 'zlq', 'iozlq', 'iozl', 'z', 'oz']
+greedy output: iozlaiozlqoz 1.71428571429
+234. rceiicc
+['c', 'rcei', 'cc', 'ceii', 'ce', 'eiicc', 'rceiic', 'iic', 'rceii', 'ic']
+greedy output: rceiicceiic 1.57142857143
+235. hpkycpa
+['c', 'kyc', 'cpa', 'k', 'ycp', 'p', 'pa', 'h', 'cp', 'yc']
+greedy output: kycpahycp 1.28571428571
+236. lneuhff
+['uhf', 'e', 'euh', 'ln', 'h', 'ne', 'n', 'neuhff', 'euhff']
+greedy output: euhflneuhffhn 1.85714285714
+237. nsohabq
+['a', 'ab', 'soh', 'hab', 'oha', 'o', 'n', 'abq', 'nsohabq', 'ha', 'sohabq']
+greedy output: sohabonsohabqha 2.14285714286
+238. mctbokk
+['c', 'ok', 'kk', 'k', 'tbokk', 'bok', 'mctbok', 'bokk']
+greedy output: cbokmctbokk 1.57142857143
+239. nybrltz
+['brlt', 'ltz', 'l', 'n', 'rltz', 'r', 'br', 'nyb', 'nybrlt']
+greedy output: lnybrltzbr 1.42857142857
+240. grkuanl
+['a', 'nl', 'gr', 'g', 'grku', 'n', 'u', 'rkuan']
+greedy output: agrkuanlnu 1.42857142857
+241. hzimrmr
+['mrmr', 'hzim', 'hzi', 'm', 'mrm', 'r', 'rm', 'imrm', 'zimrmr']
+greedy output: hzimrmrimrm 1.57142857143
+242. hrakvjz
+['jz', 'ak', 'j', 'hrakvj', 'kvjz', 'rakv', 'k', 'r', 'hra', 'vj', 'akvjz']
+greedy output: akrakvjhrakvjz 2.0
+243. vpejqth
+['vpejqth', 'e', 'j', 'jq', 'q', 't', 'th', 'v', 'jqt', 'qth']
+greedy output: ejqtqvpejqth 1.71428571429
+244. vtynuda
+['tyn', 'd', 'yn', 'da', 'n', 'tynu', 'vt', 'tynuda', 'vty', 'ynu', 'vtynud', 'vtyn']
+greedy output: tynudynvtynuda 2.0
+245. zgjffyg
+['fyg', 'ffy', 'f', 'fy', 'zgjffyg', 'gjff', 'gjffyg', 'ff', 'y', 'gjffy', 'jffyg']
+greedy output: ffzgjffygjffy 1.85714285714
+246. aohzzdf
+['a', 'ohzzdf', 'aohzz', 'oh', 'df', 'ao', 'd', 'hz', 'zd', 'ohzzd', 'zz', 'aohz', 'hzz']
+greedy output: aohzzdfohzzd 1.71428571429
+247. oeayhwn
+['hwn', 'eayhw', 'ayh', 'wn', 'oe', 'oeayhw', 'hw', 'w', 'h', 'y', 'oeayh', 'yhw']
+greedy output: ayhwoeayhwnhy 1.85714285714
+248. povaxvz
+['a', 'xvz', 'pov', 'axvz', 'o', 'ovaxvz', 'x', 'xv', 'po']
+greedy output: aoxvpovaxvz 1.57142857143
+249. uvpfyfu
+['uv', 'fyf', 'yfu', 'uvp', 'uvpfy', 'f', 'pfy', 'uvpf', 'pf', 'v', 'vpfyf']
+greedy output: uvpfyfufpfyv 1.71428571429
+250. fjggoqb
+['fjggoqb', 'g', 'ggoqb', 'fjg', 'o', 'jggo', 'q', 'fjggo', 'oqb', 'oq']
+greedy output: gfjggoqbjggoq 1.85714285714
+251. reagkmm
+['agkmm', 'reagk', 'agk', 'mm', 'k', 'ea', 'km', 're', 'r', 'reagkm', 'gk', 'kmm']
+greedy output: eagkmreagkmm 1.71428571429
+252. wqwgvnr
+['wqwgv', 'gvn', 'w', 'g', 'qwgvn', 'wqwgvnr', 'qwgvnr', 'vn', 'v', 'vnr']
+greedy output: wqwgvnrgqwgvnv 2.0
+253. xdcmzci
+['c', 'dcmzc', 'm', 'zci', 'dcmzci', 'cmz', 'xdcmz', 'z', 'dcmz', 'mz']
+greedy output: cmxdcmzcidcmz 1.85714285714
+254. gaadgeb
+['aa', 'aadge', 'e', 'g', 'adg', 'eb', 'geb', 'ge', 'aadgeb', 'gaadgeb', 'gaadge', 'adgeb']
+greedy output: aadgeadgaadgeb 2.0
+255. aikrtvk
+['ikr', 'aikrtvk', 'vk', 'r', 'krtv', 'tvk', 'v', 'krtvk', 'rtvk']
+greedy output: ikrtvaikrtvkr 1.85714285714
+256. iscbwkg
+['b', 'kg', 'iscbwk', 'k', 'iscbw', 'w']
+greedy output: biscbwkgw 1.28571428571
+257. ogyfsur
+['gyf', 'ur', 'f', 'yfsur', 'yf', 'gyfs', 's', 'fs', 'u', 'ogyf', 'fsur', 'ogyfs']
+greedy output: gyfsuogyfsur 1.71428571429
+258. edkvkie
+['dkv', 'dk', 'i', 'ed', 'k', 'v', 'ki', 'edk', 'edkvki', 'kvkie', 'ie', 'dkvki']
+greedy output: dkvedkvkieki 1.71428571429
+259. elakpid
+['el', 'ela', 'akp', 'pid', 'p', 'kp', 'elakpi', 'kpi', 'id']
+greedy output: elakpidakp 1.42857142857
+260. whorpts
+['who', 'rp', 'rpt', 'p', 'whorp', 'o', 'horp', 'hor', 't', 'ho', 'orpt', 'pts', 'rpts']
+greedy output: whorptsothorp 1.85714285714
+261. onytfoy
+['onyt', 'o', 'n', 'nyt', 'oy', 'onytfo', 'y', 'nytfoy', 'yt', 'tfoy', 'fo']
+greedy output: nytfonytfoy 1.57142857143
+262. fimhjtt
+['hj', 'mhj', 'f', 'jt', 'h', 'tt', 'mh', 'imhj', 'hjt', 't', 'imh']
+greedy output: fmhimhjtt 1.28571428571
+263. phsyhtl
+['yh', 'sy', 'syh', 'h', 'htl', 's', 'syhtl', 'hsyht', 'tl', 'hsyhtl', 'yht', 'yhtl']
+greedy output: hsyhtlsyht 1.42857142857
+264. xyiiqqa
+['yiiqq', 'ii', 'iiq', 'iiqq', 'i', 'qa', 'q', 'iq', 'xy', 'yi', 'xyiiqq']
+greedy output: xyiiqqyiiqa 1.57142857143
+265. dqczdhq
+['qczdh', 'd', 'dqczdhq', 'czdhq', 'hq', 'zdhq', 'dqczdh', 'zd', 'qcz', 'z', 'dhq', 'dq']
+greedy output: zdqczdhqczdh 1.71428571429
+266. iyztnaj
+['iy', 'a', 'aj', 'iyzt', 'naj', 'na', 'tnaj', 'ztnaj', 'n', 'zt', 'yztna', 'y', 'iyztnaj']
+greedy output: iyztnajnztyztna 2.14285714286
+267. jsrgsug
+['rgs', 'gsu', 'srg', 'j', 's', 'srgsug', 'u', 'ug', 'jsrg', 'srgs']
+greedy output: rgsujsrgsugs 1.71428571429
+268. smvdfwd
+['wd', 'fw', 'smv', 'm', 's', 'mv', 'w', 'v']
+greedy output: fwdmsmvw 1.14285714286
+269. mzghphi
+['phi', 'g', 'h', 'p', 'mzg', 'zghphi', 'ghph', 'gh', 'mzgh', 'mz']
+greedy output: ghphpmzghphi 1.71428571429
+270. abdbkbt
+['b', 'abd', 'dbkb', 'k', 'abdbk', 'abdbkb', 'bk', 'dbkbt', 'kbt', 'd']
+greedy output: bkabdbkbtd 1.42857142857
+271. chphicv
+['c', 'hphicv', 'h', 'icv', 'phicv', 'chph', 'ph', 'cv', 'ic', 'chphi']
+greedy output: phichphicv 1.42857142857
+272. rzgnfng
+['zgnfn', 'g', 'rz', 'gnfn', 'gnf', 'zgnfng', 'rzgnf', 'gn', 'n', 'zgnf', 'fn']
+greedy output: rzgnfngnzgnfn 1.85714285714
+273. zeotqxd
+['otqxd', 'eotq', 'xd', 'otqx', 'x', 'eotqx', 'ot', 'zeot', 'eotqxd']
+greedy output: otqxzeotqxd 1.57142857143
+274. elhcfkp
+['el', 'c', 'elhcf', 'elhc', 'cfk', 'kp', 'hcf', 'fkp', 'lhc', 'fk', 'e']
+greedy output: lhcfkelhcfkp 1.71428571429
+275. nntlssb
+['tls', 'ntlssb', 'l', 'n', 's', 'ntl', 'sb', 'nntlssb', 'tlss', 'ssb']
+greedy output: lntlssnntlssb 1.85714285714
+276. jszwugq
+['gq', 'j', 'szwug', 'wug', 'w', 'u', 'ugq', 'zw', 'szw', 'jszwugq']
+greedy output: jszwugquzwszwug 2.14285714286
+277. slpggvt
+['pggvt', 'gv', 'g', 'pgg', 'lpggvt', 'gg', 'vt', 'pggv', 'gvt']
+greedy output: ggpggvlpggvt 1.71428571429
+278. zqyroga
+['roga', 'ro', 'g', 'yro', 'og', 'zqyroga', 'qyro', 'o', 'qyr', 'y', 'yr']
+greedy output: zqyrogaqyrogyr 2.0
+279. pjlrynk
+['ryn', 'nk', 'yn', 'ry', 'n', 'jl', 'jlry', 'lr', 'pj']
+greedy output: lrpjlrynk 1.28571428571
+280. uuttqll
+['uttql', 'uut', 'l', 'q', 'qll', 'ttql', 'u', 't', 'ut', 'ql']
+greedy output: qluuttqllut 1.57142857143
+281. gkxgzzb
+['kx', 'kxgzzb', 'zz', 'g', 'zb', 'kxg', 'xgz', 'gkxgzzb', 'z', 'zzb']
+greedy output: kxgzzgkxgzzb 1.71428571429
+282. leloecr
+['loec', 'el', 'le', 'loe', 'oecr', 'lel', 'l', 'ec', 'ecr', 'cr', 'loecr']
+greedy output: leloecrec 1.28571428571
+283. laelflz
+['lf', 'lflz', 'el', 'fl', 'l', 'aelflz', 'lael', 'lz']
+greedy output: elflaelflz 1.42857142857
+284. fclixzc
+['fcli', 'cli', 'cl', 'zc', 'li', 'xz', 'x', 'z']
+greedy output: fclixzclz 1.28571428571
+285. sgckygp
+['ck', 'sgck', 'g', 'k', 'kyg', 'yg', 'kygp', 'sgc', 'ckygp', 'sgcky', 'sgckyg', 'ckyg']
+greedy output: ckygksgckygp 1.71428571429
+286. pnsxivs
+['pnsxiv', 'pnsxi', 'nsxivs', 'xivs', 'sxivs', 'iv', 'nsx', 'p', 'nsxi', 'pnsxivs', 'x']
+greedy output: nsxivpnsxivsx 1.85714285714
+287. kvlsgek
+['e', 'ek', 'kvls', 'vl', 'ge', 'l', 'sgek', 'ls', 'gek', 'kvlsge']
+greedy output: kvlsgekvlsge 1.71428571429
+288. uwlrpxi
+['xi', 'wlrpxi', 'lrpxi', 'px', 'uwlrpxi', 'l', 'p', 'u', 'x', 'wlrpx', 'lrpx']
+greedy output: lpuwlrpxiwlrpx 2.0
+289. bxppexw
+['pp', 'b', 'pex', 'bxp', 'xppexw', 'p', 'bxppex', 'ppexw', 'x', 'xp', 'xw']
+greedy output: ppexpbxppexw 1.71428571429
+290. qeyxrzz
+['xrzz', 'zz', 'rz', 'yx', 'r', 'qe', 'eyxrzz', 'eyxr', 'ey', 'rzz', 'yxrz']
+greedy output: yxrzrqeyxrzz 1.71428571429
+291. jimklfc
+['lfc', 'f', 'imk', 'm', 'l', 'mk', 'kl', 'fc', 'jimk', 'jimklf']
+greedy output: fimklmjimklfc 1.85714285714
+292. kbpreyz
+['bpr', 'k', 'bpreyz', 'preyz', 'r', 'prey', 'kbprey', 'y', 'bp', 'eyz']
+greedy output: kbpreyzrbprey 1.85714285714
+293. sqwlbea
+['lbea', 'sqwlbe', 'lb', 'qwlb', 'qwlbe', 'sqw', 'wlbea', 'w', 'sqwlb', 'wlb']
+greedy output: qwlbsqwlbeaw 1.71428571429
+294. awtjsjh
+['awtjsjh', 'awt', 'tjsjh', 'wtjsj', 'jsjh', 'jsj', 'j', 'tj', 'jh']
+greedy output: awtjsjhwtjsjtj 2.0
+295. aymjztv
+['ztv', 'ym', 'aymj', 'z', 'm', 'zt', 'y', 'mjztv', 'ymj']
+greedy output: aymjztvztym 1.57142857143
+296. pyghpri
+['pr', 'ghp', 'hpr', 'py', 'pri', 'ygh', 'p', 'pyghpr', 'ri']
+greedy output: yghpyghprip 1.57142857143
+297. dleqcfc
+['eqcfc', 'le', 'eqcf', 'dleqc', 'leqcfc', 'cf', 'cfc', 'qc', 'fc', 'qcf', 'eq']
+greedy output: leqcfdleqcfcqc 2.0
+298. mtqroqv
+['oqv', 'qr', 'qv', 'mtq', 'o', 'q', 'qroq', 'ro']
+greedy output: mtqroqvqro 1.42857142857
+299. uwoqkwl
+['uwoq', 'woqk', 'oqk', 'k', 'woq', 'oqkw', 'q', 'uwoqk', 'u', 'qk', 'qkw', 'oq']
+greedy output: uwoqkwoqk 1.28571428571
+300. ozlflzq
+['flz', 'lzq', 'ozlflz', 'o', 'l', 'oz', 'ozlf', 'zq']
+greedy output: ozlflzql 1.14285714286
+301. cumpzcl
+['c', 'cl', 'pz', 'zc', 'mpzcl', 'cu', 'mpzc', 'mpz', 'umpzc', 'cump']
+greedy output: mpzcumpzcl 1.42857142857
+302. ciuulho
+['iuulho', 'ci', 'i', 'h', 'lh', 'uul', 'ho', 'ciu', 'ulho', 'uulh', 'iuu', 'iuul']
+greedy output: ciuulhoiuulh 1.71428571429
+303. dkmuzof
+['uzo', 'd', 'zof', 'of', 'o', 'muzo', 'kmu', 'zo', 'dkmuzo', 'dk']
+greedy output: dkmuzofokmu 1.57142857143
+304. hvvqanf
+['a', 'vqan', 'qanf', 'nf', 'an', 'q', 'n', 'vvqanf', 'vv', 'qan']
+greedy output: avqanqvvqanf 1.71428571429
+305. kometje
+['komet', 'ome', 'k', 'j', 'ko', 'o', 'etje', 'ometje', 'tj', 't', 'je', 'metje']
+greedy output: kometjeometj 1.71428571429
+306. vlkzjvg
+['vlk', 'zj', 'vg', 'jv', 'v', 'zjvg', 'kzjvg', 'kzj', 'z', 'vlkz', 'vlkzjvg']
+greedy output: vkzjvlkzjvgz 1.71428571429
+307. stgxdsg
+['tgxds', 'xdsg', 'stgxd', 'tgxdsg', 'st', 'stgxds', 's', 'xds', 'x', 'ds']
+greedy output: xdstgxdsg 1.28571428571
+308. vlvvzhu
+['lvvzh', 'zhu', 'vvz', 'h', 'hu', 'vzhu', 'v', 'vlvvzh', 'vz', 'vvzh']
+greedy output: hvvzvlvvzhu 1.57142857143
+309. naggwqg
+['wq', 'gw', 'w', 'g', 'naggw', 'n', 'gwqg', 'ag', 'gwq', 'a', 'ggwq', 'wqg', 'q']
+greedy output: wnaggwqgwqag 1.71428571429
+310. lbgpwgm
+['wg', 'b', 'lb', 'gpwgm', 'g', 'pwg', 'bgpwgm', 'lbgpwg', 'bgp', 'lbgpwgm', 'bg']
+greedy output: bgpwglbgpwgm 1.71428571429
+311. zcyhltc
+['l', 'zcyhltc', 'cyhltc', 'tc', 'cy', 'yhltc', 'y', 'z', 'zcyhlt', 'zcy', 'zcyhl']
+greedy output: lzcyhltcy 1.28571428571
+312. lbermoa
+['b', 'ermoa', 'l', 'o', 'oa', 'rm', 'moa', 'bermo', 'rmoa']
+greedy output: bermoalorm 1.42857142857
+313. mkmjqla
+['la', 'mjql', 'mkmjq', 'm', 'l', 'mk', 'kmj', 'q', 'mjqla', 'kmjql', 'k']
+greedy output: mkmjqlalqkmj 1.71428571429
+314. xsmjmyt
+['jmy', 'mjmyt', 'xsmjmyt', 'm', 'myt', 'jmyt', 'y', 'my', 'yt', 'xsm']
+greedy output: jmymxsmjmyt 1.57142857143
+315. zshgcmc
+['c', 'cm', 'mc', 'gcm', 'm', 'cmc', 'gc', 'shgcm', 'hg', 'zs']
+greedy output: mhgczshgcmc 1.57142857143
+316. idridkd
+['ridkd', 'ridk', 'd', 'kd', 'k', 'idrid', 'dri', 'dkd', 'drid', 'id']
+greedy output: dridridkdk 1.42857142857
+317. enqlqkb
+['q', 'qkb', 'k', 'lqk', 'l', 'enqlqk', 'enq', 'lq', 'qk', 'qlqkb']
+greedy output: qlqkenqlqkb 1.57142857143
+318. zyiysjs
+['yiysj', 'sj', 'sjs', 'js', 'ysjs', 'yiysjs', 'iys', 'y', 'ys', 'zy']
+greedy output: iyszyiysjsj 1.57142857143
+319. uqxhesm
+['xh', 'hesm', 'hes', 'uqxhes', 'h', 'qxhes', 'qxhesm', 'uqx', 'sm', 'es', 'he']
+greedy output: xhesuqxhesm 1.57142857143
+320. siomxhc
+['xh', 'io', 'omxhc', 'h', 'm', 'siomx', 'o', 'iomx', 'mxh', 'mx']
+greedy output: iomxhsiomxhc 1.71428571429
+321. dcexbxw
+['xbxw', 'b', 'exb', 'xbx', 'exbx', 'dcexbxw', 'cexb', 'x', 'e', 'd']
+greedy output: bcexbxedcexbxw 2.0
+322. cdctcxh
+['ctcx', 'xh', 'tcxh', 'c', 'cx', 'cxh', 'x', 'ct', 'cdctcx']
+greedy output: cxctcdctcxh 1.57142857143
+323. dhipvdq
+['vdq', 'dhipvd', 'ipvd', 'i', 'ip', 'dq', 'pvdq', 'p', 'v', 'dhipvdq', 'hipv', 'hipvdq', 'd']
+greedy output: ipvhipvdhipvdqd 2.14285714286
+324. ktiksvp
+['iks', 'v', 'ktiksv', 'k', 'tiks', 'ks', 'ik', 'svp', 'ti', 'tiksv']
+greedy output: viktiksvptiks 1.85714285714
+325. pgzkhoa
+['zkh', 'h', 'kh', 'o', 'pg', 'pgzkho', 'z', 'pgz', 'zkho', 'ho']
+greedy output: pgzkhozkh 1.28571428571
+326. fccefor
+['cef', 'c', 'for', 'cc', 'cefo', 'fc', 'fccefor', 'or', 'fcc', 'fo']
+greedy output: ccefofccefor 1.71428571429
+327. snqjjtu
+['qjj', 'j', 'jtu', 'jjtu', 'jjt', 'snqjj', 'q', 'jt', 't', 'nqj']
+greedy output: snqjjtuqnqjt 1.71428571429
+328. zsxtkzo
+['xtkz', 'xtk', 'k', 'sx', 'zo', 't', 'tkzo', 'x', 'kz', 'tkz', 'xt']
+greedy output: ksxtkzotkz 1.42857142857
+329. jrrqttf
+['qttf', 'rqt', 'tt', 'q', 'rqtt', 't', 'tf', 'ttf', 'jrr']
+greedy output: ttqjrrqttf 1.42857142857
+330. qgicbwe
+['we', 'cbwe', 'gicbwe', 'g', 'gicbw', 'gicb', 'q', 'bw', 'cbw', 'w', 'qgicbw']
+greedy output: gicbwqgicbwe 1.71428571429
+331. mklcqgw
+['gw', 'klcqgw', 'mklcq', 'klc', 'k', 'lcq', 'cqg', 'klcqg', 'qg', 'klcq']
+greedy output: mklcqgwklcqg 1.71428571429
+332. fjzpdcg
+['c', 'fjzpdcg', 'cg', 'fjzp', 'dc', 'fjz', 'jzpd', 'jzpdc', 'zp', 'zpd']
+greedy output: fjzpdcgjzpdczpd 2.14285714286
+333. ygfolrt
+['rt', 'olrt', 'ygfolr', 'f', 'o', 'y', 'olr', 'r', 'lrt', 'fol']
+greedy output: folroygfolrt 1.71428571429
+334. eebkhbn
+['b', 'e', 'h', 'k', 'bkh', 'ebk', 'hb', 'ebkhbn', 'khb', 'eeb']
+greedy output: bkhbeebkhbnhk 1.85714285714
+335. ruylqwh
+['ru', 'uy', 'qw', 'ruylqwh', 'lqw', 'wh', 'uylqw', 'u', 'w', 'lq']
+greedy output: ruylqwhuylqwlq 2.0
+336. kzevdew
+['vd', 'd', 'evde', 'evd', 'vde', 'vdew', 'v', 'ze', 'ew', 'ev', 'kzevd']
+greedy output: zevdkzevdew 1.57142857143
+337. ifflppg
+['pp', 'f', 'i', 'flp', 'ifflpp', 'lppg', 'lpp', 'p', 'ffl', 'pg', 'lp', 'fflpp']
+greedy output: fflppifflppglp 2.0
+338. ydsknyk
+['ydskny', 'k', 'yd', 'ds', 'n', 'sk', 'ny', 'knyk', 'ydsk', 'ydskn', 'skn', 'sknyk']
+greedy output: dsknydsknyk 1.57142857143
+339. feqeahg
+['qea', 'eah', 'e', 'f', 'ah', 'q', 'qe', 'fe', 'a', 'eq']
+greedy output: feqeaha 1.0
+340. glrwhyx
+['hy', 'whyx', 'h', 'yx', 'hyx', 'lr', 'w', 'glrwhyx', 'lrwhy', 'gl', 'why']
+greedy output: hlrwhywglrwhyx 2.0
+341. nrrzitd
+['zit', 'zi', 'i', 'itd', 'nrrzit', 'n', 't', 'nrr', 'z']
+greedy output: nrrzitdtzi 1.42857142857
+342. vhppszr
+['ps', 'pp', 'sz', 'vh', 'hpps', 'pszr', 'pps', 'p', 's', 'szr', 'z', 'hppsz']
+greedy output: vhppszrppszs 1.71428571429
+343. skrmrym
+['rmr', 'ym', 'krmr', 'm', 'ry', 's', 'skrmrym', 'y', 'rm']
+greedy output: krmryskrmrymrm 2.0
+344. wqtoruu
+['toru', 'qtoru', 'wqt', 'o', 'q', 'r', 'u', 'wq', 'qto']
+greedy output: oqrwqtoru 1.28571428571
+345. kdvjsnr
+['kd', 'vjsn', 'jsnr', 'kdvjsnr', 's', 'snr', 'dvjsn', 'v', 'nr', 'kdv']
+greedy output: kdvjsnrsdvjsnv 2.0
+346. wnxkkuu
+['xkk', 'w', 'uu', 'wn', 'k', 'n', 'kkuu', 'kk', 'wnxkku', 'ku', 'xkku', 'nxkk']
+greedy output: wnxkkuunxkku 1.71428571429
+347. dpejfxq
+['d', 'ej', 'fx', 'j', 'dpe', 'pejfx', 'dpejfx', 'jf', 'xq', 'pejf']
+greedy output: dpejfxqejpejf 1.85714285714
+348. wpvfwml
+['fwm', 'vf', 'ml', 'wpv', 'wp', 'pvfwml', 'p', 'v', 'wpvf', 'wml', 'vfwml']
+greedy output: wpvfwmlpvfwm 1.71428571429
+349. yvwlzwz
+['yvw', 'yvwl', 'yvwlzw', 'l', 'zwz', 'wlzwz', 'zw', 'vw', 'yvwlz', 'wz']
+greedy output: yvwlzwzwlvw 1.57142857143
+350. vrhokaq
+['rhokaq', 'oka', 'ka', 'vrho', 'ok', 'k', 'okaq', 'o', 'aq', 'r', 'v']
+greedy output: kokarvrhokaq 1.71428571429
+351. cfqmovv
+['fq', 'c', 'ovv', 'qmovv', 'mo', 'vv', 'v', 'ov', 'cfqmovv', 'qm', 'cfq']
+greedy output: fqmovcfqmovv 1.71428571429
+352. wjrmvok
+['rmvok', 'o', 'mvok', 'rmv', 'jr', 'vok', 'wjrmv', 'jrmvok', 'v', 'wjrmvok', 'mvo']
+greedy output: jrmvowjrmvokv 1.85714285714
+353. tcvbdqb
+['d', 'tcvbdqb', 'tcvbd', 'cvbdqb', 'vbd', 'cv', 'q', 'tcv', 'qb', 'bdq', 'dqb', 'tc']
+greedy output: dcvbdqtcvbdqb 1.85714285714
+354. vcxbnkk
+['c', 'b', 'vcxbnk', 'bn', 'nkk', 'bnk', 'vcxbn', 'nk', 'bnkk', 'vcx', 'cxbn', 'k']
+greedy output: cxbnkbvcxbnkk 1.85714285714
+355. uffuuum
+['f', 'uuu', 'ffuu', 'uff', 'um', 'uuum', 'u', 'uffu', 'fuuum', 'ffuuu', 'uu']
+greedy output: fuuuffuuum 1.42857142857
+356. nseplqu
+['seplqu', 'qu', 'plq', 'eplq', 'sep', 'lqu', 'l', 'n', 'seplq', 'nseplqu', 'ns', 'se']
+greedy output: lnseplquseplq 1.85714285714
+357. zerpxpk
+['rp', 'px', 'pxp', 'zer', 'p', 'erpxp', 'pxpk', 'erp', 'xp', 'er']
+greedy output: zerpxpkerpxp 1.71428571429
+358. jugxxgb
+['jugxx', 'g', 'xgb', 'jugx', 'gx', 'xx', 'jugxxg', 'xxg', 'gb', 'x', 'ug']
+greedy output: jugxxgbugxx 1.57142857143
+359. scpuqyd
+['c', 'scpuq', 'pu', 'puqyd', 'scpu', 'yd', 'uqy', 'u', 'qyd', 'uqyd', 'cp', 'scp']
+greedy output: cpuqyuscpuqyd 1.85714285714
+360. vjenzoo
+['oo', 'zo', 'e', 'j', 'nz', 'en', 'nzoo', 'v', 'jenz', 'vjenzo', 'nzo']
+greedy output: enjenzovjenzoo 2.0
+361. jzpyiqg
+['yi', 'jzpyi', 'q', 'jzpyiqg', 'zpyiqg', 'qg', 'y', 'iqg', 'zp']
+greedy output: jzpyiqgqyizp 1.71428571429
+362. zhlcgve
+['lcgv', 've', 'g', 'l', 'gve', 'lcg', 'zhlcgve', 'hl', 'v', 'hlc', 'hlcg']
+greedy output: glzhlcgvehlcgv 2.0
+363. rmrhojl
+['rmrh', 'rmrho', 'j', 'hoj', 'jl', 'hojl', 'mrh', 'rho', 'rm', 'ojl', 'oj']
+greedy output: mrhrmrhojloj 1.71428571429
+364. ytgaubr
+['aub', 'b', 'g', 'ytgaub', 'tgaubr', 'tg', 'y', 'ytg', 'gaubr', 'yt', 'ub']
+greedy output: aubtgytgaubr 1.71428571429
+365. aezdcof
+['dco', 'c', 'dcof', 'e', 'ez', 'o', 'aezdc', 'cof', 'co', 'ae', 'zdc', 'aezdcof']
+greedy output: cezdcoaezdcof 1.85714285714
+366. zqgpnvw
+['g', 'gp', 'zqgpnv', 'qgp', 'p', 'qg', 'vw', 'zqgp', 'z', 'pn', 'zq']
+greedy output: gqgpnzqgpnvw 1.71428571429
+367. debdyxc
+['dyx', 'd', 'debdyxc', 'bdyxc', 'eb', 'debdy', 'x', 'y', 'e', 'deb', 'bdy']
+greedy output: debdyxcyebdyx 1.85714285714
+368. bsumsnj
+['b', 'umsn', 'sum', 'm', 'sumsnj', 'n', 'msn', 's', 'sn', 'bsum']
+greedy output: bsumsnjumsnms 1.85714285714
+369. cpcywyr
+['c', 'cyw', 'wyr', 'cpc', 'p', 'cy', 'w', 'y', 'cpcywyr', 'yr', 'wy']
+greedy output: cpcywyrpcywy 1.71428571429
+370. mbpweqf
+['mbpweqf', 'b', 'mbpweq', 'p', 'm', 'q', 'weqf', 'pwe', 'bpwe', 'qf', 'bpweq', 'mbpwe']
+greedy output: bpweqpwembpweqf 2.14285714286
+371. uytvvui
+['uytv', 'vvui', 'tvvui', 'uytvvu', 'u', 'ytvvu', 'vv', 'y', 'ui', 'vui', 'yt', 't']
+greedy output: uytvvuivvyt 1.57142857143
+372. fgsufbh
+['b', 'gs', 'f', 'fg', 'bh', 'fgsuf', 'u', 'ufbh', 'fbh', 'gsufbh']
+greedy output: bgsfgsufbhu 1.57142857143
+373. apmjobv
+['b', 'apmjo', 'mjo', 'ob', 'o', 'mj', 'mjob', 'obv', 'pmjo', 'mjobv', 'pmj']
+greedy output: apmjobvobpmj 1.71428571429
+374. duaoqgk
+['oqgk', 'duaoq', 'uaoq', 'o', 'duaoqgk', 'qgk', 'aoq', 'gk', 'oq']
+greedy output: duaoqgkuaoqo 1.71428571429
+375. hloripz
+['o', 'pz', 'hlori', 'rip', 'ri', 'lor', 'hlorip', 'ripz', 'hlor', 'loripz', 'or']
+greedy output: oloriphloripz 1.85714285714
+376. kzyxtcj
+['cj', 'kzy', 'kzyx', 'xtcj', 'zyxtc', 'yxtcj', 'tcj', 't', 'y', 'xt']
+greedy output: kzyxtcjyxt 1.42857142857
+377. oqhpgkc
+['qhpg', 'qhp', 'k', 'pgk', 'pgkc', 'qhpgkc', 'pg', 'gkc', 'gk', 'hp']
+greedy output: qhpgkchpgk 1.42857142857
+378. jszzcfc
+['jszzc', 'zcf', 'cf', 'js', 'zc', 'fc', 'szzc', 'jszzcfc', 'z', 'szzcfc', 'jsz', 'zzcf']
+greedy output: jszzcfcszzcfzc 2.0
+379. jpdqtud
+['dqt', 'qtud', 'qtu', 'd', 'j', 'jp', 'pdq', 'p', 'jpdqt', 'u', 't', 'ud']
+greedy output: jpdqtudpdqut 1.71428571429
+380. fonqqcr
+['qcr', 'qqc', 'f', 'onqqc', 'n', 'q', 'qc', 'qqcr', 'cr']
+greedy output: fonqqcrnqc 1.42857142857
+381. rzuvlzs
+['rzuv', 'uv', 'zuvlzs', 'vlzs', 'uvlzs', 'uvl', 'v', 'zuvlz', 'uvlz', 'lz', 'zs']
+greedy output: rzuvlzsuvlzv 1.71428571429
+382. fcsjamx
+['csjamx', 'fcs', 'm', 'am', 'fcsj', 'ja', 'amx', 'sjamx', 'csjam', 'mx']
+greedy output: fcsjamxjam 1.42857142857
+383. yrytcki
+['yrytck', 'yryt', 'rytc', 'k', 'cki', 'tc', 'ytc', 'tck', 'rytck', 'ytck', 'ki', 'ytcki']
+greedy output: yrytckirytck 1.71428571429
+384. lisyvht
+['lisyvh', 'v', 'yvht', 'ht', 'isyv', 's', 'syv', 'isyvht', 'yv']
+greedy output: lisyvhtisyvs 1.71428571429
+385. mbddftq
+['ftq', 'mbdd', 'ft', 'd', 'f', 'mbddft', 'dftq', 't', 'bddf', 'mbddftq', 'ddf']
+greedy output: mbddftqdbddft 1.85714285714
+386. yffljzd
+['yff', 'f', 'zd', 'lj', 'ffljz', 'flj', 'ff', 'z', 'fl', 'fljzd']
+greedy output: yffljzdffljz 1.71428571429
+387. mfnmkdc
+['fnmkd', 'fnmk', 'd', 'mkdc', 'k', 'f', 'm', 'dc', 'kdc', 'mfnmk', 'kd', 'nmkdc', 'nm']
+greedy output: kdfnmfnmkdc 1.57142857143
+388. hvompfx
+['hvompfx', 'hvompf', 'hvo', 'f', 'fx', 'vom', 'm', 'om', 'omp', 'pf', 'mpfx', 'pfx', 'vompfx']
+greedy output: hvompfxvompfm 1.85714285714
+389. brnwtnf
+['tn', 'tnf', 'rnwtn', 'brn', 'r', 't', 'w', 'rn', 'nw', 'wtnf']
+greedy output: brnwtnfrntnw 1.71428571429
+390. leyjspy
+['spy', 'j', 'py', 'eyjs', 's', 'yj', 'ey', 'leyjspy', 'js', 'sp']
+greedy output: eyjspleyjspyj 1.85714285714
+391. tsaqrch
+['tsaqrc', 'qr', 'aqr', 'c', 'saqr', 'ch', 'rch', 'saqrch', 'rc', 'sa', 'saq']
+greedy output: tsaqrchsaqrc 1.71428571429
+392. muodedy
+['d', 'ed', 'de', 'm', 'muode', 'o', 'mu', 'dy', 'muoded', 'ded', 'uode']
+greedy output: muodedyouode 1.71428571429
+393. tytlrpr
+['pr', 'tytlr', 'rpr', 'ty', 'tytlrpr', 'l', 'p', 'ytl', 'r', 'tyt', 'tlrp']
+greedy output: tytlrprlytlrp 1.85714285714
+394. spsihut
+['ih', 'h', 'hu', 'hut', 'p', 's', 'u', 'psihut', 'ut', 'spsih']
+greedy output: ihupspsihut 1.57142857143
+395. xceiqxs
+['ei', 'iqx', 'qx', 'ceiq', 'cei', 'q', 'xceiqxs', 'x', 'xs', 'e', 'iqxs']
+greedy output: ceiqxceiqxsqxei 2.14285714286
+396. gzcgdgj
+['g', 'dgj', 'dg', 'gzc', 'cgdgj', 'gd', 'gzcg', 'z', 'gj']
+greedy output: gdgzcgdgjz 1.42857142857
+397. ybpqsgc
+['b', 'qsg', 'ybpqs', 'pq', 'yb', 's', 'bpq', 'qsgc', 'pqs', 'bp', 'y', 'gc', 'sgc', 'sg']
+greedy output: bpqsgybpqsgc 1.71428571429
+398. snbfnrh
+['bf', 'b', 'f', 'bfnr', 'nb', 'n', 'snbf', 'nr', 'rh']
+greedy output: fnbsnbfnrh 1.42857142857
+399. vdgozrh
+['vd', 'd', 'dgozr', 'gozrh', 'dg', 'gozr', 'v', 'vdgoz', 'ozr', 'vdg', 'ozrh', 'go', 'rh']
+greedy output: dgozrvdgozrh 1.71428571429
+400. gwejsou
+['e', 'g', 'gwej', 'wej', 'o', 'js', 'gwejsou', 's', 'sou', 'w', 'ou', 'ejs']
+greedy output: egwejsouowejs 1.85714285714
+401. cezwlwh
+['zwl', 'zwlw', 'l', 'ezwlw', 'wh', 'ezwl', 'lw', 'lwh', 'w', 'z', 'cez']
+greedy output: wzwlcezwlwh 1.57142857143
+402. khdmqoq
+['dm', 'hdmqo', 'qoq', 'm', 'mqo', 'dmq', 'mq', 'o', 'khdm', 'khd', 'dmqo', 'oq', 'dmqoq']
+greedy output: dmqomqkhdmqoq 1.85714285714
+403. lnumnoq
+['um', 'umno', 'no', 'lnum', 'o', 'lnumn', 'numno', 'num', 'mno', 'umnoq', 'nu']
+greedy output: lnumnoqnumno 1.71428571429
+404. ojmfywe
+['jmfy', 'we', 'mf', 'ojmfyw', 'j', 'ojmfywe', 'ywe', 'w', 'y', 'jmf', 'yw']
+greedy output: mfojmfywejmfyw 2.0
+405. zrssmrx
+['zrss', 'mrx', 'sm', 'rx', 'smr', 'ssmr', 'smrx', 'ssmrx', 'rssm']
+greedy output: zrssmrxsmr 1.42857142857
+406. zythpls
+['hpls', 'ythpl', 'zythpl', 'ythp', 'l', 'p', 'ls', 'zythpls', 'pl']
+greedy output: zythplsythplp 1.85714285714
+407. ryvmorv
+['rv', 'ryvmor', 'orv', 'mor', 'mo', 'ry', 'o', 'vmorv', 'vmor', 'r', 'yvmo', 'or', 'yv']
+greedy output: moyvmoryvmorv 1.85714285714
+408. flhzelo
+['el', 'e', 'elo', 'hzel', 'flhz', 'lo', 'l', 'lh', 'flhzelo', 'lhz', 'hzelo']
+greedy output: eflhzelolhzel 1.85714285714
+409. kbrvdyd
+['rv', 'kbrv', 'vd', 'd', 'k', 'yd', 'y', 'rvdy', 'r', 'dyd']
+greedy output: vdkbrvdydyr 1.57142857143
+410. pdhvsqo
+['vsq', 'dhvsq', 'd', 'pdhvs', 'sq', 'q', 's', 'v', 'dhv', 'hvs', 'qo']
+greedy output: dhvspdhvsqov 1.71428571429
+411. bixeosn
+['i', 'o', 'xe', 's', 'eosn', 'sn', 'bix', 'osn', 'ixe', 'bixe']
+greedy output: iosbixeosn 1.42857142857
+412. ovkzaxq
+['axq', 'ovkzax', 'k', 'vk', 'vkzaxq', 'o', 'v', 'ovkza', 'ax', 'xq', 'vkzax']
+greedy output: kovkzaxqvkzax 1.85714285714
+413. ocrtuut
+['crtuut', 'crt', 'ut', 'tu', 'tuu', 'ocrtuut', 'r', 'u', 'cr', 'tuut', 'crtuu']
+greedy output: ocrtuuturcrtuu 2.0
+414. tcvvvqi
+['vqi', 'tcv', 'vvvq', 'cvvvqi', 'vvq', 'cvvv', 'vv', 'v', 'qi', 'cv']
+greedy output: tcvvvqicvvvq 1.71428571429
+415. mixivqt
+['ix', 'xi', 'qt', 'i', 'mixiv', 'iv', 'vq', 'ivq', 'ixivq', 'xivqt']
+greedy output: ixivqmixivqt 1.71428571429
+416. aemssdq
+['sdq', 'ss', 'm', 's', 'ms', 'ssd', 'aemssdq', 'aemss', 'sd']
+greedy output: mssdsaemssdq 1.71428571429
+417. dzjalme
+['alme', 'j', 'zj', 'zjalme', 'zjalm', 'dzjalme', 'lm', 'm', 'al', 'lme', 'z', 'ja']
+greedy output: jaldzjalmezjalm 2.14285714286
+418. sgxwtos
+['sgxwto', 'tos', 'o', 'xwto', 'wt', 't', 'os', 'sgxw']
+greedy output: owtsgxwtos 1.42857142857
+419. mblrguw
+['g', 'mb', 'l', 'blr', 'mblrgu', 'mblrg', 'guw', 'u', 'lrguw', 'mblr']
+greedy output: gmblrguwlblru 1.85714285714
+420. hhlepin
+['e', 'pin', 'i', 'hhlepin', 'in', 'l', 'hh', 'lepi', 'epi', 'ep', 'hlep']
+greedy output: eplhhlepinhlepi 2.14285714286
+421. oupmoru
+['or', 'upm', 'mor', 'mo', 'oru', 'upmoru', 'moru', 'p', 'r', 'u', 'upmo', 'oup', 'ou', 'pmoru']
+greedy output: morpoupmoru 1.57142857143
+422. eoxefcd
+['c', 'eoxefcd', 'xefc', 'f', 'efcd', 'oxef', 'fc', 'cd', 'oxefcd', 'fcd', 'eox']
+greedy output: foxefceoxefcd 1.85714285714
+423. rhpktrr
+['pktrr', 'hpk', 'rr', 'rhp', 'rhpkt', 'ktr', 'hpktr', 'p', 'r', 't', 'trr']
+greedy output: hpktrhpktrrpt 1.85714285714
+424. hunlslx
+['unlsl', 'nl', 'hun', 'nlsl', 'l', 'n', 'nlslx', 's', 'hunlslx', 'slx', 'lsl', 'lx']
+greedy output: unlslhunlslxnls 2.14285714286
+425. vptztmk
+['ztm', 'ptztmk', 'tzt', 'ptztm', 'm', 'vptz', 'ptzt', 'tztmk', 't', 'v', 'zt', 'z']
+greedy output: vptztmkztztm 1.71428571429
+426. ysowajl
+['owaj', 'ysow', 'aj', 'owa', 'jl', 'so', 'w', 'y', 'sowajl', 'owajl', 'wajl']
+greedy output: sowajwysowajl 1.85714285714
+427. jydubok
+['du', 'ok', 'dub', 'bo', 'jydubok', 'dubok', 'bok', 'jydubo', 'ubo', 'ub']
+greedy output: dubojydubokub 1.85714285714
+428. ojbxbee
+['be', 'bxbee', 'xb', 'bx', 'jbx', 'xbee', 'ee', 'jbxbe', 'bxbe', 'xbe', 'bee', 'ojbxb']
+greedy output: xbjbxbeojbxbee 2.0
+429. hugslgv
+['lg', 'gslgv', 'g', 'sl', 'l', 'hu', 'hugs', 'hugslgv', 'ug', 'slgv', 'hugslg']
+greedy output: slglhugslgvug 1.85714285714
+430. agunwqp
+['qp', 'unwqp', 'nwqp', 'gun', 'n', 'q', 'un', 'w', 'wqp', 'nw']
+greedy output: gunwqpqunw 1.42857142857
+431. cnjqdvm
+['nj', 'cnjqd', 'j', 'vm', 'jq', 'njqdvm', 'njq', 'qd', 'v', 'cnj']
+greedy output: njqdjvcnjqdvm 1.85714285714
+432. tdjurje
+['tdjurje', 'dju', 'urje', 'j', 'jur', 'djur', 'r', 'u', 't', 'djurj', 'djurje', 'rj']
+greedy output: djurjurutdjurje 2.14285714286
+433. dfalyzj
+['faly', 'zj', 'f', 'alyz', 'l', 'lyz', 'al', 'yz', 'fal', 'aly', 'y', 'z', 'ly']
+greedy output: falyzjlalyz 1.57142857143
+434. ugmpain
+['a', 'mpai', 'gmp', 'pain', 'ai', 'ain', 'i', 'pa', 'in', 'gm', 'ugmp']
+greedy output: paigmugmpain 1.71428571429
+435. mudpttz
+['mudptt', 'udp', 'mudpt', 'tz', 'd', 'p', 'udpttz', 'mud', 'udpt', 't', 'ptt']
+greedy output: udpttdpmudpttz 2.0
+436. twezkcq
+['kc', 'c', 'e', 'zk', 'k', 'zkc', 'zkcq', 'kcq', 'twezkc', 'w', 'cq', 'twezkcq']
+greedy output: ezkcktwezkcqw 1.85714285714
+437. hcqeuur
+['c', 'cqeuu', 'uu', 'cqe', 'q', 'euu', 'qeu', 'eu', 'u', 'hcqeuu']
+greedy output: cqeuqhcqeuu 1.57142857143
+438. jcyjsve
+['jsv', 've', 's', 'js', 'yjsve', 'jcyjs', 'v', 'y', 'cyjs', 'sv', 'jc']
+greedy output: sjsvyjcyjsve 1.71428571429
+439. bnxzalh
+['zalh', 'bnxzal', 'al', 'bn', 'nxzalh', 'l', 'n', 'xza', 'z', 'bnxz']
+greedy output: bnxzalhnxzalz 1.85714285714
+440. bbtbqtf
+['b', 'qt', 'bbtbq', 'bbtb', 'qtf', 'tbqt', 't', 'tf', 'tb']
+greedy output: tbbtbqtf 1.14285714286
+441. cqysrod
+['cqys', 'sr', 'srod', 'od', 'o', 'qysr', 'r', 'qysro', 'y', 'ysr']
+greedy output: cqysrodoysr 1.57142857143
+442. qcvipoh
+['i', 'ip', 'qcvipo', 'cvipo', 'q', 'p', 'o', 'cvi', 'po']
+greedy output: qcvipocvip 1.42857142857
+443. qanripk
+['ip', 'q', 'qanrip', 'an', 'ripk', 'ipk', 'nripk', 'n', 'qa', 'p', 'anri', 'nrip', 'pk', 'anripk']
+greedy output: qanripkanripn 1.85714285714
+444. lmfnpze
+['fnpze', 'mf', 'fnp', 'pz', 'lmfnpz', 'n', 'lmfnpze', 'pze', 'mfnpz', 'npze']
+greedy output: mfnpzfnplmfnpzen 2.28571428571
+445. htqhlyk
+['yk', 'tqhl', 'h', 'qhly', 'l', 'ht', 'tq', 'q', 'htq', 'qhl', 'ly']
+greedy output: htqhlyktqhl 1.57142857143
+446. ufvrvrk
+['rv', 'vrvr', 'fv', 'fvrv', 'vr', 'fvrvr', 'v', 'ufvrv', 'fvr', 'rk']
+greedy output: fvrvufvrvrk 1.57142857143
+447. webplqz
+['b', 'lqz', 'plq', 'qz', 'bpl', 'bplqz', 'ebpl', 'q', 'w']
+greedy output: bplqebplqzw 1.57142857143
+448. qqyfnwz
+['fnw', 'qyfn', 'qqyfnwz', 'nwz', 'yf', 'q', 'yfnwz', 'qqy', 'wz', 'fn']
+greedy output: yfnqyfnwqqyfnwz 2.14285714286
+449. xsexjrx
+['exjrx', 'e', 'sexj', 'rx', 'jr', 'sex', 's', 'ex', 'sexjrx', 'xse', 'exjr', 'jrx']
+greedy output: exjrsxsexjrx 1.71428571429
+450. lscebew
+['be', 'c', 'e', 'sce', 'ce', 'scebew', 'cebew', 'sc', 'ew', 'bew']
+greedy output: becescebew 1.42857142857
+451. xguyukl
+['gu', 'xguyu', 'uyu', 'g', 'kl', 'xguy', 'uk', 'x', 'y', 'guyukl', 'guyu', 'yukl']
+greedy output: guyukxguyukly 1.85714285714
+452. ycjpwkq
+['ycjpw', 'c', 'pw', 'ycj', 'wk', 'k', 'jp', 'p', 'kq']
+greedy output: cycjpwkqjp 1.42857142857
+453. ylvysdx
+['lvysdx', 'yl', 'sdx', 'ysd', 'y', 'ylvy', 'dx', 'ylvysdx', 'vy', 'lvys', 'lvysd']
+greedy output: vylvysdxlvysd 1.85714285714
+454. frbyehf
+['frbyehf', 'rbyehf', 'e', 'rby', 'yeh', 'f', 'rbye', 'ehf', 'r', 'bye', 'hf']
+greedy output: frbyehferbyeh 1.85714285714
+455. stbdshu
+['b', 'tbdsh', 'h', 'tbdshu', 'tbds', 'sh', 's', 'bdsh', 'bds', 'stbdsh', 'ds']
+greedy output: bdstbdshutbdsh 2.0
+456. dqagzyq
+['dqagzy', 'dqagzyq', 'gzy', 'qa', 'y', 'zy', 'zyq', 'yq', 'agz']
+greedy output: dqagzyqagzy 1.57142857143
+457. rtzvxzr
+['tzvx', 'rtzvx', 'rtzv', 'tzvxzr', 'vxzr', 'zvxz', 'xz', 'v', 'vx', 'z', 'rtz']
+greedy output: zvxzvxrtzvxzr 1.85714285714
+458. ztsraae
+['a', 'ztsr', 'sra', 'ae', 'raa', 'ztsraa', 'raae', 's', 'ra']
+greedy output: ztsraaesra 1.42857142857
+459. dtkiyvc
+['kiy', 'tkiyvc', 'ki', 'tki', 'dtkiyvc', 'v', 'y', 'dtkiyv', 'k', 'yv']
+greedy output: tkiyvdtkiyvck 1.85714285714
+460. xhbwtwq
+['xh', 'wq', 'wtw', 'tw', 'xhbwtwq', 'bwtwq', 'wt', 'bw', 'h', 'hb', 'hbwt']
+greedy output: xhbwtwqbwhbwtw 2.0
+461. hbkhczm
+['zm', 'b', 'cz', 'hcz', 'k', 'kh', 'hczm', 'hbkhc', 'hbkhcz', 'czm', 'hc', 'khczm', 'bkhcz']
+greedy output: bkhbkhczmhcz 1.71428571429
+462. jquchun
+['ch', 'quchun', 'chun', 'h', 'jq', 'hu', 'un', 'u', 'uc']
+greedy output: chucjquchun 1.57142857143
+463. uvmaxih
+['a', 'axih', 'i', 'ma', 'vm', 'ax', 'u', 'v', 'vmaxi', 'vmaxih', 'axi']
+greedy output: maxiuvmaxih 1.57142857143
+464. sgrtsnn
+['rt', 'sgrtsnn', 'sgr', 'sgrts', 's', 'grts', 'sn', 'rts', 'grtsn', 'sg']
+greedy output: rtsgrtsnngrtsn 2.0
+465. mfalgcv
+['algcv', 'alg', 'l', 'falgc', 'al', 'gc', 'gcv', 'falg', 'cv', 'lgc']
+greedy output: lalgcfalgcv 1.57142857143
+466. upncmgk
+['ncmgk', 'c', 'g', 'cm', 'cmg', 'nc', 'cmgk', 'n', 'p', 'upncm', 'pnc', 'gk']
+greedy output: npncmgupncmgk 1.85714285714
+467. dgicxyt
+['c', 'dgicxy', 'g', 'cxy', 'cxyt', 'cx', 'dgicxyt', 'x', 'xy', 'xyt', 'ic', 'yt', 'dgic']
+greedy output: gxicxydgicxyt 1.85714285714
+468. infnowu
+['infn', 'nfnow', 'infno', 'no', 'n', 'ow', 'nfno', 'w', 'in', 'owu', 'now']
+greedy output: nfnowinfnowu 1.71428571429
+469. idatitf
+['i', 'idati', 'it', 'ati', 'atit', 't', 'ti', 'tf', 'id']
+greedy output: idatititf 1.28571428571
+470. zilmcgq
+['ilm', 'zi', 'gq', 'i', 'lmcg', 'm', 'zilmcg', 'ilmcg', 'mcgq', 'ilmcgq', 'zil', 'ilmc']
+greedy output: zilmcgqilmcgm 1.85714285714
+471. savcihz
+['avcihz', 'ci', 'i', 'cihz', 'savcih', 'cih', 'ih', 's', 'av', 'avci', 'savc']
+greedy output: isavcihzavcih 1.85714285714
+472. qwemqnp
+['qnp', 'mq', 'wemqn', 'qwemqnp', 'wem', 'mqn', 'mqnp', 'wemqnp', 'emqnp', 'emq', 'n', 'qn']
+greedy output: wemqnemqwemqnp 2.0
+473. sgwwqem
+['wqem', 'e', 'qem', 'gwwqem', 'ww', 'w', 'sg']
+greedy output: ewwsgwwqem 1.42857142857
+474. bbpkjjf
+['b', 'kjj', 'k', 'j', 'bbpkjjf', 'kjjf', 'bp', 'pkj', 'jjf', 'bbp', 'pkjj']
+greedy output: bpkjjkbbpkjjf 1.85714285714
+475. iclgzgf
+['lgz', 'clg', 'g', 'icl', 'gzg', 'cl', 'l', 'iclg', 'iclgzg', 'lg', 'lgzgf']
+greedy output: iclgzgfclgzglg 2.0
+476. dfxeizc
+['iz', 'd', 'i', 'xei', 'xe', 'xeiz', 'fxe', 'z', 'fxei', 'eizc']
+greedy output: dizxefxeizc 1.57142857143
+477. lpukasz
+['sz', 'ka', 'puk', 'puka', 'as', 'p', 's', 'uk', 'lpukasz', 'uka']
+greedy output: pukasuklpukasz 2.0
+478. gclmvzp
+['lmvzp', 'z', 'g', 'lm', 'mvzp', 'l', 'lmv', 'clmvz', 'mv', 'lmvz', 'vz', 'vzp']
+greedy output: glmvzclmvzpmv 1.85714285714
+479. spjjzmg
+['jzmg', 'zm', 'mg', 'jjz', 'pjj', 'm', 'j', 'pjjzmg', 'zmg', 'p', 'spj', 'spjjz', 'jjzm']
+greedy output: jpjjzmspjjzmg 1.85714285714
+480. iahkygz
+['a', 'ahky', 'g', 'i', 'h', 'kyg', 'gz', 'yg', 'ahk', 'ahkyg', 'y']
+greedy output: ahkygzihy 1.28571428571
+481. gregndz
+['gndz', 'egnd', 'g', 'eg', 'nd', 're', 'gregndz', 'greg', 'dz', 'gnd', 'r']
+greedy output: gregndzregnd 1.71428571429
+482. lczujwd
+['zujw', 'wd', 'lc', 'jw', 'lczujwd', 'uj', 'czujw', 'z', 'lczu', 'ujw']
+greedy output: lczujwdujczujwz 2.14285714286
+483. cuzykuo
+['yku', 'uzyku', 'uzyk', 'kuo', 'u', 'ku', 'zykuo', 'zyku', 'cuzyku']
+greedy output: uzykucuzykuo 1.71428571429
+484. wcjrfwn
+['fwn', 'rfw', 'f', 'rf', 'cjrf', 'cjrfwn', 'w', 'cjrfw', 'jrfwn', 'rfwn', 'wcjr', 'jrfw']
+greedy output: rfjrfwcjrfwn 1.71428571429
+485. zufsono
+['ono', 'no', 'zufso', 'sono', 'o', 'son', 'fsono', 'z', 'zufson']
+greedy output: sonzufsono 1.42857142857
+486. aoxrhos
+['xrhos', 'xrh', 'h', 'o', 'r', 'ho', 'rho', 'ox']
+greedy output: hrhoxrhos 1.28571428571
+487. tqklcdj
+['d', 'klc', 'klcd', 'qklcd', 'lcd', 'cd', 'tqklcdj', 'tqklc', 'l']
+greedy output: klcqklcdtqklcdjl 2.28571428571
+488. aeadzho
+['a', 'e', 'ea', 'adz', 'ead', 'ho', 'h', 'aead']
+greedy output: eaeadzho 1.14285714286
+489. lkwgxrq
+['wg', 'rq', 'kwg', 'lkwgxrq', 'wgxr', 'lk', 'lkwg', 'g', 'gxr', 'lkw', 'xrq', 'lkwgxr']
+greedy output: kwgxrlkwgxrqg 1.85714285714
+490. fqxokvd
+['kvd', 'ok', 'xo', 'xokv', 'k', 'okvd', 'o', 'qxokv', 'fqx', 'v', 'x', 'xok']
+greedy output: ofqxokvdvxok 1.71428571429
+491. bryaave
+['a', 'ryaa', 'b', 've', 'bry', 'ryaave', 'av', 'yaav', 'aave', 'br', 'v', 'ave']
+greedy output: abryaaveyaav 1.71428571429
+492. jemanic
+['a', 'e', 'i', 'ma', 'j', 'm', 'an', 'jeman', 'je', 'mani', 'ic', 'jem', 'emani', 'man']
+greedy output: aejemanicman 1.71428571429
+493. txmrvmb
+['txmrv', 'txmrvm', 'xmrv', 'mb', 'v', 'm', 'r', 'mr', 'xmr']
+greedy output: txmrvmbmrxmrv 1.85714285714
+494. dwptwle
+['dwp', 'd', 'pt', 'wpt', 'l', 'twl', 'dwpt', 'w', 'wp', 'ptw', 'dwptwl']
+greedy output: dwptwlwptw 1.42857142857
+495. rhjrnxd
+['rhjr', 'hjrn', 'hjr', 'h', 'j', 'xd', 'nx', 'nxd', 'r', 'jrn', 'x']
+greedy output: hjrhjrnxdjrx 1.71428571429
+496. crquczz
+['czz', 'c', 'rq', 'ucz', 'rqucz', 'z']
+greedy output: crquczz 1.0
+497. jpgksqg
+['qg', 'g', 'sq', 'jpgksq', 'q', 's', 'pg', 'ksqg', 'sqg', 'gks']
+greedy output: jpgksqgksqspg 1.85714285714
+498. kjcdpwb
+['dpw', 'pw', 'kj', 'cd', 'cdpwb', 'w', 'wb']
+greedy output: dpwkjcdpwb 1.42857142857
+499. ndfuern
+['fu', 'dfu', 'fue', 'r', 'u', 'ndfuer', 'ndfuern', 'rn', 'er', 'ern', 'uer']
+greedy output: dfuerundfuern 1.85714285714
+500. kzelwok
+['ok', 'w', 'lwok', 'l', 'zelwok', 'lwo', 'wok', 'kze', 'zelwo']
+greedy output: wlwokzelwok 1.57142857143
+501. oflykxr
+['kx', 'ykx', 'f', 'lykx', 'o', 'y', 'flykx', 'xr', 'x', 'ly', 'fl', 'lyk']
+greedy output: flykxroyxlyk 1.71428571429
+502. icuakun
+['c', 'icuaku', 'ak', 'icuak', 'uak', 'aku', 'cuak', 'icua', 'cuakun', 'un']
+greedy output: cuakuicuakun 1.71428571429
+503. bpjeheg
+['heg', 'b', 'eh', 'jeheg', 'j', 'ehe', 'bp', 'je', 'pj', 'bpje', 'bpjeh', 'jeh']
+greedy output: bpjehegpjehe 1.71428571429
+504. vijjljc
+['vij', 'j', 'lj', 'vijjl', 'jl', 'i', 'jj', 'ijjljc', 'ijj', 'jc']
+greedy output: vijjljcijjlj 1.71428571429
+505. ffezogk
+['zo', 'ff', 'g', 'ezogk', 'ffezog', 'ogk', 'gk', 'fezogk', 'ffez']
+greedy output: zoffezogkg 1.42857142857
+506. gdfocti
+['dfoct', 'c', 'dfocti', 'g', 'ti', 'o', 'dfoc', 'foc', 'fo', 'cti', 'ct']
+greedy output: godfoctifoct 1.71428571429
+507. ctwomxd
+['womxd', 'twom', 'twomxd', 'wo', 'ctwomxd', 'm', 'c', 'o', 'mxd', 'omx', 'mx']
+greedy output: twomxwomctwomxd 2.14285714286
+508. mupteqw
+['q', 'mupt', 'qw', 'pteqw', 'pte', 'mupteqw', 'up', 'pteq', 'mu', 'mupte', 'teq', 'te', 'upte']
+greedy output: upteqmupteqwte 2.0
+509. qjbxrmv
+['xrm', 'qjbxrmv', 'bxr', 'm', 'jbx', 'mv', 'rm', 'xr', 'x', 'r', 'jb']
+greedy output: qjbxrmvxrjbxrm 2.0
+510. tzyltbp
+['ylt', 'yltb', 'tzyltbp', 'tzy', 'tzyl', 'zyltb', 'lt', 'bp', 'yltbp', 'tbp', 'zyltbp', 'tb', 'yl']
+greedy output: zyltbyltzyltbp 2.0
+511. enpizts
+['iz', 'i', 'npiz', 'ts', 'p', 'pizt', 'izt', 't', 'zt', 'npizt', 'npizts']
+greedy output: iznpiztspizt 1.71428571429
+512. mmobpck
+['ck', 'c', 'pc', 'm', 'mmobpc', 'mmo', 'pck', 'obpck', 'bp', 'mob', 'mobp']
+greedy output: mmobpckmobpc 1.71428571429
+513. wsglcio
+['ci', 'sglc', 'wsg', 'i', 'glc', 'sglci', 's', 'ws', 'io', 'glcio', 'lci']
+greedy output: glciswsglcio 1.71428571429
+514. tlwrvwy
+['tlwrvwy', 'wrvw', 'vw', 'wrv', 'rvwy', 'r', 'rvw', 't', 'wrvwy', 'v', 'tlwrvw', 'wy']
+greedy output: wrvwrtlwrvwyv 1.85714285714
+515. ijitegc
+['jiteg', 'tegc', 'g', 'jitegc', 'it', 'gc', 'ji', 'ijitegc', 'itegc', 't']
+greedy output: itjitegijitegc 2.0
+516. xhlpzcw
+['xhlpzcw', 'lpz', 'zc', 'xhlp', 'p', 'xhlpz', 'lpzc', 'lp', 'xhlpzc', 'hlpz', 'hlpzcw']
+greedy output: xhlpzcwlphlpzc 2.0
+517. mypwbkj
+['b', 'kj', 'pwbk', 'mypwbkj', 'bkj', 'bk', 'k', 'pwb', 'w', 'myp', 'yp', 'wbk', 'ypwbk']
+greedy output: pwbwmypwbkjypwbk 2.28571428571
+518. aiwybur
+['b', 'aiwy', 'ur', 'iwyb', 'wybur', 'u', 'y', 'ybur', 'wy']
+greedy output: baiwyburuwy 1.57142857143
+519. cmpguiz
+['mpg', 'guiz', 'g', 'i', 'mpguiz', 'gui', 'cmpgui', 'm', 'pgu', 'ui', 'pg', 'cmpg', 'u', 'cmpguiz']
+greedy output: mpguipgcmpguizu 2.14285714286
+520. nzpmdsj
+['zpmd', 'zpm', 'nzpm', 'pmd', 'sj', 's', 'dsj', 'mds', 'zp', 'ds', 'pm']
+greedy output: nzpmdsjzpmds 1.71428571429
+521. cnwtcag
+['a', 'nwt', 'c', 'ag', 'nwtc', 'wt', 'wtca', 'nwtcag', 'tc', 'nw']
+greedy output: wtcatcnwtcag 1.71428571429
+522. npsqzql
+['qzq', 'qz', 'sqzql', 'ql', 'q', 'zql', 'sqzq', 'qzql', 'zq', 'nps']
+greedy output: qzqnpsqzql 1.42857142857
+523. mmcugrm
+['c', 'mcug', 'cugr', 'cug', 'r', 'u', 'mmcugr', 'rm', 'mcugr']
+greedy output: cummcugrmcug 1.71428571429
+524. pieqnba
+['b', 'ba', 'i', 'ieqnba', 'nb', 'q', 'qnb', 'qnba', 'pi', 'ieqnb', 'qn']
+greedy output: qnbpieqnba 1.42857142857
+525. udnxvzc
+['dn', 'd', 'vzc', 'xv', 'zc', 'nx', 'v', 'x', 'vz', 'z', 'udnxv', 'dnxvzc']
+greedy output: dnxvzxudnxvzc 1.85714285714
+526. hldxpnj
+['nj', 'ldx', 'dxpnj', 'hldxpn', 'xpnj', 'n', 'p', 'ldxpn', 'x', 'hld', 'pn']
+greedy output: ldxpnhldxpnj 1.71428571429
+527. wmyowvm
+['wmy', 'w', 'wmyowv', 'wm', 'v', 'myow', 'myo', 'wvm', 'ow', 'owv', 'my']
+greedy output: wmyowvmyowv 1.57142857143
+528. mtmjcnm
+['c', 'cn', 'mjc', 'j', 'm', 'mtmjcnm', 'mj', 'mtmj', 'tm']
+greedy output: jtmtmjcnmjcn 1.71428571429
+529. rzeruha
+['eru', 'rze', 'zeruha', 'uha', 'zeru', 'zeruh', 'eruh', 'ruh', 'rzeruha', 'r', 'u', 'rzer', 'ha']
+greedy output: eruzeruhrzeruha 2.14285714286
+530. qdrlmsv
+['rlm', 'lms', 'msv', 'lm', 'sv', 'drlm', 's', 'r', 'qdrlms', 'rl', 'qdrlm', 'dr']
+greedy output: srlqdrlmsvdrlm 2.0
+531. uxadwgp
+['wg', 'a', 'd', 'g', 'gp', 'uxad', 'dwgp', 'dwg', 'w', 'xad', 'adwg']
+greedy output: aduxadwgpwg 1.57142857143
+532. bnmsgot
+['nmsgot', 'nm', 'msgot', 'm', 'o', 'nmsg', 'sgo', 'go', 'msgo', 'sg']
+greedy output: nmsgotmsgosg 1.71428571429
+533. fsrnsms
+['nsms', 'fsrnsm', 'sms', 'srn', 'm', 'srnsms', 'fsr', 'ms', 'rns', 'rn', 'ns']
+greedy output: mfsrnsmsrnsrn 1.85714285714
+534. vipaump
+['ipaump', 'ipa', 'vipau', 'paump', 'm', 'um', 'pa', 'u', 'mp', 'aump']
+greedy output: ipavipaumpum 1.71428571429
+535. krvyjfx
+['rv', 'yj', 'yjf', 'jfx', 'fx', 'k', 'krv', 'yjfx', 'vyjf', 'jf']
+greedy output: yjfkrvyjfx 1.42857142857
+536. nzpbaop
+['a', 'nzpba', 'nzp', 'pbaop', 'ao', 'p', 'b', 'pba', 'o', 'bao', 'baop', 'nzpbao', 'op']
+greedy output: anzpbaopbaob 1.71428571429
+537. thdabym
+['ab', 'ym', 'd', 'abym', 'dabym', 'bym', 'thdaby', 'hda', 'y', 'aby', 'thdab', 'by']
+greedy output: dhdabythdabym 1.85714285714
+538. ngjjnts
+['jjnt', 'ngjj', 'nts', 'j', 'ngjjn', 'n', 'gjjnt', 'jjn', 'gjj', 't', 'nt']
+greedy output: jgjjngjjntsnt 1.85714285714
+539. iailwfx
+['a', 'wf', 'f', 'iailwfx', 'ilwfx', 'ail', 'ilw', 'ilwf', 'w', 'ia', 'lwf', 'iail']
+greedy output: ailwfwiailwfx 1.85714285714
+540. wwusast
+['wwu', 'a', 'wwusast', 'wu', 'ww', 'usas', 's', 'sas', 'as']
+greedy output: awusaswwusast 1.85714285714
+541. tsevxbl
+['b', 'xb', 'vxbl', 'tsevxbl', 'bl', 'ts', 'evx', 'xbl', 'v', 'evxb']
+greedy output: tsevxblevxbv 1.71428571429
+542. hlzzqyi
+['yi', 'zqy', 'hlzzqyi', 'hlzzq', 'lzzqy', 'q', 'lzzqyi', 'zz', 'y', 'z', 'lz']
+greedy output: hlzzqyiqzzlzzqy 2.14285714286
+543. zcavxvq
+['a', 'zcav', 'c', 'cavxv', 'xvq', 'ca', 'zcavxv', 'vq', 'v', 'zcavxvq', 'avxvq']
+greedy output: azcavxvqcavxv 1.85714285714
+544. ywagyou
+['a', 'ywagyou', 'wa', 'gyo', 'o', 'gyou', 'agy', 'ou', 'you', 'yw']
+greedy output: wagyoywagyou 1.71428571429
+545. pdtsitb
+['d', 'tsi', 'sitb', 'pdt', 'itb', 'pdts', 't', 'pd', 'dts', 'pdtsit']
+greedy output: dtsitpdtsitb 1.71428571429
+546. gwtaebe
+['a', 'be', 'e', 'gw', 'eb', 'gwta', 't', 'wtae', 'ta']
+greedy output: bebgwtaeta 1.42857142857
+547. cyweagc
+['eagc', 'a', 'we', 'eag', 'cyweag', 'gc', 'w', 'yweag', 'yw']
+greedy output: acyweagcywe 1.57142857143
+548. jnghbgz
+['nghbgz', 'hbgz', 'g', 'h', 'j', 'gz', 'n', 'ghb', 'bgz']
+greedy output: ghbhjnghbgz 1.57142857143
+549. vaoyvpx
+['va', 'yvp', 'yvpx', 'oyvp', 'vpx', 'o', 'p', 'vaoyv', 'oy', 'v', 'aoy']
+greedy output: opvaoyvpxaoy 1.71428571429
+550. twlukgy
+['wlukg', 'kg', 'twlukg', 'tw', 'k', 'wlu', 'twlukgy', 'lukgy', 'u', 't', 'w', 'luk']
+greedy output: utwlukgywlukgluk 2.28571428571
+551. ksqveam
+['eam', 've', 'qv', 'sqvea', 'k', 'sqve', 'am', 'sqveam', 'q', 'veam', 'v']
+greedy output: ksqveamqvev 1.57142857143
+552. zrruvyn
+['ruvy', 'ru', 'rruvyn', 'zrru', 'yn', 'ruv', 'uvyn', 'r', 'zrruvy', 'vy', 'rruv', 'z', 'vyn']
+greedy output: rurruvyzrruvyn 2.0
+553. bcuznex
+['uzn', 'e', 'zne', 'uz', 'ne', 'uznex', 'bcuz', 'ex', 'bcuzn', 'n', 'bcuzne']
+greedy output: uznebcuznexn 1.71428571429
+554. mgalegu
+['mga', 'g', 'leg', 'eg', 'mgal', 'gu', 'egu', 'galeg', 'ga', 'legu']
+greedy output: mgaleguega 1.42857142857
+555. wocuerb
+['c', 'rb', 'oc', 'uerb', 'r', 'w', 'uer', 'ocue', 'woc', 'ocuer']
+greedy output: crwocuerb 1.28571428571
+556. xhcfhtf
+['htf', 'cfh', 'h', 'xhcfhtf', 'hcf', 't', 'hcfh', 'tf', 'x', 'cfht']
+greedy output: hcfhtxhcfhtf 1.71428571429
+557. oimdppb
+['ppb', 'oim', 'd', 'imdppb', 'md', 'm', 'pp', 'pb', 'p', 'mdpp']
+greedy output: oimdppbdmdpp 1.71428571429
+558. rofqckf
+['ckf', 'rofqc', 'kf', 'fqc', 'k', 'q', 'rofq', 'ofq', 'ofqckf', 'qck', 'rofqckf']
+greedy output: qrofqckfofqck 1.85714285714
+559. xnlmcpp
+['mcpp', 'c', 'xnlmc', 'nl', 'lm', 'm', 'p', 'xn', 'xnlmcp', 'cp', 'lmcp']
+greedy output: cpnlmxnlmcpp 1.71428571429
+560. pjpaabl
+['a', 'b', 'jpaa', 'aab', 'pa', 'j', 'paa', 'ab', 'pjpaab', 'paabl', 'pj', 'pjpaabl']
+greedy output: pajpaabpjpaabl 2.0
+561. iupjjyh
+['upjjyh', 'jy', 'pjj', 'j', 'iu', 'up', 'iupjjy', 'pj', 'pjjyh', 'jj', 'y', 'upjj']
+greedy output: iupjjyhupjjypj 2.0
+562. blpvgvs
+['lpvgvs', 'pv', 'pvg', 'lpv', 'l', 'vs', 'blpvg', 'v', 'gvs', 'vgvs', 'lpvg']
+greedy output: pvlpvgblpvgvs 1.85714285714
+563. toxskch
+['c', 'oxskch', 'xskch', 'oxsk', 'kch', 'to', 's', 'toxs', 'ox', 'k', 'toxsk']
+greedy output: ctoxskchsoxk 1.71428571429
+564. bqqmrtl
+['rt', 'qq', 'qqmrt', 'qqmr', 'qmr', 'qmrtl', 'r', 'bqqm', 'mr', 'bqq', 'qm']
+greedy output: qqmrtrbqqmrtl 1.85714285714
+565. pyqqrmj
+['yqqr', 'pyq', 'py', 'qrm', 'mj', 'q', 'r', 'qqrm', 'yq']
+greedy output: pyqqrmjryq 1.42857142857
+566. mmkzpnl
+['nl', 'zp', 'k', 'm', 'kzpnl', 'n', 'zpn', 'kz', 'z', 'pn']
+greedy output: kzpnlmzpn 1.28571428571
+567. etzwqfl
+['e', 'wq', 'wqfl', 'et', 'zwqf', 'qfl', 'zwqfl', 'etzwq', 'qf', 'wqf', 'fl', 'tzwqfl']
+greedy output: etzwqflwqzwqf 1.85714285714
+568. yhsexka
+['xk', 'ka', 'xka', 'e', 'yhsexk', 'yhsexka', 'hs', 'sexk', 'yhse', 'ex', 'x', 'se']
+greedy output: exhsexkyhsexka 2.0
+569. kwmqzld
+['zl', 'ld', 'wm', 'l', 'wmqzld', 'q', 'kw', 'qzl']
+greedy output: qzlkwmqzld 1.42857142857
+570. xsdohjp
+['sdoh', 'hjp', 'oh', 'j', 'jp', 'dohj', 'sdohj', 'hj', 'xsd', 'x', 'sdo']
+greedy output: ohjxsdohjp 1.42857142857
+571. ffrscyf
+['f', 'ffrsc', 'yf', 'frs', 'cy', 'r', 'ff', 'y', 'rscy', 'rsc', 'ffr', 'frsc']
+greedy output: rffrscyfrscy 1.71428571429
+572. bizdxge
+['b', 'zdx', 'g', 'i', 'xg', 'zd', 'ge', 'biz', 'dx', 'z', 'zdxge']
+greedy output: bizdxgeidxgz 1.71428571429
+573. htkugwx
+['gw', 'w', 'tkugwx', 'kugwx', 't', 'ku', 'ug', 'ugw', 'gwx', 'wx']
+greedy output: tkugwxkugw 1.42857142857
+574. iwqjjed
+['e', 'wq', 'ed', 'j', 'wqjj', 'iwqjj', 'iwqj', 'jj', 'wqjje', 'jje']
+greedy output: wqjjiwqjjed 1.57142857143
+575. syguget
+['gu', 'syguget', 'sygu', 'g', 'uge', 'ygug', 'ge', 'uget', 'yguget', 'ug', 'yguge']
+greedy output: gugsygugetyguge 2.14285714286
+576. efbrukx
+['ruk', 'b', 'e', 'f', 'fbrukx', 'k', 'brukx', 'u', 'br', 'fbruk', 'rukx', 'efbru', 'efbr']
+greedy output: brukefbrukxfu 1.85714285714
+577. dxiucqx
+['dx', 'ucq', 'i', 'qx', 'q', 'xiucqx', 'cqx', 'dxi', 'dxiuc']
+greedy output: dxiucqxucqi 1.57142857143
+578. ukcawme
+['cawme', 'kc', 'ukcawm', 'aw', 'ukcaw', 'wm', 'caw', 'w', 'awm', 'u', 'a', 'uk', 'ukca']
+greedy output: kcawmwukcawmea 2.0
+579. voskoxz
+['sk', 'oxz', 'k', 'v', 'o', 'xz', 'kox', 'osk', 'skox', 'oskoxz', 'x', 'sko']
+greedy output: skoxkvoskoxz 1.71428571429
+580. miylart
+['iy', 'art', 'la', 'i', 'iyl', 'ylar', 'miylart', 'mi', 'r', 'miyla', 'ar', 'iylart']
+greedy output: laiylarmiylart 2.0
+581. uromdwt
+['uromdw', 'rom', 'dwt', 'm', 'romdwt', 'urom', 'wt', 'u', 'w', 'ro', 'd']
+greedy output: uromdwtwromd 1.71428571429
+582. eqiqatu
+['a', 'e', 'i', 'tu', 'iqat', 'eqiqatu', 'qiqatu', 't', 'eqiqa', 'at']
+greedy output: aeqiqatuiqat 1.71428571429
+583. kjphxml
+['xml', 'hx', 'ml', 'jp', 'm', 'phxm', 'x', 'ph', 'jphx', 'phxml', 'kjph']
+greedy output: jphxmkjphxml 1.71428571429
+584. vafwqnq
+['wqnq', 'wq', 'fwqnq', 'fwqn', 'wqn', 'w', 'v', 'nq', 'fwq', 'qn']
+greedy output: wqnvfwqnq 1.28571428571
+585. impptfr
+['mpptfr', 'fr', 'i', 'pt', 'ptfr', 'ptf', 'p', 'impptf', 't', 'tf']
+greedy output: impptfrptft 1.57142857143
+586. lpkgazo
+['az', 'g', 'kgaz', 'lpkgaz', 'k', 'pkgazo', 'pkg', 'gazo', 'z']
+greedy output: glpkgazokpkgaz 2.0
+587. aoqzkja
+['aoqz', 'j', 'zkj', 'zk', 'kj', 'qzkja', 'qz', 'k', 'ja']
+greedy output: aoqzkjaqzkjk 1.71428571429
+588. dhaovfx
+['ha', 'hao', 'fx', 'h', 'f', 'dhao', 'aovfx', 'ao', 'aovf', 'o', 'ov', 'dhaovfx']
+greedy output: haovfdhaovfxov 2.0
+589. ttnovoh
+['ttnovo', 'oh', 'ttno', 'no', 'voh', 'o', 't', 'v', 'tno', 'nov']
+greedy output: ottnovohtnov 1.71428571429
+590. sqgqorq
+['gqorq', 'rq', 'gq', 'sqgq', 'qgqo', 'sqgqo', 'q', 's', 'r', 'or', 'gqor']
+greedy output: gqsqgqorqor 1.57142857143
+591. hpatpft
+['tpf', 'pat', 'f', 'patpft', 'patp', 'patpf', 'tp', 'p', 't', 'tpft']
+greedy output: patpftpft 1.28571428571
+592. abasehn
+['aba', 'ab', 'e', 'bas', 'baseh', 'h', 'as', 'basehn', 'abas', 's', 'hn', 'se', 'seh']
+greedy output: abasehneaseh 1.71428571429
+593. kjkugst
+['kjkug', 'g', 'kjkugs', 'kjk', 'k', 'j', 'st', 's', 'ku', 'ug', 'jkug']
+greedy output: kjkugstjkugsku 2.0
+594. uckkgjk
+['uckkgj', 'ckkg', 'kgjk', 'kk', 'k', 'ckkgj', 'ckkgjk', 'jk', 'kg', 'kgj', 'uck', 'gj']
+greedy output: ckkgjuckkgjkk 1.85714285714
+595. fddcdzy
+['c', 'fddcdzy', 'd', 'cdzy', 'ddcdzy', 'ddcd', 'fddc', 'z', 'dcd', 'cdz', 'zy']
+greedy output: cddcdzfddcdzy 1.85714285714
+596. olevkxx
+['vkx', 'evk', 'k', 'vk', 'xx', 'levkxx', 'ol', 'x', 'kx']
+greedy output: evkxvkolevkxx 1.85714285714
+597. ysrezde
+['rez', 'srezd', 'd', 'rezde', 'zd', 'rezd', 'de', 'sre', 'r', 'z', 'ysrez']
+greedy output: srezdrzysrezde 2.0
+598. dssdsax
+['d', 'sds', 'sdsa', 'dssd', 'dssdsa', 'dss', 'ax', 'sdsax', 'ds', 'sd']
+greedy output: dsdssdsax 1.28571428571
+599. kejqttm
+['qtt', 'kejqttm', 'kejqtt', 'ej', 'qttm', 'j', 't', 'ejqtt', 'ejq']
+greedy output: kejqttmejqttj 1.85714285714
+600. jlpgrsd
+['rs', 'rsd', 'lpgr', 'l', 'grsd', 'r', 'pg', 'lpg', 'sd']
+greedy output: lpgrsdrspg 1.42857142857
+601. ebwhmyx
+['ebwhm', 'myx', 'b', 'e', 'ebwh', 'm', 'eb', 'yx', 'bw', 'hm', 'y', 'my']
+greedy output: bwebwhmyxy 1.42857142857
+602. jzdgjrm
+['j', 'zdgj', 'g', 'jrm', 'jzd', 'jr', 'jzdgjrm', 'dgjrm', 'r', 'rm']
+greedy output: zdgjzdgjrmgjr 1.85714285714
+603. kmmwqyv
+['kmmwqy', 'kmmwqyv', 'mmwqyv', 'mm', 'qyv', 'm', 'q', 'qy', 'y', 'yv']
+greedy output: kmmwqyvmmqy 1.57142857143
+604. iwsnfbs
+['wsnfb', 'iwsnf', 'b', 'nfb', 'f', 'i', 'fb', 'iws', 'w', 'bs', 'wsnfbs', 'nfbs']
+greedy output: nfbfiwsnfbsw 1.71428571429
+605. lrynshu
+['nsh', 'rynshu', 'ynshu', 'l', 's', 'lrynshu', 'y', 'lrynsh', 'ns', 'yns']
+greedy output: lrynshusynsh 1.71428571429
+606. vpintso
+['pin', 'pints', 'ts', 'pintso', 's', 'so', 't', 'intso', 'pint']
+greedy output: pintsots 1.14285714286
+607. ufodnwi
+['dn', 'd', 'f', 'ufod', 'o', 'fodn', 'wi', 'fodnw', 'nw', 'nwi', 'fo']
+greedy output: dnfoufodnwi 1.57142857143
+608. jufqbhl
+['bhl', 'f', 'fqb', 'ju', 'bh', 'jufqbhl', 'fqbh', 'hl', 'h', 'qbh']
+greedy output: fqbhjufqbhl 1.57142857143
+609. apwpdrw
+['rw', 'w', 'pwp', 'ap', 'apwpdr', 'pwpd', 'p', 'apwpdrw', 'pd', 'wp', 'pdrw', 'dr', 'pw']
+greedy output: apwpdrwpwpdr 1.71428571429
+610. icgrbhk
+['b', 'h', 'icgrbhk', 'bh', 'cgrb', 'hk', 'rbhk', 'grb', 'cg', 'rbh', 'icgr']
+greedy output: bcgrbhicgrbhk 1.85714285714
+611. phtlecv
+['phtlec', 'lec', 'p', 'htlecv', 'l', 'ecv', 'lecv', 'tle', 'tlec', 'htle', 'ph', 'pht']
+greedy output: phtlecvlhtlec 1.85714285714
+612. nnixmsi
+['ix', 'nn', 'xm', 'ixm', 'si', 'nnixm', 'nix', 'x', 'xmsi', 'n', 'ni']
+greedy output: nnixmsinix 1.42857142857
+613. kztsrgn
+['srg', 'kzt', 'k', 'ts', 'ztsrg', 'zt', 's', 'rg', 'g', 'srgn', 'gn', 'tsr', 'rgn']
+greedy output: kztsrgnztsrgs 1.85714285714
+614. zzdxqfl
+['zzdxqfl', 'f', 'zd', 'zdxqf', 'xqfl', 'qfl', 'zzdx', 'zzdxq', 'z', 'dxqfl']
+greedy output: zzdxqflzdxqf 1.71428571429
+615. wcexsvr
+['wcexs', 'xsvr', 'wc', 'cexsv', 'exsvr', 'sv', 'exsv', 'ex', 'xs', 'xsv', 'svr', 'cex']
+greedy output: wcexsvrxscexsv 2.0
+616. zxzxabk
+['zxz', 'xabk', 'xzxab', 'xa', 'zxabk', 'zx', 'x', 'zxzxa', 'z']
+greedy output: xazxzxabk 1.28571428571
+617. vxvnsed
+['vnsed', 'vxvn', 'ns', 'e', 'nsed', 'xvnse', 's', 'vns', 'v', 'xvnsed', 'vxv', 'se']
+greedy output: vnsevxvnsed 1.57142857143
+618. koynkco
+['c', 'co', 'ynk', 'k', 'ynkc', 'koynkco', 'oynkco', 'oynk', 'kco']
+greedy output: koynkcoynkc 1.57142857143
+619. plgukkd
+['plgukk', 'gu', 'kd', 'plgu', 'k', 'l', 'p', 'ukk', 'kkd', 'plgukkd', 'gukkd']
+greedy output: gukklplgukkd 1.71428571429
+620. bhsqszv
+['sz', 'sqszv', 'bhsqszv', 'hsqszv', 'sq', 'bh', 'hsq', 'hsqsz', 'h', 'bhsqs', 'z', 'sqsz']
+greedy output: sqbhsqszvhsqsz 2.0
+621. scssqbz
+['b', 'ss', 'qbz', 'cssqbz', 's', 'ssqbz', 'scssqb', 'cssqb', 'scs', 'sc', 'css']
+greedy output: sscssqbzcssqb 1.85714285714
+622. ixlvybo
+['ix', 'yb', 'xlv', 'i', 'bo', 'xlvy', 'vyb', 'ixlvyb', 'ybo', 'v', 'y', 'vy', 'ixlv']
+greedy output: xlvyixlvybov 1.71428571429
+623. vuyyyse
+['yys', 'yyy', 's', 'vuyyys', 'uyyyse', 'yyys', 'vuyyy', 'uyyy', 'ys', 'se']
+greedy output: vuyyyseuyyys 1.71428571429
+624. mqacfsp
+['mqa', 'a', 'c', 'acf', 'f', 'sp', 'mqac', 'qacfs', 'q', 'mq', 'cfs', 'acfs']
+greedy output: acfcqmqacfsp 1.71428571429
+625. algevsj
+['algevs', 'lg', 'algev', 'alg', 'gevsj', 'sj', 'vs', 'alge']
+greedy output: lgalgevsjvs 1.57142857143
+626. vprtecz
+['rte', 'pr', 'c', 'tec', 'vprtec', 'ec', 'cz', 'r', 'prte', 'ecz']
+greedy output: prtecvprteczr 1.85714285714
+627. noebhzi
+['h', 'oebh', 'bh', 'zi', 'ebhzi', 'oe', 'hzi', 'ebhz', 'oebhzi', 'oeb', 'z', 'bhzi']
+greedy output: bhoebhziebhz 1.71428571429
+628. uydsnvb
+['vb', 'uy', 'uydsnvb', 'dsnvb', 'n', 's', 'v', 'ydsnv', 'snvb']
+greedy output: uydsnvbnsydsnv 2.0
+629. bsxcxni
+['ni', 'b', 'xn', 'xcxn', 'xc', 'bsxcxni', 'n', 'cxni', 'sxcxni', 'cxn']
+greedy output: bsxcxnixcxn 1.57142857143
+630. ghoffth
+['ft', 'offt', 'f', 'off', 'o', 'ffth', 'ho', 'ghofft', 'fth', 'th', 't']
+greedy output: ghoffthofft 1.57142857143
+631. noapuzn
+['zn', 'oapuz', 'no', 'noapuzn', 'uz', 'noa', 'o', 'n', 'ap', 'u', 'apuz', 'z']
+greedy output: noapuznoapuzapu 2.14285714286
+632. ipruyhb
+['pr', 'yh', 'uy', 'h', 'pruyh', 'ruyh', 'pru', 'r', 'ruy', 'pruyhb']
+greedy output: pruyhbuyruyh 1.71428571429
+633. fkzawjc
+['a', 'fkzaw', 'k', 'j', 'wj', 'fkz', 'kza', 'awj', 'kzawj', 'fk', 'jc']
+greedy output: kzafkzawjc 1.42857142857
+634. vgrkznf
+['vgrkzn', 'vg', 'k', 'vgrkz', 'zn', 'rkz', 'n', 'vgrk', 'z', 'kzn', 'kznf']
+greedy output: vgrkznfkrkznz 1.85714285714
+635. jenvupz
+['e', 'envupz', 'pz', 'envup', 'up', 'p', 'upz', 'vu', 'vup', 'je']
+greedy output: vupjenvupz 1.42857142857
+636. vzhdtkl
+['dtk', 'vzhdtkl', 'vzh', 'zh', 'd', 'hdtkl', 'h', 'k', 'zhdtk', 'kl', 't', 'tkl']
+greedy output: vzhdtklzhdtkdht 2.14285714286
+637. zorxnyr
+['r', 'z', 'nyr', 'zorxnyr', 'zorx', 'ny', 'n', 'xnyr', 'x', 'yr']
+greedy output: zorxnyrnyx 1.42857142857
+638. mhfipgi
+['fipg', 'fip', 'f', 'i', 'hfip', 'p', 'mhfipgi', 'pg', 'fi']
+greedy output: fihfipgpmhfipgi 2.14285714286
+639. zrmskhq
+['mskh', 'k', 'hq', 'm', 's', 'h', 'rmskhq', 'z', 'zrm']
+greedy output: kmskhszrmskhq 1.85714285714
+640. zbtrmov
+['rmov', 'btrmo', 'tr', 'mov', 'o', 'r', 'rm', 'ov']
+greedy output: btrmovtrmo 1.42857142857
+641. wsftfxg
+['ftfx', 'tfxg', 'f', 'fx', 'tfx', 'x', 'sftf', 'wsft']
+greedy output: ftfxwsftfxg 1.57142857143
+642. qyaeimr
+['ae', 'qyaeim', 'eimr', 'm', 'aei', 'ei', 'mr', 'yae', 'qyaei', 'qyae']
+greedy output: myaeiqyaeimr 1.71428571429
+643. ythzlpm
+['zl', 'h', 'l', 'thzlp', 'p', 'lpm', 't', 'lp', 'hzl', 'pm', 'thzlpm', 'zlp']
+greedy output: hzlplthzlpm 1.57142857143
+644. eakiiqp
+['qp', 'iiq', 'iq', 'aki', 'ki', 'iqp', 'q', 'eakii', 'ak']
+greedy output: qeakiiqpaki 1.57142857143
+645. zjuvnei
+['vne', 'e', 'nei', 'zjuvne', 'uv', 'juvn', 'u', 'uvn', 'ei', 'zju', 'uvne']
+greedy output: ejuvnuvzjuvnei 2.0
+646. nsnfuzn
+['zn', 'z', 'nsn', 'uz', 'snfuz', 'fuz', 'snfuzn', 'nf', 'sn', 'nsnfuz', 'nsnfuzn', 'ns']
+greedy output: snfuznsnfuznf 1.85714285714
+647. kxxqnkx
+['xxq', 'nk', 'qnkx', 'xxqn', 'k', 'kxxq', 'xqnkx', 'xx', 'x', 'xq', 'qn']
+greedy output: nkxxqnkxxqn 1.57142857143
+648. twvzyps
+['ps', 'yps', 'tw', 'vzyp', 'p', 'vzy', 'zy', 'yp', 'vzyps']
+greedy output: twvzypszyp 1.42857142857
+649. kwnxlbb
+['b', 'bb', 'nxlb', 'xlbb', 'xlb', 'kwn', 'nx', 'lbb', 'w', 'nxl', 'kwnx', 'x']
+greedy output: kwnxlbbwxlb 1.57142857143
+650. mzrtsgo
+['rt', 'g', 'mzrts', 'tsg', 'mzrtsg', 'ts', 's', 'tsgo', 'sgo', 'go', 'z', 'zr']
+greedy output: gmzrtsgozrts 1.71428571429
+651. zjoqoga
+['zjo', 'zjoqoga', 'g', 'oqoga', 'joqo', 'o', 'q', 'oqog', 'oqo', 'oga', 'qo']
+greedy output: zjoqogajoqogoqoq 2.28571428571
+652. bgybcuc
+['c', 'b', 'bc', 'ybcuc', 'u', 'gybc', 'ybcu', 'bgy', 'uc']
+greedy output: bcubgybcuc 1.42857142857
+653. bmvtfcf
+['c', 'f', 'vtf', 'bm', 'v', 'm', 'cf', 'fc', 'vt', 'bmvtfcf', 'mvtf', 't']
+greedy output: bmvtfcfcvtmvtf 2.0
+654. bxcozzr
+['coz', 'xcozzr', 'ozzr', 'zzr', 'oz', 'zz', 'z', 'bx', 'zr']
+greedy output: cozzbxcozzr 1.57142857143
+655. nugolkq
+['gol', 'ugo', 'golk', 'k', 'olkq', 'o', 'lk', 'lkq']
+greedy output: ugolkqolk 1.28571428571
+656. vksiuhm
+['siuh', 'vksiuhm', 'siu', 'i', 'k', 'iu', 'iuhm', 'u', 'ksiuh', 'siuhm', 'uh']
+greedy output: vksiuhmsiuiksiuh 2.28571428571
+657. qqytcct
+['c', 'qy', 'tcct', 'qqytcc', 'ytc', 'qytcc', 'y', 'qqytc', 'ct']
+greedy output: qytcyqqytcct 1.71428571429
+658. pqvexly
+['qvex', 'qvexly', 'xl', 'qve', 'l', 'p', 'pqvexly', 'ex', 'xly', 'qvexl', 'ly']
+greedy output: qvexlpqvexlyex 2.0
+659. tigmjqf
+['mjqf', 'jqf', 'qf', 'jq', 'mj', 'q', 'gmjq', 'mjq', 'igmjqf', 'igmjq', 'ti', 't']
+greedy output: mjgmjqtigmjqf 1.85714285714
+660. jvjfxjj
+['xj', 'jfxjj', 'f', 'vjfxj', 'vj', 'j', 'fxjj', 'jvjf', 'jj', 'x', 'jvjfxj', 'jf', 'jfxj']
+greedy output: fvjvjfxjjfxjx 1.85714285714
+661. tosdmjp
+['dm', 'd', 'tosdm', 'tos', 'm', 'to', 's', 'jp', 'sdm', 'osdmjp', 'tosdmjp']
+greedy output: dtosdmjpsdm 1.57142857143
+662. qslmkqv
+['q', 'qv', 'k', 'lm', 'm', 'l', 'lmkqv', 'slm', 's', 'qslmkq']
+greedy output: qslmkqvklslm 1.71428571429
+663. viokxhj
+['kxh', 'xh', 'viokxhj', 'xhj', 'k', 'v', 'okxhj', 'o', 'hj', 'iokxhj', 'io', 'okx', 'iokxh', 'viokxh']
+greedy output: kviokxhjokxiokxh 2.28571428571
+664. ipmeobb
+['ipmeob', 'eobb', 'ipme', 'bb', 'ip', 'm', 'ob', 'o', 'p', 'ipmeobb', 'meob', 'pmeobb']
+greedy output: ipmeobbmeobop 1.85714285714
+665. piywtwc
+['twc', 'iywtwc', 'iywtw', 'wtwc', 'piywt', 'iyw', 'ywtwc', 'w', 'iywt', 'ywtw', 'pi']
+greedy output: iywtwpiywtwc 1.71428571429
+666. dzqqymr
+['ymr', 'ym', 'm', 'dzqqy', 'mr', 'y', 'zqqy', 'zq', 'dzqqymr']
+greedy output: dzqqymrzqqym 1.71428571429
+667. kvbeeis
+['eis', 'kvb', 'ei', 'ee', 'beei', 'is', 'eeis', 'kvbe', 'v', 'eei', 'k', 'e']
+greedy output: vkvbeeiseei 1.57142857143
+668. wxxnhdv
+['nh', 'wxxnhdv', 'd', 'xxnhdv', 'wxxn', 'wxx', 'xx', 'nhdv', 'xxnhd', 'dv', 'hd']
+greedy output: nhwxxnhdvxxnhd 2.0
+669. bsyzblh
+['sy', 'b', 'zbl', 'syzbl', 'lh', 'yzblh', 'yzb', 'yz', 'syzblh', 'y']
+greedy output: syzblhbyzbl 1.57142857143
+670. togczji
+['gcz', 'togczji', 'gczj', 'zji', 'j', 'cz', 't', 'togczj', 'z', 'ogc', 'ji']
+greedy output: cztogczjiogczj 2.0
+671. aoidzti
+['a', 'oid', 'ao', 'dz', 'dzt', 'aoidz', 'ti', 'zt', 'oidzti', 't']
+greedy output: aoidztioidzt 1.71428571429
+672. ricuowz
+['c', 'i', 'uowz', 'cuow', 'ricuowz', 'wz', 'u', 'owz', 'ri', 'cu']
+greedy output: cuowiuricuowz 1.85714285714
+673. bxghnwa
+['bxgh', 'wa', 'h', 'n', 'xghnw', 'nwa', 'w', 'xghnwa', 'bxg']
+greedy output: hnwbxghnwa 1.42857142857
+674. qgwcxzj
+['wcxz', 'q', 'wcxzj', 'qgw', 'wcx', 'qgwcxzj', 'xz', 'cx', 'qg', 'z', 'xzj']
+greedy output: qgwcxzjwcxzcx 1.85714285714
+675. upmrxgo
+['xgo', 'mrx', 'pmr', 'm', 'xg', 'mr', 'go']
+greedy output: pmrxgomr 1.14285714286
+676. huwhffu
+['fu', 'f', 'h', 'uw', 'huwhf', 'whffu', 'ff', 'uwhffu', 'huwh', 'ffu', 'hff']
+greedy output: huwhffuwhff 1.57142857143
+677. mczvods
+['d', 'czvod', 'czv', 'od', 'm', 'vo', 'mczv', 'cz', 'mczvo', 'zvods']
+greedy output: mczvodsczvod 1.71428571429
+678. bybwuvk
+['b', 'bwu', 'vk', 'bybwu', 'bybwuv', 'wu', 'v', 'y', 'wuvk']
+greedy output: bwubybwuvkvy 1.71428571429
+679. eszcwst
+['c', 'z', 'zcws', 'cws', 'cwst', 'szcw', 'st', 'ws', 'wst', 'zc', 'es']
+greedy output: zcwszcwstes 1.57142857143
+680. fndmloi
+['ndmlo', 'd', 'oi', 'f', 'lo', 'mloi', 'l', 'o', 'mlo', 'fndmlo']
+greedy output: dfndmloilo 1.42857142857
+681. simchwa
+['imc', 'ch', 'mc', 'wa', 'mch', 'i', 's', 'hw', 'hwa', 'si', 'mchwa', 'w', 'chw']
+greedy output: chwsimchwa 1.42857142857
+682. bmlprcc
+['bmlprc', 'c', 'mlpr', 'prc', 'prcc', 'bm', 'l', 'bmlp', 'lp', 'ml', 'lprcc', 'rcc']
+greedy output: bmlprcclpmlprc 2.0
+683. xdeybfa
+['dey', 'bf', 'de', 'xdeybf', 'f', 'yb', 'bfa', 'fa', 'y', 'x', 'ybf']
+greedy output: deybfyxdeybfa 1.85714285714
+684. yejuefq
+['ejuefq', 'j', 'e', 'ej', 'efq', 'uef', 'uefq', 'yeju']
+greedy output: ejuefyejuefq 1.71428571429
+685. vwwvrbo
+['ww', 'wwv', 'wwvr', 'wwvrb', 'vww', 'vwwvrb', 'rbo', 'wv', 'w', 'v']
+greedy output: wvwwvrbowwvrv 1.85714285714
+686. okyzlpx
+['kyzlpx', 'kyz', 'yzlp', 'k', 'p', 'zlp', 'z', 'px', 'zlpx']
+greedy output: yzlpkyzlpxz 1.57142857143
+687. lganzpl
+['nzp', 'ganzp', 'an', 'p', 'lgan', 'zpl', 'ganzpl', 'zp', 'lganz']
+greedy output: anzplganzpl 1.57142857143
+688. bhmyumq
+['hmyu', 'bhm', 'hmy', 'mq', 'myu', 'bhmyu', 'um', 'b', 'myumq', 'y', 'umq', 'hmyumq']
+greedy output: hmyumbhmyumqy 1.85714285714
+689. mbriyit
+['yi', 'iy', 'riy', 'it', 'iyit', 'yit', 'bri', 'y', 'ri']
+greedy output: briyityiri 1.42857142857
+690. mgcdanz
+['a', 'mg', 'mgcda', 'danz', 'cdanz', 'n', 'cd', 'nz', 'gcda', 'da']
+greedy output: mgcdanzncda 1.57142857143
+691. vkxoxsr
+['vkx', 'x', 'kxo', 'sr', 'k', 'oxsr', 'xox', 'oxs', 's', 'ox', 'xsr', 'kxoxsr', 'kx']
+greedy output: vkxoxsrkxoxsox 2.0
+692. tmoqguz
+['gu', 'oqguz', 'uz', 'moq', 'o', 'tm', 'u', 't', 'qg', 'tmo', 'moqguz']
+greedy output: otmoqguzqgu 1.57142857143
+693. oplgwdu
+['gw', 'wd', 'd', 'g', 'plgw', 'o', 'p', 'oplg', 'plgwdu', 'lgwd', 'lgw']
+greedy output: gwoplgwduplgwd 2.0
+694. joszgxq
+['szgxq', 'osz', 'g', 'oszgx', 'j', 'o', 'gxq', 'x', 'xq', 'os']
+greedy output: gjoszgxqx 1.28571428571
+695. sahqwzg
+['ahqw', 'ahqwz', 'zg', 'hqw', 'w', 'hqwzg', 'wzg', 'sa', 'z', 'hqwz']
+greedy output: hqwzwsahqwzg 1.71428571429
+696. ranoabi
+['a', 'o', 'b', 'no', 'ran', 'noab', 'bi', 'ranoa', 'an', 'noabi', 'oa', 'n', 'anoa']
+greedy output: anoabranoabin 1.85714285714
+697. vnmyzol
+['myzol', 'vnmy', 'zol', 'myzo', 'm', 'o', 'yz', 'v', 'y', 'vnmyz', 'nmyz', 'z', 'yzo']
+greedy output: mvnmyzolyzoz 1.71428571429
+698. tzwozoe
+['zo', 'tz', 'zoe', 'wozo', 'wo', 'ozo', 'zwozo', 'zwoz', 't', 'w', 'z']
+greedy output: tzwozoewoz 1.42857142857
+699. znqzyfk
+['zyf', 'zn', 'f', 'qz', 'znqzyfk', 'qzyfk', 'yfk', 'y', 'nq', 'nqzy']
+greedy output: qznqzyfkynqzyf 2.0
+700. apvyavv
+['vyav', 'v', 'pvya', 'ya', 'yav', 'apvy', 'p', 'av', 'vy']
+greedy output: vyapvyavp 1.28571428571
+701. dhazydd
+['zyd', 'd', 'dd', 'dhazy', 'yd', 'hazy', 'zy', 'y', 'z', 'ydd', 'hazyd']
+greedy output: dhazyddzy 1.28571428571
+702. twztlgh
+['lgh', 'ztlg', 'g', 'wztlg', 'twztlg', 'ztlgh', 'wztl', 't', 'w', 'twz', 'gh']
+greedy output: gtwztlghwztl 1.71428571429
+703. mzlozcf
+['zcf', 'ozc', 'zlo', 'l', 'zc', 'ozcf', 'zloz', 'lozcf', 'mzlo', 'z', 'mz']
+greedy output: ozclzmzlozcf 1.71428571429
+704. dwocbgd
+['c', 'b', 'd', 'g', 'cb', 'wocbgd', 'oc', 'w', 'dw', 'dwocbg']
+greedy output: dwocbgdgocbw 1.71428571429
+705. oncfkzg
+['ncfkzg', 'oncfk', 'k', 'ncfkz', 'nc', 'cf', 'fkz', 'zg', 'ncfk', 'kz', 'cfkzg', 'z']
+greedy output: oncfkzgkncfkzcf 2.14285714286
+706. tutvbqf
+['bqf', 'tvbq', 'vb', 'b', 'utvbq', 'tutvbq', 'q', 'utv', 'bq', 'qf', 'u', 'tutv']
+greedy output: qutvbtutvbqf 1.71428571429
+707. oholmxk
+['lmx', 'xk', 'holmxk', 'ol', 'lm', 'l', 'o', 'oho', 'mxk', 'olmxk', 'x']
+greedy output: lolmxoholmxk 1.71428571429
+708. oqugqfi
+['qu', 'g', 'gqf', 'qugq', 'qfi', 'qug', 'qugqf', 'fi', 'oqugqfi']
+greedy output: qugqfgoqugqfi 1.85714285714
+709. bmtbwau
+['a', 'tbwau', 'b', 'wa', 'bm', 'tbwa', 'tbw', 'bmtbwau', 'w', 'mtb', 'wau']
+greedy output: bmtbwauwmtbwa 1.85714285714
+710. thgqcmi
+['thgqcmi', 'g', 'hgqcmi', 'gqcmi', 'h', 'mi', 'q', 't', 'thg', 'gqc']
+greedy output: gqchqthgqcmi 1.71428571429
+711. bpzpplg
+['lg', 'pplg', 'bpzpplg', 'l', 'p', 'pl', 'bpz', 'bpzp', 'pzpp']
+greedy output: bpzpplgpzppl 1.71428571429
+712. wbnaxai
+['a', 'wb', 'ai', 'xai', 'axa', 'ax', 'x', 'nax', 'axai', 'wbnaxai']
+greedy output: wbnaxaixnaxa 1.71428571429
+713. wipwaad
+['a', 'aa', 'ad', 'wa', 'aad', 'ip', 'waa', 'wipw', 'wipwaad', 'ipw', 'w']
+greedy output: ipwaawipwaad 1.71428571429
+714. hjdzrzw
+['zw', 'd', 'hjdz', 'jdzr', 'rz', 'rzw', 'hjd', 'z', 'zr']
+greedy output: dhjdzrzwz 1.28571428571
+715. hurqhmc
+['mc', 'h', 'm', 'hu', 'q', 'qhmc', 'urq', 'qh', 'ur', 'rqh', 'qhm']
+greedy output: hurqhmcmq 1.28571428571
+716. uclmtzn
+['clm', 'zn', 'mtzn', 'uclmtzn', 'lm', 'm', 'l', 'lmtzn', 'lmtz', 'u', 't', 'z']
+greedy output: clmtzmluclmtznt 2.14285714286
+717. xnqnpom
+['om', 'qnp', 'npom', 'nqnpo', 'o', 'n', 'np', 'x', 'po', 'qn']
+greedy output: nqnpomxqnpo 1.57142857143
+718. zqtcmsx
+['msx', 'c', 'sx', 'qt', 'tcms', 'zqt', 'qtcm', 's', 'ms', 'qtcms']
+greedy output: czqtcmsxms 1.42857142857
+719. dwcktcx
+['dwcktcx', 'c', 'wcktcx', 'tcx', 'ktcx', 'k', 'cktc', 'cx', 'ktc']
+greedy output: dwcktcxcktck 1.71428571429
+720. hpsmykt
+['yk', 'psm', 'h', 'hp', 'smykt', 'psmy', 'kt', 'y', 'k']
+greedy output: hpsmyktyk 1.28571428571
+721. atdczqs
+['qs', 'tdczq', 'dczqs', 'q', 'dcz', 'at', 'td', 'z', 'tdczqs']
+greedy output: qdczatdczqs 1.57142857143
+722. nrrsqqz
+['qq', 'rr', 'rs', 'rsqq', 'q', 'r', 'nrr', 'rsq', 'qqz']
+greedy output: qnrrsqqz 1.14285714286
+723. hjnjhaa
+['a', 'aa', 'nj', 'hjnj', 'hjnjhaa', 'h', 'jnjh', 'njhaa', 'haa', 'jnj']
+greedy output: njnjhjnjhaah 1.71428571429
+724. mmdtirg
+['tirg', 'd', 'mm', 'ir', 'rg', 't', 'dt', 'r', 'irg']
+greedy output: dtirgmmirt 1.42857142857
+725. qokuyce
+['okuyc', 'ok', 'okuyce', 'qokuyc', 'okuy', 'uyc', 'o', 'kuyc', 'uyce', 'u', 'ku', 'kuyce']
+greedy output: qokuyceokuycku 2.0
+726. gwlwqsi
+['qs', 'g', 'qsi', 'wlwqsi', 'wqs', 'si', 'wlw', 'q', 'lw', 's', 'wq']
+greedy output: gqlwlwqsiwqs 1.71428571429
+727. daemhzc
+['em', 'mhzc', 'hzc', 'emh', 'zc', 'aemh', 'mhz', 'emhzc', 'mh']
+greedy output: emhzaemhzc 1.42857142857
+728. dqzxpwh
+['qzx', 'pw', 'zxp', 'dqz', 'p', 'zxpwh', 'w', 'xp', 'dqzx', 'xpw', 'qzxp', 'dq']
+greedy output: pxpwdqzxpwh 1.57142857143
+729. aqrayri
+['rayr', 'qray', 'qrayr', 'aqrayr', 'r', 'y', 'ayri', 'aqray', 'ri', 'ray']
+greedy output: qrayraqrayri 1.71428571429
+730. iiqrjis
+['qrjis', 'rjis', 'iiqr', 'iiq', 'i', 'is', 'qr', 'ji', 'iiqrj', 'r', 'iqrj', 'jis']
+greedy output: qrjiiqrjis 1.42857142857
+731. jypomjn
+['pomjn', 'omj', 'j', 'm', 'jypomjn', 'mj', 'p', 'pom', 'y', 'ypomjn']
+greedy output: mpomjypomjny 1.71428571429
+732. umiraou
+['umiraou', 'iraou', 'mi', 'o', 'raou', 'mirao', 'r', 'ao', 'ou']
+greedy output: umiraoumiraor 1.85714285714
+733. quwvfoo
+['qu', 'quw', 'f', 'uwvfoo', 'quwvfo', 'quwvfoo', 'wv', 'u', 'w', 'wvf']
+greedy output: quwvfoouwvf 1.57142857143
+734. oeceqyg
+['eqy', 'e', 'qy', 'eqyg', 'eceqyg', 'o', 'oece', 'y', 'ce', 'eceq', 'oeceqy', 'qyg']
+greedy output: oeceqygceceqy 1.85714285714
+735. ixzsunq
+['unq', 'zsun', 'xzsun', 'ixzsun', 'zsunq', 'n', 'ixz', 'u', 'xzsunq', 'x', 'ixzsunq', 'zs']
+greedy output: ixzsunquxzsunzs 2.14285714286
+736. mxmgaul
+['a', 'mxmga', 'm', 'aul', 'ul', 'u', 'x', 'au', 'mxmgau']
+greedy output: aumxmgaulx 1.42857142857
+737. kblolzp
+['lolzp', 'ol', 'lzp', 'kbl', 'zp', 'k', 'l', 'kblol', 'lolz', 'z', 'lz']
+greedy output: olzkblolzp 1.42857142857
+738. flbajvk
+['lbajvk', 'aj', 'lb', 'ajvk', 'vk', 'l', 'ajv', 'lba', 'flbaj', 'v']
+greedy output: lbajvflbajvk 1.71428571429
+739. hlirakn
+['rakn', 'a', 'akn', 'hlir', 'rak', 'kn', 'r', 'ra', 'hli', 'lirakn', 'hlirak']
+greedy output: arakhlirakn 1.57142857143
+740. zwahdtj
+['zwahdt', 'dtj', 'd', 'wa', 'wahdtj', 'h', 'tj', 't', 'w', 'dt', 'z', 'hd']
+greedy output: hdtwazwahdtj 1.71428571429
+741. nkgiaqd
+['a', 'g', 'i', 'giaq', 'giaqd', 'aqd', 'kgia', 'iaq', 'iaqd', 'gi']
+greedy output: agiaqkgiaqd 1.57142857143
+742. iupmlzx
+['lzx', 'upmlzx', 'upml', 'm', 'mlzx', 'p', 'zx', 'mlz', 'lz']
+greedy output: upmlzxmlzp 1.42857142857
+743. lfgztwg
+['twg', 'g', 'ztwg', 'w', 'fg', 'zt', 'ztw', 'gzt', 'fgzt']
+greedy output: wfgztwg 1.0
+744. rajxedt
+['xed', 'jx', 'jxed', 'ajxe', 'ed', 'j', 'raj', 'jxedt', 'edt', 'xedt', 'e', 'd']
+greedy output: jxedrajxedte 1.71428571429
+745. agdwskd
+['a', 'ag', 'wsk', 'sk', 'skd', 's', 'gdwsk', 'ws', 'w', 'dw', 'k']
+greedy output: agdwskdwswk 1.57142857143
+746. eqcxlbs
+['eqcxl', 'cxlbs', 'eqcxlbs', 'eqcx', 'qcx', 'l', 'q', 'qc', 'b', 'bs', 'cxlb', 'xlbs']
+greedy output: eqcxlbslqcxlb 1.85714285714
+747. pbvgtyx
+['bvgtyx', 'pbv', 'pbvgt', 'vgtyx', 'g', 'vgt', 'yx', 'pbvg', 'tyx', 'bvgt', 'y']
+greedy output: pbvgtyxgbvgty 1.85714285714
+748. yzibzol
+['z', 'yz', 'yzib', 'zol', 'ibz', 'ol', 'yzibzol', 'zibz', 'b', 'ibzol', 'bz']
+greedy output: zibzyzibzolb 1.71428571429
+749. uxraiuu
+['uxr', 'ux', 'ai', 'i', 'xra', 'rai', 'uu', 'raiu', 'iuu', 'ra']
+greedy output: uxraiuurai 1.42857142857
+750. asvreih
+['asvrei', 'ei', 'i', 'svreih', 'vr', 'ih', 's', 'rei', 'v', 'eih', 'reih']
+greedy output: asvreihsvrei 1.71428571429
+751. gktngds
+['gds', 'd', 'ktngd', 'tng', 'n', 'gktngd', 'gd', 't', 'ds', 'ngds']
+greedy output: ngdtngktngds 1.71428571429
+752. coervvv
+['oerv', 'e', 'vvv', 'oe', 'v', 'ervvv', 'o', 'ervv', 'r', 'rvv', 'vv', 'coervv']
+greedy output: eoervvrcoervvv 2.0
+753. muhmnck
+['ck', 'c', 'mn', 'mnck', 'h', 'nc', 'n', 'u', 'uh', 'hm']
+greedy output: ncuhmnck 1.14285714286
+754. xeqhkfi
+['kf', 'f', 'qhkf', 'hkfi', 'qh', 'xeq', 'x', 'fi', 'eqhkfi', 'xeqhkf']
+greedy output: qhkfxeqhkfi 1.57142857143
+755. xtwmghk
+['twmgh', 'g', 'hk', 'h', 'mgh', 'xtwmgh', 'wmghk', 't', 'ghk', 'xt', 'gh']
+greedy output: gmghtxtwmghk 1.71428571429
+756. aywyzyb
+['zyb', 'yzy', 'yb', 'wyz', 'aywyzyb', 'aywyz', 'y', 'ywyz', 'ayw', 'z', 'wyzyb']
+greedy output: ywyzyaywyzybz 1.85714285714
+757. rupzfhl
+['upzfh', 'pz', 'upzfhl', 'r', 'u', 'hl', 'h', 'rup', 'z']
+greedy output: pzrupzfhluh 1.57142857143
+758. lnanhgm
+['a', 'nanh', 'g', 'ln', 'h', 'nan', 'nanhg', 'anhg', 'l', 'gm', 'lna', 'hg']
+greedy output: ahlnanhgm 1.28571428571
+759. mhncbvz
+['mhn', 'c', 'b', 'cb', 'nc', 'm', 'bv', 'ncb', 'cbvz', 'vz']
+greedy output: cbvmhncbvz 1.42857142857
+760. oamwbml
+['a', 'wbml', 'bm', 'oam', 'm', 'mw', 'mwbml', 'wbm', 'mwbm']
+greedy output: aoamwbmlwbm 1.57142857143
+761. gdqxocw
+['qxoc', 'gdq', 'gdqxocw', 'g', 'dqx', 'qxo', 'dqxocw', 'xocw', 'xoc', 'x', 'gdqx', 'ocw']
+greedy output: gdqxocwdqxocx 1.85714285714
+762. vlcuogv
+['vlcuo', 'gv', 'c', 'lcuo', 'vlc', 'ogv', 'o', 'cuogv', 'cuog', 'vlcu']
+greedy output: cvlcuogvo 1.28571428571
+763. hjmnpnx
+['j', 'mnp', 'mn', 'hjmnp', 'n', 'nx', 'p', 'np', 'hjmnpn', 'pn']
+greedy output: jmnphjmnpnx 1.57142857143
+764. bxvbyhv
+['vb', 'byhv', 'bxvby', 'bxv', 'byh', 'v', 'y', 'vbyhv']
+greedy output: vbxvbyhvbyhy 1.71428571429
+765. rffgrzw
+['rffg', 'z', 'gr', 'f', 'ffgrzw', 'grz', 'rz', 'rffgrzw', 'zw', 'grzw', 'fgrzw']
+greedy output: rffgrzwgrzf 1.57142857143
+766. spzvegg
+['e', 've', 'g', 'veg', 'pz', 'eg', 'gg', 'spzv', 's', 'pzvegg', 'pzve', 'zv', 'z']
+greedy output: epzvegspzveggz 2.0
+767. jwvcbbc
+['jwvc', 'cbb', 'c', 'wvcbb', 'vcbbc', 'wvcb', 'cb', 'bbc', 'cbbc', 'wv', 'w']
+greedy output: jwvcbbcbbwv 1.57142857143
+768. qgsqapj
+['qgsqapj', 'q', 'g', 'sq', 'qgsqa', 'ap', 's', 'qgsq', 'pj']
+greedy output: gapsqgsqapj 1.57142857143
+769. illsqva
+['qv', 'i', 'll', 'sqv', 'lsqv', 'q', 's', 'llsq', 'llsqva', 'lsq', 'lsqva']
+greedy output: illsqvaqslsqv 1.85714285714
+770. hcpixgd
+['ix', 'c', 'hcpix', 'g', 'cpi', 'xgd', 'ixg', 'gd', 'cpix', 'pixgd', 'hcpixgd']
+greedy output: cpixghcpixgd 1.71428571429
+771. xdlqbyp
+['dl', 'b', 'dlqbyp', 'l', 'byp', 'xdlq', 'qb', 'y', 'yp', 'lqbyp']
+greedy output: dlxdlqbypqby 1.71428571429
+772. ydzvzvb
+['vb', 'zvzv', 'vzv', 'ydz', 'v', 'vz', 'z', 'vzvb', 'zv']
+greedy output: ydzvzvbvz 1.28571428571
+773. okpcvij
+['pcvi', 'c', 'ok', 'kpc', 'vij', 'vi', 'kpcv', 'i', 'ij', 'v']
+greedy output: cokpcvijvi 1.42857142857
+774. tnbzont
+['on', 'tnbz', 'nb', 'n', 'tn', 'ont', 'zont', 'bzon', 'nt', 'nbzon']
+greedy output: onbntnbzont 1.57142857143
+775. mtomuaa
+['a', 'tomuaa', 'tomu', 'mtomu', 'to', 'mua', 't', 'uaa', 'mtomua', 'ua', 'mtomuaa', 'mto']
+greedy output: tomuamtomuaa 1.71428571429
+776. ggelvux
+['el', 'g', 'gelv', 'gelvux', 'lv', 'ggel', 'u', 'ggelvux', 'vux']
+greedy output: elgelvggelvuxu 2.0
+777. xdvhprv
+['pr', 'rv', 'd', 'hpr', 'xdvhpr', 'dvhprv', 'xdvhp', 'xdv', 'xdvhprv', 'xdvh', 'vhpr']
+greedy output: dxdvhprvhpr 1.57142857143
+778. aoepfkq
+['aoepfk', 'f', 'oep', 'oepfk', 'p', 'pf', 'aoep', 'epf', 'fkq', 'epfkq', 'aoepfkq']
+greedy output: oepfkpaoepfkqepf 2.28571428571
+779. lfynkgr
+['fynk', 'kgr', 'kg', 'gr', 'g', 'f', 'fynkgr', 'lfynkgr', 'lfynk']
+greedy output: fynkglfynkgr 1.71428571429
+780. oymydsu
+['ym', 'd', 'mydsu', 'm', 'myds', 'su', 'yds', 's', 'oy', 'y', 'oymyds', 'my', 'ds']
+greedy output: doymydsuymyds 1.85714285714
+781. wpuylob
+['puylo', 'wpuylo', 'uylo', 'wpu', 'pu', 'ob', 'o', 'p', 'lo', 'y', 'uyl']
+greedy output: wpuylobopuyly 1.85714285714
+782. gsplfeh
+['lf', 'e', 'eh', 'feh', 'plfeh', 'plfe', 'pl', 'lfeh']
+greedy output: lfeplfeh 1.14285714286
+783. ctkaaym
+['a', 'c', 'ctkaaym', 'ctkaay', 'tka', 'tkaa', 'kaa', 'ay', 'tk', 'y', 'tkaay']
+greedy output: ctkaaymkaatkaay 2.14285714286
+784. xhvniaj
+['xhvnia', 'xh', 'hvnia', 'iaj', 'i', 'aj', 'hv', 'vni', 'v', 'x', 'vniaj', 'xhvniaj']
+greedy output: hvniavnixhvniaj 2.14285714286
+785. mefflsr
+['me', 'e', 'f', 'sr', 'effls', 'flsr', 'mefflsr', 's', 'ls', 'fl', 'eff']
+greedy output: mefflsrefflsfl 2.0
+786. cxmyrmd
+['md', 'c', 'yrm', 'm', 'xmyr', 'rmd', 'my', 'myrmd']
+greedy output: cyrmyxmyrmd 1.57142857143
+787. rlhgktn
+['gktn', 'lhgk', 'g', 'h', 'gkt', 'l', 'tn', 'ktn', 'lhgkt', 'gk']
+greedy output: gkthlhgktn 1.42857142857
+788. nyahdok
+['do', 'ahdo', 'nyahdok', 'nyah', 'o', 'hdo', 'ahdok', 'yahdo', 'ok', 'hdok', 'd']
+greedy output: nyahdokyahdod 1.85714285714
+789. gekzssb
+['kzs', 'ekzssb', 'ek', 'zss', 'ss', 'zssb', 'kzss', 's', 'ekzs', 'sb', 'zs', 'ekz']
+greedy output: kzssekzssbzs 1.71428571429
+790. qboakwf
+['wf', 'ak', 'akw', 'oa', 'boakw', 'q', 'kw', 'w', 'boa', 'k', 'oakw', 'qbo']
+greedy output: oakqboakwfw 1.57142857143
+791. kkfxlom
+['xlom', 'kfxlom', 'om', 'xl', 'kfxlo', 'l', 'kfx', 'lom', 'fxl', 'o', 'kkfxl', 'xlo']
+greedy output: lkfxlokkfxlom 1.85714285714
+792. htnqkaj
+['a', 'ka', 'aj', 'k', 'htnq', 'nqkaj', 'q', 't', 'nqk', 'nqka', 'tnqk', 'tnqka']
+greedy output: htnqkajqtnqka 1.85714285714
+793. gnswwwa
+['gns', 'g', 'wa', 'wwwa', 'sw', 'nswwwa', 'ww', 's', 'w', 'gnswww', 'sww']
+greedy output: gnswwwasww 1.42857142857
+794. mlyetgz
+['g', 'lyet', 'tgz', 'ml', 'ye', 'gz', 'l', 'mlyet', 'et', 'etgz', 'lyetgz']
+greedy output: gmlyetgzyetl 1.71428571429
+795. gpdkxqf
+['dkxqf', 'gpdkx', 'd', 'gpd', 'kxqf', 'dkx', 'gpdkxqf', 'dkxq', 'x', 'pd', 'pdkx', 'kxq', 'kx']
+greedy output: dgpdkxqfpdkxqkx 2.14285714286
+796. mzgobux
+['bux', 'b', 'zgobu', 'ob', 'gobux', 'gob', 'u', 'o', 'go', 'obux', 'mzgob']
+greedy output: uogobmzgobux 1.71428571429
+797. hogbkyg
+['hogbkyg', 'k', 'kyg', 'gbk', 'yg', 'gb', 'bkyg', 'gbkyg', 'bky', 'ho']
+greedy output: khogbkygbky 1.57142857143
+798. bvkneyy
+['neyy', 'k', 'ney', 'n', 'yy', 'vkney', 'ey', 'v', 'y', 'kneyy']
+greedy output: kneyvkneyy 1.42857142857
+799. wdxzxnq
+['wdxzxn', 'xn', 'dxz', 'dxzxnq', 'xzx', 'dxzx', 'wdxz', 'xz', 'zxnq', 'nq', 'x', 'zxn']
+greedy output: dxzxnwdxzxnqxz 2.0
+800. ihwhspj
+['hwh', 'hs', 'sp', 'ihw', 'p', 's', 'w', 'h', 'hspj']
+greedy output: ihwhspjspwh 1.57142857143
+801. wcooska
+['ka', 'k', 'cooska', 'o', 'oosk', 'osk', 'w', 'os', 'wcoos']
+greedy output: ooskwcooskaos 1.85714285714
+802. bivkutd
+['ivkut', 'bivkut', 'utd', 'i', 'kut', 'vku', 'iv', 'ivk', 't', 'vkutd']
+greedy output: bivkutdivkut 1.71428571429
+803. llmoagx
+['oag', 'g', 'moag', 'l', 'o', 'gx', 'llmoa', 'oagx', 'agx', 'llmo', 'moagx']
+greedy output: llmoagxoag 1.42857142857
+804. yemrpio
+['yemrpi', 'rp', 'emrpi', 'pio', 'i', 'ye', 'm', 'y', 'mr', 'rpi']
+greedy output: imrpyemrpio 1.57142857143
+805. ekpolyb
+['ol', 'ek', 'k', 'l', 'ekpol', 'kpoly', 'oly', 'y', 'polyb', 'kpol', 'ekp']
+greedy output: ekpolybkpolyl 1.85714285714
+806. khnrdcw
+['nrdc', 'rdc', 'h', 'k', 'kh', 'dc', 'hn', 'khn', 'khnr', 'dcw', 'cw']
+greedy output: hnkhnrdcw 1.28571428571
+807. gavdotj
+['vd', 'vdot', 'gavdot', 'tj', 't', 'ga', 'v', 'avd', 'dotj', 'avdo', 'ot']
+greedy output: gavdotjvdavdot 2.0
+808. apvpjqa
+['apvpjq', 'vpjq', 'ap', 'j', 'jq', 'jqa', 'qa', 'pj', 'vp', 'q', 'v', 'pvpjqa', 'pjqa']
+greedy output: apvpjqapjvpjq 1.85714285714
+809. sdhvsyx
+['dh', 'hvsyx', 'sdhv', 'yx', 's', 'hvsy', 'v', 'y', 'dhvs', 'syx']
+greedy output: dhsdhvsyxvy 1.57142857143
+810. ggawgyq
+['a', 'wg', 'w', 'g', 'wgyq', 'gawgy', 'gg', 'yq', 'ggawg', 'gyq', 'aw', 'y']
+greedy output: awggawgyqwy 1.57142857143
+811. ohciluc
+['hcil', 'c', 'ilu', 'i', 'l', 'ohcil', 'cil', 'lu', 'u', 'il', 'hci', 'ciluc']
+greedy output: lohciluchcilu 1.85714285714
+812. saoqrbw
+['saoq', 'aoqrb', 'qrb', 'sao', 'rbw', 'aoqr', 'q', 'rb', 'saoqrbw', 'sa', 'saoqr', 'qrbw']
+greedy output: aoqrbqsaoqrbw 1.85714285714
+813. garnopo
+['garn', 'no', 'n', 'p', 'nopo', 'opo', 'op']
+greedy output: garnopopn 1.28571428571
+814. asuwlss
+['a', 'asu', 'wls', 'l', 'wlss', 'u', 'ls', 'uwl', 'asuw', 'lss']
+greedy output: asuwlsslsu 1.42857142857
+815. uioxlcp
+['x', 'c', 'oxlcp', 'lc', 'o', 'ox', 'xlcp', 'cp']
+greedy output: xlcoxlcp 1.14285714286
+816. wgsjvmt
+['sjvm', 'g', 'wgsjvmt', 'm', 'gsjvm', 'vm', 'wgsjvm', 'sj', 's', 'vmt', 'gsjv']
+greedy output: gsjvmwgsjvmtsj 2.0
+817. uoiuplv
+['upl', 'uoiuplv', 'i', 'iu', 'up', 'l', 'lv', 'uplv', 'uoiupl', 'u', 'oiu']
+greedy output: iuploiuoiuplv 1.85714285714
+818. jegsaxp
+['a', 'gs', 'g', 'egs', 'jegsax', 'sax', 'gsaxp', 'egsa', 'xp', 'jegsaxp']
+greedy output: agsegsaxjegsaxp 2.14285714286
+819. ttgpobg
+['tgpob', 'gp', 'tgpo', 'ttgp', 'ob', 'ttgpobg', 'p', 'bg', 't', 'tg', 'po']
+greedy output: ttgpobgpotgpob 2.0
+820. ansuvzq
+['nsu', 'nsuv', 'ansu', 'nsuvzq', 'suvz', 's', 'uvzq', 'v', 'vzq', 'z', 'zq']
+greedy output: ansuvzqsuvzv 1.71428571429
+821. faltuok
+['lt', 'o', 'al', 'altuo', 'uo', 'u', 'ltuok', 'tuo', 'alt', 'altu', 'faltuok']
+greedy output: ltaltuoufaltuok 2.14285714286
+822. hivfskt
+['skt', 'ivfskt', 'f', 'k', 'fsk', 'v', 'hivf', 'sk', 's', 'vfskt', 'kt']
+greedy output: fskvhivfskts 1.71428571429
+823. wsbwdjw
+['dj', 'djw', 'wdjw', 'sbwdjw', 'j', 'sbwd', 'sbwdj', 's', 'bwd', 'w']
+greedy output: sbwdjwbwdj 1.42857142857
+824. yfefrxs
+['fr', 'rx', 'fefrxs', 'yf', 'fe', 'x', 'rxs', 'yfefrxs', 'fefr']
+greedy output: yfefrxsfefrx 1.71428571429
+825. cvckmwo
+['ck', 'c', 'vckmwo', 'ckmwo', 'k', 'cvckmw', 'kmwo', 'wo', 'mw', 'ckm']
+greedy output: ckmwkcvckmwo 1.71428571429
+826. pljxxuf
+['jxxuf', 'pljx', 'j', 'xxuf', 'jxxu', 'p', 'xuf', 'u', 'x', 'xu']
+greedy output: jpljxxufxu 1.42857142857
+827. sxynxmb
+['xynxmb', 'xm', 'm', 'xmb', 'ynx', 'nxmb', 'y', 'x', 'xyn', 'ynxmb']
+greedy output: ynxmxynxmb 1.42857142857
+828. llhqgej
+['llhqg', 'e', 'llhq', 'lhqge', 'h', 'll', 'llhqge', 'hqge', 'gej', 'qge', 'hqgej', 'qgej']
+greedy output: hllhqgejqge 1.57142857143
+829. timwzdo
+['wzdo', 'imwz', 'mwzdo', 'd', 'i', 'm', 'imwzd', 'tim', 'ti', 'timwz', 'mwzd']
+greedy output: imwzdtimwzdo 1.71428571429
+830. kkiyjkl
+['j', 'iyjkl', 'i', 'ki', 'iyjk', 'kiyj', 'iyj', 'kiyjk', 'y', 'k']
+greedy output: iyjykiyjkl 1.42857142857
+831. khlbzjb
+['b', 'lb', 'zj', 'h', 'zjb', 'hlbzj', 'khlbzjb', 'hl', 'hlbzjb', 'z', 'jb']
+greedy output: lbhlbzjkhlbzjbz 2.14285714286
+832. opagwhx
+['opag', 'hx', 'pagwhx', 'opagwh', 'gwhx', 'pagwh', 'o', 'pagw', 'g', 'w', 'whx', 'opagwhx']
+greedy output: opagwhxpagwhgw 2.0
+833. dtkepno
+['e', 'dtke', 'k', 'epn', 'dtkepn', 'kepn', 'pno', 'ep', 'dtkepno']
+greedy output: epdtkepnokepn 1.85714285714
+834. wavcdaq
+['a', 'vcda', 'vcd', 'cda', 'wavcdaq', 'da', 'aq', 'avcd', 'av', 'avc']
+greedy output: avcdawavcdaq 1.71428571429
+835. evgbqww
+['ww', 'b', 'g', 'q', 'gbqww', 'bq', 'w', 'gbq', 'gb']
+greedy output: bqgbqww 1.0
+836. hqqtzpy
+['hqqtz', 'py', 'qt', 'hqqtzpy', 'qtzpy', 'qtz', 'q', 'qtzp', 'z']
+greedy output: hqqtzpyqtzpz 1.71428571429
+837. kgxukcx
+['kc', 'ukcx', 'c', 'k', 'gxu', 'cx', 'gxuk', 'kgxukc', 'xukc', 'xu']
+greedy output: gxukckgxukcxu 1.85714285714
+838. ufgdqjz
+['fgdq', 'jz', 'g', 'j', 'ufg', 'q', 'qjz', 'gd', 'fgd', 'gdqjz', 'dqj']
+greedy output: gdqjufgdqjzq 1.71428571429
+839. wuviqgf
+['wuviqg', 'wuviq', 'uviqgf', 'i', 'vi', 'iqgf', 'uvi', 'viqg', 'wuviqgf', 'qg', 'v', 'qgf', 'iqg']
+greedy output: wuviqgfiuviqgv 2.0
+840. pwuvakv
+['va', 'wuv', 'wuvakv', 'k', 'v', 'akv', 'vakv', 'kv', 'wuvak', 'ak']
+greedy output: wuvakvakv 1.28571428571
+841. fnidrxb
+['ni', 'nidrx', 'i', 'f', 'xb', 'fnidrxb', 'idrx', 'idrxb', 'x', 'nidrxb']
+greedy output: nidrxifnidrxb 1.85714285714
+842. ryikuyk
+['kuyk', 'yi', 'yk', 'kuy', 'iku', 'ryi', 'i', 'yikuy', 'ik', 'u', 'yiku', 'y', 'uyk']
+greedy output: ryikuykikuy 1.57142857143
+843. hdfbace
+['a', 'c', 'b', 'f', 'df', 'fb', 'hdfb', 'hdf', 'hdfbac', 'bac', 'hdfba', 'ac']
+greedy output: adfbhdfbac 1.42857142857
+844. tjciais
+['a', 'ci', 'iai', 'i', 'is', 'j', 'tjci', 'ai', 'tjciai', 'ia', 'jciais']
+greedy output: aciaijtjciais 1.85714285714
+845. fqsivxo
+['vxo', 'siv', 'f', 'i', 'qsi', 'iv', 'q', 's', 'v', 'vx', 'x']
+greedy output: fiqsivxosx 1.42857142857
+846. ufzzime
+['me', 'fzz', 'zim', 'ime', 'zzim', 'zime', 'uf', 'ufzz', 'u', 'zzime', 'z']
+greedy output: ufzzimezim 1.42857142857
+847. oivjebw
+['oivj', 'b', 'e', 'ivje', 'j', 'ivj', 'eb', 'jeb', 'vjeb', 'ebw', 'vje']
+greedy output: oivjebwbjivje 1.85714285714
+848. mbsmxnl
+['bsmxn', 'bsm', 'bsmx', 'mbsmxnl', 'smxnl', 'mxn', 'mbsmxn', 'mxnl', 'sm', 'bs', 'n']
+greedy output: smbsmxnlbsmxn 1.85714285714
+849. hxbbjto
+['hx', 'bbj', 'jt', 'j', 'bj', 'to', 'bjt', 't', 'bbjto', 'hxbbjto']
+greedy output: hxbbjtobbjtj 1.71428571429
+850. pgxwecr
+['pgxwe', 'x', 'c', 'e', 'gx', 'gxwe', 'gxw', 'xwecr', 'gxwec', 'pgxw', 'xwe', 'wecr']
+greedy output: xcgxwepgxwecr 1.85714285714
+851. rlcpsum
+['c', 'rlcps', 'l', 'su', 'rlcpsu', 's', 'r', 'rlc', 'cp', 'psu']
+greedy output: cplsrlcpsu 1.42857142857
+852. pmfyxxy
+['pmfyxxy', 'yxx', 'pmfyx', 'yx', 'fy', 'pmf', 'mfyxxy', 'xx', 'xy', 'mfy', 'x', 'fyx']
+greedy output: pmfyxxymfyxx 1.71428571429
+853. vqwlhba
+['vqwl', 'ba', 'h', 'hba', 'l', 'wlh', 'wlhba', 'w', 'vqwlh', 'wlhb']
+greedy output: vqwlhbahlw 1.42857142857
+854. wcxdrxw
+['drx', 'd', 'dr', 'rx', 'wcxdrxw', 'drxw', 'x', 'xdrxw', 'xw', 'xdrx']
+greedy output: drwcxdrxwxdrx 1.85714285714
+855. qhijntx
+['hijnt', 'tx', 'ijnt', 'n', 'ijntx', 't', 'qh', 'hij', 'qhijntx', 'nt', 'ijn']
+greedy output: qhijntxhijntijn 2.14285714286
+856. npaxgbb
+['a', 'paxg', 'b', 'gbb', 'pax', 'xgb', 'xg', 'n', 'npax', 'paxgbb', 'x', 'npaxgbb']
+greedy output: apaxgbnpaxgbbxg 2.14285714286
+857. xwbquel
+['uel', 'bquel', 'wbq', 'xwbq', 'bque', 'que', 'bq', 'w', 'ue', 'xwb']
+greedy output: quewxwbquel 1.57142857143
+858. rrhorhy
+['rhy', 'orhy', 'hy', 'h', 'o', 'rhorhy', 'ho', 'orh', 'horhy', 'rh', 'or', 'rrhor']
+greedy output: horhrrhorhy 1.57142857143
+859. keesrbe
+['b', 'e', 'esr', 'ee', 'k', 'srbe', 'eesrbe', 'keesrbe', 'rbe', 'es']
+greedy output: bkeesrbeesr 1.57142857143
+860. hajhtik
+['a', 'haj', 'i', 'ajht', 'hti', 'jhtik', 'hajht', 'jht', 'tik', 'ha', 'hajh', 't']
+greedy output: ajhtihajhtikt 1.85714285714
+861. nykyekq
+['yek', 'e', 'ek', 'k', 'nyky', 'ye', 'kye', 'n', 'kq', 'yekq', 'ekq']
+greedy output: yeknykyekq 1.42857142857
+862. uqohlfk
+['ohl', 'hlfk', 'ohlfk', 'uqo', 'oh', 'h', 'ohlf', 'uq', 'l', 'lfk', 'hlf', 'fk', 'qohl', 'qo']
+greedy output: uqohlfklqohlf 1.85714285714
+863. rouwunq
+['ouwu', 'uwun', 'wunq', 'ouwun', 'u', 'w', 'rou', 'nq', 'ouw', 'wun', 'rouwunq']
+greedy output: uwrouwunqouwun 2.0
+864. rlxqbmt
+['lxq', 'lxqb', 'm', 'mt', 'xqbm', 'qb', 'bmt', 'rlxq', 'rl', 'lx']
+greedy output: mqbrlxqbmtlx 1.71428571429
+865. cbshrfo
+['b', 'shrfo', 'f', 'rf', 'cbshr', 'cbshrfo', 'sh', 'bsh', 'r', 'rfo', 'fo']
+greedy output: bshcbshrforf 1.71428571429
+866. bnllzpt
+['llz', 'nllzpt', 'pt', 'lzp', 'l', 'lzpt', 'n', 'p', 'zpt', 'z', 'zp']
+greedy output: llzpnllzptz 1.57142857143
+867. lnhkhkf
+['kf', 'h', 'k', 'nhkh', 'lnhk', 'n', 'hk', 'khkf', 'khk']
+greedy output: hklnhkhkfn 1.42857142857
+868. bdumusk
+['musk', 'bd', 'd', 'm', 'usk', 'us', 'sk', 'mu', 's', 'bdumusk']
+greedy output: bdumuskdmus 1.57142857143
+869. ublikzu
+['blikzu', 'i', 'ikz', 'blik', 'z', 'ikzu', 'bli', 'blikz', 'kz', 'zu', 'ub', 'ubli', 'ublikz']
+greedy output: iblikzublikzu 1.85714285714
+870. bgfeucx
+['c', 'e', 'gfeuc', 'g', 'f', 'bgfe', 'ucx', 'cx', 'u', 'bgfeucx', 'eucx', 'uc']
+greedy output: egfeucfbgfeucxu 2.14285714286
+871. nqjrret
+['qjrre', 'jrret', 'rr', 'rret', 'jr', 'n', 'r', 'jrr', 'nqj', 'et', 'qj', 'ret']
+greedy output: nqjrretqjrr 1.57142857143
+872. zvaymeo
+['aym', 'va', 'eo', 'e', 'zvay', 'm', 'aymeo', 'v', 'z', 'vaymeo']
+greedy output: evaymzvaymeo 1.71428571429
+873. smegvhn
+['me', 'gv', 'meg', 'egvh', 'egvhn', 'gvhn', 'v', 'smegvhn', 'megvhn', 's', 'vhn', 'gvh', 'egv']
+greedy output: megvhgvsmegvhn 2.0
+874. iqdkezo
+['iqdk', 'e', 'd', 'ke', 'k', 'dkez', 'q', 'kez', 'ez', 'z']
+greedy output: iqdkezdkeq 1.42857142857
+875. bmhrvxx
+['hrvx', 'bmhrv', 'bm', 'bmh', 'hrv', 'r', 'rvxx', 'vx', 'x', 'mhrvx']
+greedy output: bmhrvxxhrvxr 1.71428571429
+876. nsagqtk
+['nsagqtk', 'qt', 'ag', 'agqtk', 'q', 't', 'sa', 'ns', 'nsagqt', 'qtk']
+greedy output: qtsagnsagqtk 1.71428571429
+877. yvkzefi
+['ze', 'k', 'yvkzef', 'y', 'fi', 'zefi', 'kz', 'z', 'kzef']
+greedy output: kzeyvkzefiz 1.57142857143
+878. jyxrxul
+['jyxrxul', 'jyxrxu', 'xrxu', 'j', 'rx', 'jyx', 'yxrxul', 'ul', 'r', 'u']
+greedy output: jyxrxulrxrxu 1.71428571429
+879. yuifkth
+['fk', 'f', 'i', 'ifkth', 'uifkth', 'yui', 'yuifk', 'th', 'yuif', 'fkt', 'ifk']
+greedy output: fifktyuifkth 1.71428571429
+880. qrhpmav
+['qrhpmav', 'ma', 'hpmav', 'rhp', 'av', 'qrhpma', 'r', 'h', 'rhpma', 'pm']
+greedy output: qrhpmavrhpmahpm 2.14285714286
+881. muehtms
+['e', 'ueh', 'uehtms', 'h', 'ehtm', 'm', 'mu', 'u', 'ms', 'htms', 'ehtms']
+greedy output: ehtmuehtmshu 1.71428571429
+882. rvfsnkb
+['kb', 'rv', 'rvfs', 'f', 's', 'k', 'snkb', 'snk', 'fsn', 'n', 'vfsnkb', 'rvfsnk']
+greedy output: rvfsnkbfsnksn 1.85714285714
+883. zddgpus
+['d', 'gp', 'dd', 'pu', 'dgp', 'zddg', 'zddgpu', 'u', 'gpu', 'gpus', 'ddg']
+greedy output: ddgpuzddgpus 1.71428571429
+884. incxrac
+['a', 'cxrac', 'ac', 'incx', 'nc', 'xra', 'incxrac', 'n', 'incxr', 'ncxra', 'in', 'x', 'inc']
+greedy output: ncxraincxracx 1.85714285714
+885. zendgvh
+['gv', 'gvh', 'zendgv', 'vh', 'dgvh', 'n', 'dgv', 'ndgv', 'v', 'z', 'ndgvh']
+greedy output: ndgvzendgvh 1.57142857143
+886. pwmqbvf
+['mqbvf', 'b', 'vf', 'm', 'pwmqb', 'q', 'p', 'bv', 'qb', 'v', 'pwm']
+greedy output: mqbvpwmqbvf 1.57142857143
+887. axxbzsk
+['b', 'axxbzs', 'sk', 's', 'xbzsk', 'axxbz', 'bzsk', 'xbzs', 'axxb', 'zsk']
+greedy output: bxbzsaxxbzsk 1.71428571429
+888. hoqrexs
+['oqrexs', 'e', 'qrexs', 'hoqrexs', 'hoqrex', 'o', 'oqre', 'ex', 'hoq', 'ho']
+greedy output: oqrexhoqrexs 1.71428571429
+889. ttvmhxr
+['ttvmh', 'vmh', 'hxr', 'h', 'tt', 'v', 'm', 'xr', 'vmhxr', 'ttvmhx', 'ttvmhxr', 'x']
+greedy output: ttvmhxrvmhmx 1.71428571429
+890. bnftmay
+['a', 'f', 'may', 'n', 'ay', 'bnftma', 'tm', 't', 'ftma', 'nftmay', 'nft']
+greedy output: fnftmabnftmaytm 2.14285714286
+891. vepkshx
+['vepkshx', 'hx', 'e', 've', 'kshx', 'h', 'pksh', 's', 'epk', 'vepks', 'ep']
+greedy output: epkshvepkshxs 1.85714285714
+892. ctunvre
+['ctu', 'c', 'nvr', 'ctunvre', 'tunv', 'n', 'vr', 'r', 't', 'tunvre', 'unvr', 'nv', 'ct']
+greedy output: ctunvrenvtunvr 2.0
+893. jhrxsjr
+['hrxs', 'j', 'jr', 'hrxsjr', 'sj', 'xsj', 'rxs']
+greedy output: hrxsjrxsj 1.28571428571
+894. dpyvyqc
+['vyq', 'dpyvyqc', 'py', 'yvy', 'pyv', 'q', 'y', 'yqc', 'yq', 'vy', 'yvyq', 'yv']
+greedy output: dpyvyqcpyvyqyvy 2.14285714286
+895. jbsalgf
+['bsalg', 'lg', 'jbsalgf', 'lgf', 'l', 'al', 'jbsa', 'gf', 's', 'jbsal', 'bsal', 'jb']
+greedy output: alsbsalgjbsalgf 2.14285714286
+896. pjrcbik
+['pjrcb', 'b', 'cb', 'j', 'jr', 'ik', 'r', 'rcbik', 'rc', 'pj', 'pjrcbi', 'rcb', 'cbik']
+greedy output: jrcbpjrcbik 1.57142857143
+897. swvtkss
+['ss', 'k', 'wvtks', 'wvtkss', 'wv', 's', 't', 'w', 'tks', 'swv']
+greedy output: ktkswvtkssw 1.57142857143
+898. qxgaril
+['garil', 'aril', 'i', 'xg', 'xgar', 'qxgaril', 'il', 'ga', 'qxga', 'ri']
+greedy output: xgarigaqxgaril 2.0
+899. bchoihb
+['ih', 'hoih', 'choihb', 'bc', 'hb', 'ho', 'choi', 'ihb', 'bchoih', 'bcho']
+greedy output: bchoihbchoiho 1.85714285714
+900. mgfavhy
+['a', 'hy', 'vhy', 'g', 'gf', 'vh', 'av', 'm', 'fa', 'avh', 'gfavh', 'gfav']
+greedy output: gfavhymfavh 1.57142857143
+901. ravxqsd
+['avxq', 'qs', 'avx', 'xqsd', 'v', 'q', 'ravxq', 'xqs', 'vxq', 'sd']
+greedy output: avxvqsravxqsd 1.85714285714
+902. dnkwmpk
+['dnkwmp', 'nkwmp', 'wmp', 'm', 'mpk', 'p', 'nkwm', 'w', 'nkw', 'pk']
+greedy output: dnkwmpkpwnkwm 1.85714285714
+903. bqrhtuo
+['qrh', 'h', 'rhtuo', 'bqrhtuo', 'uo', 'rht', 'q', 'htu', 'u', 'tuo']
+greedy output: hbqrhtuoqrhtu 1.85714285714
+904. fzvnjgt
+['nj', 'fzvnj', 'zvn', 'fzvnjg', 'n', 'gt', 'jg', 'v', 'z']
+greedy output: fzvnjgtnvzvnj 1.85714285714
+905. bfnqbwk
+['bf', 'b', 'bfnqb', 'fnq', 'bfnqbw', 'wk', 'q', 'bw', 'w', 'nq', 'bwk']
+greedy output: bfnqbwkfnqw 1.57142857143
+906. jxdgteg
+['xdg', 'gt', 'jx', 'gte', 'j', 'teg', 'gteg', 't', 'e', 'te', 'jxdgteg', 'jxd']
+greedy output: xdgtejxdgtegt 1.85714285714
+907. ilimrjs
+['rjs', 'mrjs', 'j', 'li', 'limr', 'imr', 'mrj', 'mr', 'imrjs', 'js', 'limrjs']
+greedy output: limrjsimrjmr 1.71428571429
+908. gnpgbxp
+['gnpgbxp', 'b', 'pgbx', 'gnpgb', 'npgbxp', 'p', 'gbxp', 'gnpgbx', 'x', 'bx']
+greedy output: bgnpgbxpgbxp 1.71428571429
+909. zyeskxh
+['kxh', 'xh', 'e', 'k', 'skx', 'sk', 'zy', 'x', 'kx', 'es']
+greedy output: eskxhkxzy 1.28571428571
+910. wxfehnl
+['nl', 'f', 'h', 'xfe', 'hnl', 'n', 'fehnl', 'fe', 'ehnl', 'ehn', 'e', 'wxfehnl']
+greedy output: fhxfehnewxfehnl 2.14285714286
+911. vgnnnwc
+['vgnnnwc', 'nnn', 'wc', 'vg', 'vgnnn', 'gnnnwc', 'nnnwc', 'w', 'nwc', 'n', 'gnn']
+greedy output: vgnnnwcwgnnn 1.71428571429
+912. xjqcxnk
+['c', 'xn', 'xjqcxn', 'xjqcx', 'cx', 'jqcx', 'x', 'xnk', 'n', 'xjqcxnk', 'jqcxn']
+greedy output: cxjqcxnkjqcxnx 2.0
+913. zbvmkgm
+['mkg', 'vmk', 'm', 'zb', 'vmkg', 'bv', 'bvmkg', 'bvmk', 'z']
+greedy output: vmkmzbvmkg 1.42857142857
+914. vyelsgw
+['e', 'g', 'vyelsg', 'l', 'sgw', 's', 'ls', 'v', 'sg', 'lsgw']
+greedy output: elsgvyelsgw 1.57142857143
+915. olckwks
+['olc', 'wk', 'kwk', 'kwks', 'l', 'ks', 'w', 'lckwk', 'wks']
+greedy output: olckwkslwk 1.42857142857
+916. rvetqek
+['tqe', 'vet', 'e', 'etqe', 'tqek', 'rv', 'qe', 't', 'vetq', 'vetqek']
+greedy output: etqervetqekt 1.71428571429
+917. dfomicq
+['om', 'df', 'mi', 'o', 'i', 'fomic', 'fomicq', 'ic', 'omic', 'icq', 'fo']
+greedy output: dfomicqmiomic 1.85714285714
+918. kuynshu
+['nsh', 'shu', 'uyn', 'yn', 'h', 'hu', 's', 'sh', 'uynsh', 'yns', 'kuyn']
+greedy output: ynshkuynshu 1.57142857143
+919. xbqkdim
+['dim', 'bqkdim', 'kdi', 'di', 'xb', 'q', 'i', 'xbqkd', 'im', 'kdim']
+greedy output: kdixbqkdimq 1.57142857143
+920. xhfzlqv
+['hfz', 'qv', 'hfzl', 'fzlq', 'xhfzlq', 'xhfz', 'l', 'hfzlq', 'fzlqv', 'fzl']
+greedy output: hfzlxhfzlqv 1.57142857143
+921. lzwrwps
+['ps', 'rw', 'l', 'rwps', 'rwp', 'lzwr', 'wr', 'w', 'lzwrwp']
+greedy output: rwrlzwrwpsw 1.57142857143
+922. laadhma
+['a', 'dhm', 'ma', 'd', 'dh', 'la', 'h', 'm', 'l', 'laadhm', 'hma', 'adhm']
+greedy output: dhmlaadhma 1.42857142857
+923. unbahwi
+['b', 'bahw', 'hwi', 'ah', 'unbahw', 'wi', 'ahwi', 'unb', 'w', 'h', 'nba', 'unbah', 'bah']
+greedy output: bunbahwiwnbah 1.85714285714
+924. fojixsg
+['jixs', 'oj', 'i', 'j', 'o', 's', 'fojixs', 'ji', 'ixs', 'x', 'jix', 'fo']
+greedy output: iojixfojixs 1.57142857143
+925. krzrfse
+['krz', 'fs', 'kr', 'k', 'f', 'zrfse', 'zrf', 's', 'se', 'rzrfse', 'zr', 'rzr']
+greedy output: krzrfsezrfs 1.57142857143
+926. jfesmxp
+['e', 'f', 'fesmx', 's', 'fes', 'sm', 'x', 'xp', 'mx']
+greedy output: efesmxpsm 1.28571428571
+927. pboisqk
+['oi', 'pboi', 'i', 'oisqk', 'oisq', 'p', 's', 'pboisq', 'qk', 'is']
+greedy output: oisqispboisqk 1.85714285714
+928. thcamov
+['thcamo', 'camov', 'amo', 'ca', 'm', 'c', 'hcamo', 'hca', 'ov', 'mo', 'amov']
+greedy output: thcamovmchcamo 2.0
+929. vdpynqx
+['vdp', 'yn', 'dpynq', 'q', 'pyn', 'pynqx', 'y', 'n']
+greedy output: vdpynqxqpyny 1.71428571429
+930. bztiynq
+['iy', 'b', 'zti', 'i', 'n', 'ztiy', 'bzt', 'y', 'nq', 'ztiyn', 'bz']
+greedy output: bztiynqiy 1.28571428571
+931. cqgedpq
+['cqgedp', 'pq', 'e', 'd', 'dpq', 'qged', 'gedpq', 'p', 'qg', 'cqged']
+greedy output: epcqgedpqged 1.71428571429
+932. hhdpvch
+['dpv', 'c', 'ch', 'pv', 'hhdpvc', 'vch', 'h', 'p', 'vc', 'hhd']
+greedy output: dpvchhdpvchp 1.71428571429
+933. vwhnvah
+['va', 'vah', 'ah', 'v', 'n', 'vwhnv', 'hnv', 'hnva', 'hnvah', 'whnvah', 'nv']
+greedy output: nvwhnvahnva 1.57142857143
+934. npvltui
+['vltui', 'npvltu', 'ltu', 'tu', 'npvlt', 'p', 'n', 'ui', 'npv', 'vlt']
+greedy output: pnpvltuivltu 1.71428571429
+935. dauaimd
+['a', 'auai', 'imd', 'ai', 'dauai', 'm', 'uai', 'dauaimd', 'aimd', 'uaimd']
+greedy output: auaidauaimdm 1.71428571429
+936. iycgnym
+['c', 'ym', 'ycgny', 'g', 'cgny', 'gny', 'iycg', 'gnym', 'nym', 'y']
+greedy output: cgiycgnymy 1.42857142857
+937. tyxhhnz
+['hhnz', 'tyxhhn', 'ty', 'h', 'n', 'nz', 'tyxhhnz', 'x', 'y', 'hn', 'hhn']
+greedy output: tyxhhnzhhnxy 1.71428571429
+938. fapwhez
+['e', 'apwh', 'pwhez', 'fap', 'apw', 'apwhez', 'w', 'ez', 'he']
+greedy output: fapwhezwhe 1.42857142857
+939. jhfzezu
+['hfze', 'hfz', 'h', 'hfzez', 'jhfz', 'ez', 'ze', 'z', 'jhfzezu']
+greedy output: hfzezejhfzezuz 2.0
+940. gxidhhd
+['idhhd', 'd', 'gxidh', 'i', 'dhh', 'gxi', 'idhh', 'hhd', 'x', 'xidhhd']
+greedy output: idhhgxidhhdx 1.71428571429
+941. gxgdcqe
+['c', 'd', 'g', 'xgdcqe', 'cqe', 'q', 'gdc', 'dcqe', 'x', 'cq', 'dcq']
+greedy output: cdgdcqxgdcqe 1.71428571429
+942. bhkshid
+['bhkshid', 'b', 'hks', 'ksh', 'id', 'hk', 'hksh', 'hi', 'hid', 'h', 'bhksh']
+greedy output: bhkshidhkshi 1.71428571429
+943. jqapgdx
+['a', 'pgd', 'd', 'gdx', 'q', 'ap', 'gd', 'qapgd', 'pg', 'jqapg', 'qap']
+greedy output: adqapgjqapgdx 1.85714285714
+944. bsxcbzn
+['zn', 'b', 'cb', 'cbzn', 's', 'bzn', 'xcbz', 'sxcbz', 'z', 'bz']
+greedy output: cbzsxcbzn 1.28571428571
+945. ggzygqv
+['gzygqv', 'g', 'qv', 'ggzygq', 'ggz', 'q', 'zygq', 'ggzyg', 'gqv', 'zy']
+greedy output: ggzygqvzygq 1.57142857143
+946. maerjfm
+['jfm', 'f', 'maerj', 'maerjfm', 'fm', 'rjf', 'r', 'erjfm', 'aerjf']
+greedy output: maerjfmraerjf 1.85714285714
+947. tywllps
+['ywllps', 'wl', 'lp', 'ps', 'wllps', 'wllp', 'llp', 'l', 'llps', 'p', 'w', 'y', 'll', 'tywll']
+greedy output: llwllpytywllps 2.0
+948. atnwhbn
+['b', 'atn', 'wh', 'atnw', 't', 'nwhbn', 'tnwh', 'nwhb']
+greedy output: batnwhbnwht 1.57142857143
+949. ljaauqi
+['auq', 'jaau', 'jaauqi', 'lja', 'lj', 'uq', 'aauq', 'ljaau', 'auqi', 'jaauq', 'au', 'jaa']
+greedy output: ljaauqiaujaauq 2.0
+950. yotfqnm
+['fqn', 'nm', 'yotfqn', 'otf', 't', 'yotfqnm', 'tf', 'qnm', 'tfq', 'qn']
+greedy output: yotfqnmotfqnt 1.85714285714
+951. kuqiphz
+['uqi', 'hz', 'i', 'qiphz', 'uq', 'kuqiphz', 'p', 'u', 'uqiphz', 'h', 'qi', 'ph']
+greedy output: kuqiphzphuqi 1.71428571429
+952. ktftyzm
+['ft', 'tyz', 'tfty', 'ktftyzm', 'ktftyz', 'fty', 'yz', 't', 'tftyzm', 'y', 'ktft', 'ftyz']
+greedy output: ftftyztyktftyzm 2.14285714286
+953. renflae
+['a', 'renfl', 'ae', 'enf', 'renf', 'lae', 'nflae', 'l', 'nf', 'n', 'flae']
+greedy output: arenflaenfln 1.71428571429
+954. lmthllb
+['thllb', 'lb', 'lmt', 'l', 'thl', 't', 'th', 'mthllb', 'thll', 'mthl']
+greedy output: thllmthllb 1.42857142857
+955. ndeifvl
+['ndei', 'eif', 'fv', 'f', 'i', 'de', 'vl', 'ndeifv', 'ndeif', 'v']
+greedy output: ndeifvlideifv 1.85714285714
+956. ohzifly
+['hz', 'oh', 'h', 'f', 'ifly', 'l', 'zif', 'ohz', 'ly']
+greedy output: ohziflyhfl 1.42857142857
+957. xnkbpiy
+['iy', 'b', 'kbpi', 'bpi', 'k', 'xnkbpi', 'p', 'nkbp', 'kbpiy', 'kbp']
+greedy output: bkxnkbpiypnkbpi 2.14285714286
+958. ymgqicl
+['c', 'ymgqi', 'cl', 'gqic', 'ymgq', 'ymgqic', 'gqicl', 'qic', 'i', 'ymgqicl', 'qi', 'ic']
+greedy output: gqicymgqiclqi 1.85714285714
+959. lxxqbus
+['b', 'xxqb', 'lxxq', 'bus', 'us', 'bu', 'u', 'x', 'xq', 'xqbus']
+greedy output: bulxxqbusxq 1.57142857143
+960. rdkzxxo
+['kzxxo', 'd', 'kzxx', 'k', 'rdkzxxo', 'dkz', 'rd', 'xx', 'zx', 'x', 'rdkzx']
+greedy output: dkzxxkrdkzxxozx 2.14285714286
+961. pvyujlr
+['jl', 'jlr', 'pvy', 'j', 'vyujlr', 'ujl', 'lr', 'uj', 'y', 'u', 'pvyujlr']
+greedy output: pvyujlrjyujl 1.71428571429
+962. bzqdsfp
+['fp', 'dsfp', 'f', 'zqdsf', 'sf', 'q', 'qds', 'z', 'zqds', 'ds', 'zq']
+greedy output: qdsfzqdsfp 1.42857142857
+963. llhshlq
+['llhsh', 'shlq', 'llhshl', 'l', 'lh', 'sh', 'hshlq', 's', 'hshl', 'lhs', 'lhshlq', 'lq', 'shl']
+greedy output: lhshllhshlqsh 1.85714285714
+964. uwarada
+['a', 'arad', 'war', 'ara', 'ra', 'w', 'warada', 'uwa', 'da', 'uwar', 'ad']
+greedy output: raradwuwarada 1.85714285714
+965. vdmcxhx
+['mcxhx', 'hx', 'dm', 'd', 'mc', 'dmcx', 'm', 'cxhx', 'dmc', 'cxh', 'vdm']
+greedy output: dmcxhvdmcxhx 1.71428571429
+966. calzwik
+['calzwi', 'zwi', 'i', 'zwik', 'ca', 'wi', 'ik', 'w', 'cal', 'alzwi', 'calzwik']
+greedy output: calzwikwalzwi 1.85714285714
+967. uznxlvg
+['znxl', 'uznxlvg', 'vg', 'nxlvg', 'n', 'nx', 'lvg', 'xlv', 'x', 'nxl', 'z']
+greedy output: uznxlvgnxznxlv 2.0
+968. bqxmrvh
+['rv', 'mr', 'xmrv', 'xm', 'qx', 'rvh', 'r', 'bqxm', 'mrvh', 'bqx']
+greedy output: mrvqxrbqxmrvh 1.85714285714
+969. zbkkpej
+['zbkkpej', 'ej', 'k', 'zbkkp', 'kpej', 'kkp', 'bkkp', 'p', 'kpe', 'pej', 'e']
+greedy output: kzbkkpejbkkpep 2.0
+970. pkppckx
+['kppckx', 'c', 'pkppck', 'pck', 'k', 'kx', 'p', 'ppckx']
+greedy output: cpckpkppckx 1.57142857143
+971. etceixf
+['c', 'tce', 'i', 'xf', 'ixf', 'tceixf', 'etcei', 'etce', 'x', 'ceix']
+greedy output: ctceixietceixf 2.0
+972. qylncwn
+['ln', 'wn', 'lncwn', 'qylnc', 'qylncw', 'qyl', 'ylnc', 'yln', 'cw']
+greedy output: lnqylncwnylncw 2.0
+973. ztbsafq
+['bsafq', 'ztbsa', 'af', 'saf', 'f', 'ztbsaf', 'tbsaf', 'tbsafq', 's', 'a', 'ztb', 'safq']
+greedy output: safaztbsafq 1.57142857143
+974. klwgxmt
+['g', 'xm', 'gxm', 'k', 'm', 'gxmt', 'kl', 'lwgxmt', 'wgxmt', 'lwgxm', 'x', 'wgx']
+greedy output: gklwgxmtxwgxm 1.85714285714
+975. ekmbivo
+['mbi', 'mbivo', 'i', 'k', 'bi', 'iv', 'ekmbivo', 'v', 'biv', 'vo', 'kmb']
+greedy output: ikmbivekmbivo 1.85714285714
+976. qscbnma
+['b', 'ma', 'cbn', 'bn', 'm', 'n', 'q', 's', 'scbnm', 'cbnma', 'bnma']
+greedy output: bcbnmqscbnma 1.71428571429
+977. kdeyfvm
+['f', 'deyf', 'fv', 'kd', 'de', 'vm', 'yf', 'yfv', 'v', 'y', 'eyfv']
+greedy output: kdeyfvmvyf 1.42857142857
+978. sxwcsxl
+['sx', 'sxwcs', 'sxl', 'xwc', 's', 'xwcsxl', 'sxwcsx', 'sxw', 'wcsxl', 'sxwcsxl']
+greedy output: xwcsxwcsxl 1.42857142857
+979. eaeunkp
+['a', 'eaeun', 'ae', 'n', 'nkp', 'kp', 'eunkp', 'unk', 'aeunkp', 'eunk', 'eaeu', 'aeunk']
+greedy output: aeunkneaeunkp 1.85714285714
+980. oiuwmma
+['oiuwmm', 'uwm', 'mm', 'm', 'w', 'uwmma', 'oiuwmma', 'wmm', 'oiuw', 'iuw']
+greedy output: woiuwmmaiuwmm 1.85714285714
+981. ocvebni
+['ni', 'cve', 'e', 'bn', 'o', 'n', 'bni', 'cveb', 'ebni', 'ocvebn', 'ebn', 'cvebni']
+greedy output: cvebneocvebni 1.85714285714
+982. wzkcuwl
+['kc', 'cuwl', 'c', 'zkcuw', 'uw', 'zk', 'kcu', 'wzkcuwl', 'zkcu', 'w', 'uwl', 'k']
+greedy output: czkcuwzkcuwlwkcu 2.28571428571
+983. ppozcwc
+['ozcw', 'c', 'ppozc', 'wc', 'ppozcwc', 'pozcw', 'w', 'poz', 'cwc', 'z', 'cw']
+greedy output: ppozcwcpozcwz 1.85714285714
+984. pavggry
+['gr', 'g', 'ggr', 'vgg', 'pavg', 'ry', 'vggr', 'gry', 'gg', 'r', 'pavgg']
+greedy output: ggpavggryr 1.42857142857
+985. cjkbnxu
+['nxu', 'c', 'bnx', 'jkbnxu', 'n', 'nx', 'bnxu', 'b', 'kbnxu', 'jkb', 'xu']
+greedy output: cnbnxjkbnxu 1.57142857143
+986. idbvyhu
+['b', 'd', 'dbvy', 'dbvyh', 'hu', 'bvyhu', 'y', 'vy', 'vyh', 'idbvy', 'yhu']
+greedy output: bdyvyhidbvyhu 1.85714285714
+987. spagenh
+['pagen', 'nh', 'en', 'e', 'spag', 'age', 'agenh', 'n', 'agen', 'ge', 'page']
+greedy output: spagenhagenge 1.85714285714
+988. sstmyyf
+['myy', 'tmyy', 'stm', 'myyf', 'yf', 's', 'yyf', 'tmyyf', 'y', 'st', 'sstmyy']
+greedy output: stmyysstmyyf 1.71428571429
+989. lgaiwct
+['c', 'gai', 'lgaiwc', 'aiw', 'w', 'ga', 'wct', 'ct']
+greedy output: clgaiwctgaiw 1.71428571429
+990. uovxpkg
+['xpk', 'uovxpkg', 'uovxpk', 'k', 'o', 'ovxpk', 'u', 'pkg', 'x', 'ov', 'xp', 'ovxpkg']
+greedy output: ovxpkuovxpkgxp 2.0
+991. uxdkghw
+['dk', 'g', 'h', 'uxdkg', 'xdk', 'hw', 'xdkghw', 'dkgh', 'gh', 'uxdkghw']
+greedy output: guxdkghwxdkgh 1.85714285714
+992. qvdnlvg
+['dn', 'qvdnl', 'nlv', 'dnl', 'vg', 'l', 'q', 'lvg', 'qvdnlvg', 'vdn']
+greedy output: lqvdnlvgvdnlv 1.85714285714
+993. jdpbxno
+['b', 'xn', 'dpbx', 'j', 'dp', 'pbx', 'n', 'dpb', 'bxn', 'jdpb', 'xno']
+greedy output: bjdpbxnodpn 1.57142857143
+994. kltxbnu
+['txbn', 'xbnu', 'b', 'ltxbn', 'bn', 'txb', 'kl', 'klt', 't', 'n', 'txbnu', 'nu']
+greedy output: kltxbnutxbn 1.57142857143
+995. oderyjx
+['yj', 'jx', 'd', 'j', 'oder', 'ry', 'e', 'eryj', 'ryj', 'eryjx']
+greedy output: doderyjxryje 1.71428571429
+996. ekpsuhj
+['ps', 'ekpsu', 'ek', 'h', 'suhj', 'uhj', 'su', 'suh', 'kp', 'u', 'ekp']
+greedy output: ekpsuhjhkpsu 1.71428571429
+997. krpvslp
+['pv', 'vslp', 'k', 'l', 'p', 's', 'vs', 'rpvsl', 'lp', 'v', 'pvslp']
+greedy output: klrpvslpvsv 1.57142857143
+998. aetitct
+['aetit', 'c', 'titc', 'i', 't', 'et', 'itct', 'tc']
+greedy output: aetitctciet 1.57142857143
+999. qhjltoh
+['q', 'hjlto', 'h', 'jlto', 'o', 'l', 'jl', 'to', 'jltoh', 'qhj', 'qhjl']
+greedy output: qhjltohjlto 1.57142857143
+maxRatio: 2.28571428571

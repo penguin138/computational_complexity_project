@@ -1,0 +1,3001 @@
+0. CTCCCGA
+['C', 'CTCC', 'G', 'CC', 'TCCCG', 'CGA', 'CTCCCG', 'TCCC']
+greedy output: GTCCCTCCCGA 1.57142857143
+1. CCCTACT
+['A', 'C', 'CCT', 'TACT', 'CCCTA', 'CTA', 'CCTA', 'CT']
+greedy output: ACCTCCCTACT 1.57142857143
+2. TCCACGT
+['AC', 'GT', 'ACG', 'ACGT', 'G', 'CC', 'TCCACG', 'CCACG', 'CCA', 'CGT']
+greedy output: ACCAGTCCACGT 1.71428571429
+3. ACTGTAA
+['AA', 'GTA', 'C', 'TGTA', 'ACTGTAA', 'A', 'T', 'TG', 'CT', 'TA']
+greedy output: CTGTACTGTAA 1.57142857143
+4. GAACGCT
+['A', 'AC', 'GAACGCT', 'G', 'CGC', 'GAAC', 'ACGCT', 'GC', 'GA', 'AACGC', 'CT']
+greedy output: ACGAACGCTAACGC 2.0
+5. AAGCAGT
+['GCA', 'AAGCAG', 'GCAGT', 'AAGC', 'AGCAG', 'AG', 'CA', 'CAGT', 'GT', 'AGT', 'AAGCAGT']
+greedy output: AGCAGCAAGCAGT 1.85714285714
+6. TCCCCCG
+['C', 'CC', 'TCC', 'CCCC', 'CCCCG', 'CCG', 'CCCCC', 'CCC']
+greedy output: CTCCCCCG 1.14285714286
+7. CTACCCT
+['A', 'C', 'CC', 'CTA', 'CTACCCT', 'TACC', 'CCC', 'TA']
+greedy output: ACTACCCTACCC 1.71428571429
+8. ATATGAA
+['A', 'G', 'ATATG', 'TATGA', 'ATGAA', 'T', 'TG', 'ATAT', 'AT']
+greedy output: ATATGAATG 1.28571428571
+9. CGGCAGA
+['AG', 'G', 'CA', 'CG', 'AGA', 'CAGA', 'GC', 'GGCAG', 'CAG', 'GCAG']
+greedy output: CGCAGGCAGA 1.42857142857
+10. TACCATC
+['A', 'CATC', 'TACCATC', 'ATC', 'CC', 'ACCAT', 'CAT', 'T', 'TC']
+greedy output: ACCATACCATCCT 1.85714285714
+11. CTGGAAA
+['A', 'GGAA', 'C', 'G', 'TGGA', 'TGG', 'GA', 'TG', 'CTGGAAA', 'GAA']
+greedy output: CTGGAAAGATGGAA 2.0
+12. GACCCGG
+['C', 'CCGG', 'CG', 'AC', 'CGG', 'CC', 'ACCC', 'GA', 'ACCCG']
+greedy output: CCGACCCGG 1.28571428571
+13. GGATCCC
+['C', 'ATC', 'CC', 'GAT', 'GG', 'ATCC', 'AT', 'GATC', 'TCC', 'GGATCC']
+greedy output: GATCGGATCCAT 1.71428571429
+14. AGCTCCT
+['GCTC', 'AG', 'CCT', 'AGCT', 'GCTCCT', 'GCTCC', 'AGCTCC', 'CT']
+greedy output: GCTCAGCTCCT 1.57142857143
+15. CTGATTA
+['GATTA', 'TGAT', 'CTGATTA', 'TT', 'GAT', 'ATT', 'CTG', 'T', 'TG', 'TTA', 'TGATT']
+greedy output: GATGATTCTGATTA 2.0
+16. ACAGCAT
+['A', 'C', 'ACAGC', 'AG', 'ACAGCA', 'ACA', 'GC', 'CAGC', 'CAG', 'CA']
+greedy output: ACAGCAGCAG 1.42857142857
+17. CGCCTAC
+['GCCTA', 'C', 'CC', 'CCT', 'CGC', 'GC', 'TAC', 'CGCCT', 'TA', 'CGCC', 'CT']
+greedy output: GCGCCTACCTA 1.57142857143
+18. AGATCAC
+['A', 'AC', 'G', 'CA', 'AGA', 'T', 'GA', 'ATCAC', 'GATCAC']
+greedy output: AGATCACAGT 1.42857142857
+19. ACCACCA
+['ACC', 'C', 'CC', 'CA', 'AC', 'CCA', 'ACCAC']
+greedy output: ACCACCA 1.0
+20. TCTTCAT
+['TTCAT', 'C', 'TCAT', 'CA', 'TCTT', 'TCTTCA', 'CAT', 'AT', 'CTTCA', 'CT', 'TT', 'T']
+greedy output: CACTCTTCATT 1.57142857143
+21. CCGCTAT
+['TAT', 'A', 'G', 'GCTA', 'CGC', 'CG', 'T', 'AT', 'CT', 'CTA']
+greedy output: AGCGCTATCT 1.42857142857
+22. GAAGAGC
+['A', 'AA', 'AGAG', 'G', 'AG', 'AGC', 'GAAGAG', 'AGAGC', 'GC', 'GAA', 'GAGC', 'GAAGAGC', 'AAGA']
+greedy output: AAGAGAAGAGC 1.57142857143
+23. TCGATGG
+['ATG', 'TCGATGG', 'ATGG', 'G', 'CGA', 'TCGATG', 'TCGA', 'GG', 'T', 'TG', 'GATG', 'TC']
+greedy output: CGATGTCGATGG 1.71428571429
+24. GAGGCGC
+['C', 'G', 'GCGC', 'CGC', 'CG', 'GGCGC', 'GG', 'GC', 'GGC', 'GAG', 'GGCG']
+greedy output: CGGCGCGAG 1.28571428571
+25. TCGGATC
+['CGGAT', 'ATC', 'G', 'TCGGATC', 'CG', 'TCGG', 'GG', 'GGA', 'GGAT', 'GA', 'CGGATC', 'TC', 'TCGGA']
+greedy output: GGACGGATCGGATC 2.0
+26. TGCCACT
+['A', 'CACT', 'C', 'CA', 'CCACT', 'GCC', 'ACT', 'CAC', 'TG', 'CCAC', 'TGCCA', 'GCCACT']
+greedy output: GCCACATGCCACT 1.85714285714
+27. GAGGCTC
+['GAGGCTC', 'GCTC', 'AGGC', 'GGCTC', 'AGG', 'AGGCTC', 'GC', 'GA', 'CTC', 'AG']
+greedy output: GAGGCTCAGGC 1.57142857143
+28. GTGCTAT
+['A', 'GT', 'CTA', 'G', 'GTGC', 'GTGCTA', 'AT', 'GCTAT', 'TG', 'TA', 'CT']
+greedy output: GTGCTATGCTA 1.57142857143
+29. AACCCCG
+['ACC', 'C', 'AAC', 'CC', 'AACCCCG', 'CCCG', 'ACCCC', 'CCCCG']
+greedy output: ACCCCAACCCCG 1.71428571429
+30. GAGGGTT
+['AGGGTT', 'A', 'GAGGGTT', 'AGGGT', 'G', 'GGGT', 'GTT', 'T', 'GGTT', 'GT', 'GAG']
+greedy output: AGGGTGAGGGTT 1.71428571429
+31. CCAACAC
+['A', 'AC', 'AAC', 'CCAACAC', 'CA', 'AACAC', 'CAC', 'CAACA', 'AACA']
+greedy output: AACCAACACAACA 1.85714285714
+32. TATTACC
+['ACC', 'A', 'AC', 'TATTACC', 'CC', 'TT', 'AT', 'ATTA', 'TAC', 'TA']
+greedy output: ATTATTACCTTAC 1.85714285714
+33. TCGACAC
+['AC', 'C', 'ACAC', 'TCGACAC', 'G', 'CA', 'TCGA', 'TCGACA', 'T', 'GA', 'CAC', 'TCG', 'TC']
+greedy output: GATCGACACA 1.42857142857
+34. GACCGGC
+['A', 'CGGC', 'C', 'G', 'ACCGG', 'CG', 'AC', 'CC', 'GACCGGC', 'GACC', 'GAC']
+greedy output: ACCGGACCGGCGCC 2.0
+35. GTGCTGA
+['GTGCTGA', 'GT', 'G', 'GTG', 'GTGCTG', 'GCTGA', 'TGC', 'CTG', 'GC', 'GCT', 'TG']
+greedy output: TGCTGTGCTGA 1.57142857143
+36. GACACCG
+['ACC', 'C', 'ACAC', 'ACACC', 'CC', 'ACCG', 'CG', 'ACACCG', 'GA', 'GAC']
+greedy output: ACACCGACC 1.28571428571
+37. GTTGCCG
+['C', 'GTTGCCG', 'G', 'TT', 'CG', 'TGC', 'GC', 'GTT', 'TTGCC']
+greedy output: GTTGCCGTTGCCTGC 2.14285714286
+38. CGCAAAA
+['AA', 'A', 'C', 'AAA', 'GCAAAA', 'CG', 'GCAA', 'AAAA', 'CAA', 'CGCA']
+greedy output: CGCAAAACAA 1.42857142857
+39. TGGGTCA
+['GGTC', 'C', 'GGGT', 'GTCA', 'CA', 'GGTCA', 'TGGGTC', 'TCA']
+greedy output: CGGGTGGGTCA 1.57142857143
+40. TTGCGGT
+['GT', 'G', 'CG', 'CGG', 'GG', 'TGCG', 'CGGT', 'TTGC', 'TTG', 'TGCGGT']
+greedy output: CGGTTGCGGT 1.42857142857
+41. TTTGCAG
+['GCA', 'A', 'AG', 'TGCAG', 'TTTGC', 'TGC', 'GC', 'T']
+greedy output: TGCATTTGCAGC 1.71428571429
+42. ATAGGTC
+['ATAGGT', 'GGT', 'GT', 'GTC', 'AGG', 'GG', 'TAG', 'AT', 'TAGGTC', 'AGGTC', 'TC', 'T']
+greedy output: GGTAGGTATAGGTC 2.0
+43. ACTCACT
+['A', 'AC', 'CA', 'C', 'TCAC', 'TCACT', 'T', 'CAC', 'ACTCA', 'CT']
+greedy output: ACTCACTCACT 1.57142857143
+44. TCGGCGG
+['C', 'G', 'GGCGG', 'TCGGCGG', 'CGG', 'GG', 'GC', 'T', 'GGCG', 'TC']
+greedy output: TCGGCGGCGC 1.42857142857
+45. CCGCGCT
+['C', 'G', 'CC', 'CCGCGCT', 'CGC', 'CCGC', 'GCGC', 'GC', 'GCT', 'CG', 'CCG', 'GCGCT']
+greedy output: CGCGCCGCGCT 1.57142857143
+46. TCTACAG
+['C', 'CTAC', 'AG', 'CTACAG', 'TCTAC', 'TACAG', 'TAC', 'TACA', 'CAG', 'TA']
+greedy output: CTCTACAGTACA 1.71428571429
+47. CATATTT
+['A', 'CATA', 'ATTT', 'ATATTT', 'TT', 'TTT', 'T', 'TATT', 'CATATTT', 'CATAT']
+greedy output: ACATATTTATT 1.57142857143
+48. TTTAACC
+['AA', 'ACC', 'TAAC', 'TTTA', 'CC', 'TT', 'TTAACC', 'T', 'TTAAC', 'TTTAACC', 'TA']
+greedy output: TTTAACCTTAACTAA 2.14285714286
+49. CGCGGCG
+['C', 'G', 'GCG', 'GCGG', 'CG', 'CGCGGCG', 'GCGGCG', 'GGC', 'CGCGGC', 'GCGGC']
+greedy output: CGCGGCGGCG 1.42857142857
+50. TAAATAT
+['TAT', 'A', 'AA', 'AAATA', 'ATA', 'TAAA', 'AATAT', 'AT', 'ATAT', 'TA']
+greedy output: AATAAATATA 1.42857142857
+51. ACGGGAC
+['A', 'GGAC', 'CGGGA', 'GGGA', 'G', 'C', 'AC', 'GG', 'GGG', 'ACGGGA', 'GA']
+greedy output: GGGACGGGAC 1.42857142857
+52. CCTTGTG
+['C', 'GT', 'TGT', 'G', 'CCT', 'CTTG', 'TGTG', 'T', 'TG', 'TT']
+greedy output: CCTTGTGTTG 1.42857142857
+53. TTACGGC
+['A', 'CGGC', 'ACG', 'TTACGGC', 'CG', 'CGG', 'GG', 'TACGG', 'GGC', 'TTACG', 'TTA']
+greedy output: ACGTACGGTTACGGC 2.14285714286
+54. CAGTGGC
+['C', 'AG', 'GTGGC', 'AGTG', 'GTGG', 'GC', 'T', 'GGC', 'TG', 'AGT', 'TGG']
+greedy output: AGTGGCTGG 1.28571428571
+55. CCTATAC
+['A', 'AC', 'CTA', 'CC', 'CCTATAC', 'TATA', 'T', 'TATAC', 'TA']
+greedy output: CCTATACTATAT 1.71428571429
+56. AGCCTAG
+['A', 'CTAG', 'C', 'G', 'CC', 'GCCTAG', 'GCCT', 'CTA', 'CCTA', 'TA']
+greedy output: CCTAGCCTAG 1.42857142857
+57. CATTAAC
+['AA', 'A', 'AC', 'TAAC', 'AAC', 'TTAA', 'AT', 'ATTA', 'TTAAC', 'TA']
+greedy output: TAATTAAC 1.14285714286
+58. GTGCACT
+['TGCACT', 'CACT', 'AC', 'G', 'CA', 'C', 'T', 'ACT', 'TG', 'CT']
+greedy output: ACAGCTGCACT 1.57142857143
+59. TACAAGA
+['AA', 'CAAGA', 'AAG', 'AAGA', 'CA', 'AGA', 'T', 'GA', 'TA']
+greedy output: CAAGAAGTA 1.28571428571
+60. CAGAGCT
+['A', 'C', 'G', 'AG', 'CAG', 'AGC', 'GC', 'GCT', 'GA', 'CAGA', 'CAGAGC']
+greedy output: AGACAGAGCT 1.42857142857
+61. CTGGAGG
+['A', 'CTGGA', 'C', 'AG', 'AGG', 'GG', 'GAGG', 'CT']
+greedy output: AGCTGGAGG 1.28571428571
+62. ATGATAG
+['A', 'TGATAG', 'ATGATAG', 'GATAG', 'ATAG', 'TGA', 'T', 'GA', 'AG']
+greedy output: TGATGATAG 1.28571428571
+63. TAGGCAT
+['C', 'TAGGC', 'G', 'AGGCAT', 'AGG', 'CA', 'GGCAT', 'GC', 'AT', 'GGCA', 'TA']
+greedy output: GCAGGCATAGGCAT 2.0
+64. GACACAA
+['AA', 'A', 'ACA', 'G', 'CA', 'AC', 'CACA', 'CAC', 'CAA']
+greedy output: ACACAAG 1.0
+65. AGCGCAC
+['A', 'GCA', 'C', 'AG', 'CGCAC', 'CA', 'GCAC', 'AGCGCA', 'GC', 'CAC']
+greedy output: GCAGCGCAC 1.28571428571
+66. TCAACAG
+['A', 'C', 'AG', 'AACAG', 'CAACA', 'AC', 'T', 'CAG', 'TC', 'TCA']
+greedy output: ACTCAACAG 1.28571428571
+67. CTGTTCT
+['C', 'GTTCT', 'G', 'TGT', 'CTG', 'T', 'TTC', 'TG', 'TGTT', 'TC', 'CT']
+greedy output: TTCTGTTCTG 1.42857142857
+68. CTGTCGA
+['C', 'GTCG', 'TGTCG', 'G', 'CGA', 'CTGTC', 'TCGA', 'T', 'GA', 'TGT', 'CTGTCGA', 'TC']
+greedy output: TGTCGTCTGTCGA 1.85714285714
+69. ACTGACC
+['ACC', 'A', 'C', 'G', 'TGA', 'CTGAC', 'TG', 'GACC', 'ACTGACC', 'ACTG']
+greedy output: CTGACTGACCGTGA 2.0
+70. TGACCAA
+['A', 'AA', 'C', 'CC', 'TGACCAA', 'ACCA', 'AC', 'GA', 'TGAC', 'GACC', 'CCA', 'TGACC']
+greedy output: GACCACCTGACCAA 2.0
+71. CACCGGC
+['CGGC', 'CCGGC', 'G', 'CCGG', 'ACCG', 'CGG', 'GG', 'ACCGG', 'CACCGG', 'CACCG', 'GC', 'CCG']
+greedy output: ACCGGCACCGGC 1.71428571429
+72. AGAGTGT
+['A', 'GT', 'AGAG', 'AG', 'G', 'AGTG', 'TGT', 'TG']
+greedy output: AGAGTGTG 1.14285714286
+73. CATTCCG
+['C', 'TTCC', 'CC', 'TT', 'CATTCCG', 'ATT', 'T', 'ATTCC', 'CCG', 'TCC']
+greedy output: TTATTCCATTCCG 1.85714285714
+74. CGTTTGG
+['CGTTT', 'CGT', 'G', 'CGTT', 'CG', 'TTT', 'GG', 'GTTT', 'CGTTTG', 'TT', 'TGG']
+greedy output: CGTTTGGTTT 1.42857142857
+75. AAGTACT
+['A', 'GTA', 'AC', 'ACT', 'C', 'TAC', 'AGTACT', 'CT', 'AAGTACT', 'TA']
+greedy output: AAGTACTAGTAC 1.71428571429
+76. AATGAAG
+['A', 'ATG', 'ATGA', 'AATGAAG', 'AG', 'G', 'GAAG', 'TGAA', 'GA', 'AATG']
+greedy output: ATGAATGAAGA 1.57142857143
+77. GGGGCAA
+['GCA', 'AA', 'C', 'G', 'CA', 'GG', 'GGGGCAA', 'GGGCAA', 'GGC', 'GC', 'GGGGCA']
+greedy output: GGCAGCGGGGCAA 1.85714285714
+78. TTCCTTC
+['CTT', 'C', 'TCCT', 'CCTT', 'T', 'TTC', 'TCC', 'CT']
+greedy output: CTTCCTT 1.0
+79. TTCCAAT
+['A', 'AA', 'CCAA', 'CC', 'AAT', 'AT', 'TTC', 'CAAT', 'CCA']
+greedy output: AACCAATTC 1.28571428571
+80. TCACTCA
+['A', 'C', 'TCACTC', 'CA', 'ACT', 'T', 'TCACTCA', 'CTC', 'CTCA', 'CT']
+greedy output: ACTCACTCACT 1.57142857143
+81. GATGATG
+['ATG', 'ATGATG', 'ATGA', 'ATGAT', 'G', 'GAT', 'TGA', 'T', 'GA', 'TG', 'GATG']
+greedy output: ATGATGATGA 1.42857142857
+82. CACTAAT
+['A', 'CACTA', 'TAAT', 'T', 'ACT', 'AT', 'TA', 'TAA']
+greedy output: ACTCACTAAT 1.42857142857
+83. ACGCGCT
+['ACGCG', 'GCG', 'ACGCGC', 'CGCT', 'CGCGC', 'GC', 'GCT', 'CGCG', 'CGC', 'CT']
+greedy output: ACGCGCTGCGCG 1.71428571429
+84. CGGACAA
+['A', 'AA', 'GGAC', 'G', 'CGG', 'CGGACA', 'GGA', 'GAC', 'GGACAA']
+greedy output: GGACGGACAA 1.42857142857
+85. GTTAGCC
+['TTAGC', 'CC', 'GTTAG', 'TTAG', 'GTT', 'T', 'TTA', 'TAGCC']
+greedy output: TTAGTTAGCC 1.42857142857
+86. GAGATTT
+['A', 'GAGAT', 'G', 'AGATT', 'TT', 'AGA', 'T', 'GA']
+greedy output: GAGAGATT 1.14285714286
+87. CGACTTT
+['A', 'CTT', 'C', 'CGAC', 'ACTTT', 'TT', 'CG', 'TTT', 'T', 'GA']
+greedy output: CTTCGACTTTGA 1.71428571429
+88. TTACAGT
+['ACAG', 'A', 'AC', 'GT', 'G', 'TTACAG', 'C', 'TAC', 'AGT', 'CAG', 'ACAGT', 'CA', 'TA']
+greedy output: ATTACAGTACAG 1.71428571429
+89. TGTGAAC
+['AA', 'AC', 'GT', 'G', 'AAC', 'TGAA', 'GAA']
+greedy output: GTGAAC 0.857142857143
+90. GGACCGC
+['A', 'AC', 'G', 'CC', 'ACCGC', 'ACCG', 'CCGC', 'GGAC', 'GC', 'GACCG', 'C']
+greedy output: ACCGGACCGC 1.42857142857
+91. CACATAT
+['A', 'ACATA', 'C', 'ATA', 'CAT', 'ACAT', 'CACA', 'T', 'AT', 'ACATAT', 'TA']
+greedy output: CATACACATAT 1.57142857143
+92. AAACGCT
+['AA', 'A', 'C', 'AACGCT', 'ACG', 'CGC', 'CG', 'GC', 'AAACGCT', 'CT']
+greedy output: AAACGCTACGCG 1.71428571429
+93. GGGGCCT
+['C', 'GGGCC', 'G', 'GG', 'GGC', 'GGGGCC']
+greedy output: GGCGGGGCC 1.28571428571
+94. GGACAGT
+['ACAG', 'A', 'G', 'CA', 'CAGT', 'AGT', 'CAG']
+greedy output: ACAGTCAG 1.14285714286
+95. AAAGCAT
+['AA', 'A', 'AG', 'AGC', 'CAT', 'AAAGC', 'GCAT', 'GCA']
+greedy output: AAAGCATAG 1.28571428571
+96. GGCTCGC
+['C', 'G', 'GGCTCG', 'TCGC', 'CGC', 'GC', 'CTCGC']
+greedy output: GGCTCGC 1.0
+97. ATGTTGC
+['GTTG', 'G', 'TGTTGC', 'ATGTT', 'TGTTG', 'GC', 'AT', 'TG', 'TTG']
+greedy output: GTTGATGTTGC 1.57142857143
+98. AACGATA
+['AA', 'A', 'AC', 'CGA', 'AACG', 'C', 'ACGA', 'CGAT', 'AACGA', 'GATA', 'TA']
+greedy output: AACGATAC 1.14285714286
+99. CGGCCCG
+['C', 'G', 'CC', 'CG', 'CGG', 'GG', 'CGGCCC', 'GGCC', 'CCG']
+greedy output: GGCCGGCCC 1.28571428571
+100. CCAATAA
+['AA', 'A', 'CCAAT', 'CCAATA', 'ATAA', 'CA', 'ATA', 'AATA', 'TAA', 'TA']
+greedy output: CCAATAATACA 1.57142857143
+101. ACGCAAT
+['A', 'C', 'ACG', 'G', 'AC', 'ACGCAA', 'GC', 'AT', 'CGCA', 'CGCAAT']
+greedy output: GCGCACGCAAT 1.57142857143
+102. GTAGTTT
+['A', 'TAGT', 'GT', 'GTAG', 'TT', 'TAG', 'GTT', 'T']
+greedy output: AGTAGTTAGT 1.42857142857
+103. GCAGTTT
+['AGTTT', 'G', 'GCAGTT', 'TT', 'TTT', 'GTTT', 'AGTT', 'AGT', 'T']
+greedy output: GCAGTTTAGTT 1.57142857143
+104. TCTTTAT
+['A', 'C', 'TT', 'TTT', 'T', 'TTA', 'TCT', 'AT']
+greedy output: ATTTACTCT 1.28571428571
+105. TTTGATC
+['TTTGATC', 'A', 'ATC', 'T', 'GA', 'TTGA', 'TG', 'TC', 'GATC']
+greedy output: TTTGATCTTGATG 1.85714285714
+106. TATTTGC
+['TAT', 'ATTT', 'G', 'TATTTG', 'TTTGC', 'ATTTGC', 'GC', 'T', 'ATTTG', 'TTT', 'TTG']
+greedy output: ATTTGTTTATTTGC 2.0
+107. GGCGGCT
+['CGGC', 'C', 'GCGGCT', 'GCG', 'GCGG', 'CGG', 'GGCT', 'GG', 'GC', 'GGC', 'CGGCT']
+greedy output: GGCGGCGGCT 1.42857142857
+108. TTAAGGG
+['A', 'TTAAGGG', 'AG', 'G', 'TT', 'AAGGG', 'GG', 'TTAAG', 'TTAAGG', 'TA']
+greedy output: TTAAGGGTAG 1.42857142857
+109. TTCTTTG
+['C', 'TCTTTG', 'CTTTG', 'TTT', 'T', 'TTC', 'TG', 'TTCTTTG', 'TTG', 'CT']
+greedy output: CTTTCTTTGT 1.42857142857
+110. GCCCTGC
+['GCCC', 'CCCT', 'CC', 'CCT', 'CCTGC', 'GC', 'CTGC', 'TG']
+greedy output: TGCCCTGCC 1.28571428571
+111. CCTTGGA
+['CTTGG', 'CCT', 'TTGGA', 'GG', 'TGG', 'GA', 'CT', 'TT', 'TTGG', 'T']
+greedy output: CCTTGGACTTGGT 1.85714285714
+112. TCACTTC
+['CTT', 'TCACTT', 'AC', 'A', 'TT', 'CAC', 'CACTTC', 'T', 'TTC', 'TC', 'ACTTC']
+greedy output: CTTCACTTCACAT 1.85714285714
+113. AAACGAC
+['A', 'AAACG', 'C', 'ACG', 'AAACGA', 'AACG', 'AC', 'GA', 'AAA', 'ACGAC', 'GAC']
+greedy output: AACGAAACGAC 1.57142857143
+114. TGAGCTC
+['A', 'C', 'GAGCTC', 'G', 'AG', 'AGC', 'AGCTC', 'TC', 'GC', 'T', 'GAGC', 'AGCT']
+greedy output: AGCTGCGAGCTC 1.71428571429
+115. TCCCCGT
+['C', 'CCCCGT', 'G', 'CC', 'GT', 'CCCCG', 'TCCCCG', 'CCG', 'CGT', 'CCC']
+greedy output: CCCGTCCCCGT 1.57142857143
+116. GAAGGGT
+['AA', 'A', 'AAG', 'GT', 'GAAGGG', 'G', 'GGT', 'AAGGG', 'GG', 'AAGGGT']
+greedy output: AAGAAGGGTGG 1.57142857143
+117. TGACGAT
+['A', 'AC', 'G', 'GAT', 'CG', 'ACGA', 'AT', 'GACGAT']
+greedy output: ACGACGATCG 1.42857142857
+118. CCCATCA
+['A', 'C', 'ATC', 'CC', 'CA', 'CAT', 'CCCA', 'T', 'CCC', 'AT']
+greedy output: ATCCCATC 1.14285714286
+119. CAGTTTG
+['GT', 'G', 'TTTG', 'CA', 'CAGTTTG', 'TTT', 'T', 'AGTT', 'TG']
+greedy output: CAGTTTGTAGTTT 1.85714285714
+120. AGTCCCG
+['C', 'AGTCCC', 'CC', 'CG', 'GTCCC', 'GT', 'CCCG', 'T', 'CCG', 'AGT', 'TCCC']
+greedy output: CCAGTCCCGT 1.42857142857
+121. AAGGGCC
+['A', 'AAG', 'G', 'CC', 'AGGG', 'GG', 'GGG', 'AGGGC', 'GGC', 'C']
+greedy output: AAGGGCCGGG 1.42857142857
+122. ATCTACA
+['AC', 'CTACA', 'ATCTACA', 'CA', 'C', 'T', 'ATCTA', 'TAC', 'TACA', 'ATCTAC', 'TC', 'TCTA']
+greedy output: TCTACATCTACA 1.71428571429
+123. GAGGCGT
+['C', 'GCG', 'G', 'AGG', 'CG', 'AGGCGT', 'GAGG', 'GA', 'CGT', 'GCGT']
+greedy output: CGCGAGGCGT 1.42857142857
+124. CTGCACG
+['A', 'GCA', 'C', 'G', 'CG', 'CTGCAC', 'TGCA', 'CTGC', 'CAC', 'GCACG']
+greedy output: ATGCACTGCACG 1.71428571429
+125. GACCTAA
+['ACC', 'A', 'CTA', 'ACCTAA', 'GACCTAA', 'T', 'TAA', 'CCTAA', 'TA', 'ACCT', 'CCTA', 'GAC', 'CT']
+greedy output: GACCTAACCTACT 1.85714285714
+126. CCCACTT
+['CTT', 'C', 'CA', 'CCACT', 'T', 'CCCACTT', 'ACT', 'CCC', 'TT', 'CACTT']
+greedy output: CACCACTCCCACTT 2.0
+127. GGTACCC
+['GTAC', 'C', 'TACC', 'CC', 'GGTAC', 'TACCC', 'CCC']
+greedy output: GGTACCC 1.0
+128. TCAGGAA
+['A', 'AA', 'C', 'G', 'CAGGA', 'GAA', 'GGA', 'T', 'TCAG', 'GGAA', 'CAGG', 'TCA']
+greedy output: CGTCAGGAA 1.28571428571
+129. CATTCAA
+['A', 'AA', 'CA', 'ATT', 'ATTCA', 'T', 'TTCAA', 'AT', 'ATTCAA', 'TCA']
+greedy output: TCATTCAA 1.14285714286
+130. TAGACGC
+['A', 'C', 'ACG', 'G', 'AG', 'GACGC', 'CGC', 'AGACG', 'TAGACG', 'AGA', 'GAC', 'GACG']
+greedy output: AGACGTAGACGC 1.71428571429
+131. CTTTGTT
+['C', 'TGT', 'TTTG', 'TT', 'GTT', 'T', 'TTTGT', 'CTTT', 'CTTTG']
+greedy output: CTTTGTT 1.0
+132. CCTCCAG
+['A', 'C', 'CCTCCA', 'AG', 'CTCCAG', 'CTC', 'CTCC', 'CAG', 'CCAG', 'CT']
+greedy output: ACTCCTCCAG 1.42857142857
+133. GCTCAGC
+['C', 'G', 'GCTCAGC', 'GC', 'T', 'TCA', 'CAG', 'CT']
+greedy output: CTCAGCTCAGC 1.57142857143
+134. GGCGGCA
+['GCA', 'C', 'G', 'CGGCA', 'GGCGG', 'GCGG', 'GC', 'GGC', 'CA', 'GCGGC']
+greedy output: GCGGCGGCA 1.28571428571
+135. GGAGCCA
+['GGAGC', 'C', 'AG', 'GCCA', 'CC', 'CA', 'G', 'GAGCCA', 'CCA']
+greedy output: GGAGCCAGCC 1.42857142857
+136. ACATTAC
+['A', 'AC', 'TTAC', 'ACAT', 'ACATTA', 'T', 'CATTAC', 'TAC']
+greedy output: ACATTACT 1.14285714286
+137. TCCGGCC
+['CGGC', 'C', 'G', 'CCGG', 'CG', 'GG', 'CC', 'GC', 'GGC', 'GGCC', 'TCCG', 'TC']
+greedy output: TCCGGCCGGC 1.42857142857
+138. TTCAGTA
+['TCAGTA', 'GTA', 'C', 'GT', 'AGTA', 'TTCA', 'T', 'TCAG', 'TTC', 'TCA', 'TA']
+greedy output: CGTTCAGTATCA 1.71428571429
+139. CCGATAG
+['A', 'GATA', 'C', 'CC', 'GATAG', 'GAT', 'CCGAT', 'CGAT', 'CCG', 'CCGATAG', 'TA']
+greedy output: CCGATAGCGATA 1.71428571429
+140. AAATCCA
+['AA', 'C', 'AAA', 'AAAT', 'CA', 'AAT', 'ATCC', 'T', 'ATCCA', 'AT', 'ATC']
+greedy output: AAATCCACT 1.28571428571
+141. CCCCCTA
+['C', 'CTA', 'CC', 'CCT', 'CT', 'T', 'TA', 'CCC', 'CCCCTA']
+greedy output: CCTCCCCTA 1.28571428571
+142. AGAGGTT
+['A', 'GT', 'AG', 'G', 'AGAGGT', 'TT', 'AGGT', 'GTT', 'T', 'GA']
+greedy output: GAGAGGTT 1.14285714286
+143. CGGGACA
+['GGGAC', 'C', 'CGGG', 'CGGGAC', 'G', 'CA', 'GGAC', 'GG', 'GGA', 'GGGACA', 'GAC']
+greedy output: GGACGGGACA 1.42857142857
+144. AGACTCC
+['C', 'AG', 'GACTCC', 'AGA', 'TC', 'TCC', 'GA', 'ACTCC', 'GAC', 'GACTC']
+greedy output: AGACTCCTC 1.28571428571
+145. TGTATTC
+['A', 'GTA', 'G', 'TGTATT', 'TGTATTC', 'TATTC', 'ATTC', 'T', 'TTC', 'TATT', 'TC']
+greedy output: AGTATTGTATTCT 1.85714285714
+146. AGAAATC
+['A', 'AAA', 'AG', 'AATC', 'AGA', 'AAT', 'AT', 'AGAAA', 'TC', 'T']
+greedy output: AGAAATCAT 1.28571428571
+147. CCATTTG
+['A', 'CATTT', 'TTTG', 'CC', 'TT', 'CATTTG', 'TTT', 'T', 'TG']
+greedy output: ACCATTTGTTT 1.57142857143
+148. GATGTGT
+['A', 'GT', 'G', 'TGT', 'GTG', 'TGTGT', 'GAT', 'T', 'TG', 'GTGT', 'AT']
+greedy output: AGTGTGTGAT 1.42857142857
+149. GTCAAGG
+['AAG', 'G', 'AG', 'GTCAAG', 'AGG', 'TCAAG', 'GG', 'TCAA', 'CAAGG', 'TC', 'TCA']
+greedy output: TCAAGTCAAGG 1.57142857143
+150. CTTTACT
+['A', 'AC', 'CTTTAC', 'TTACT', 'TACT', 'C', 'CTTTA', 'T', 'TTTACT', 'TA', 'TTAC']
+greedy output: TTACTTTACTA 1.57142857143
+151. CCTGTAT
+['A', 'GTA', 'GT', 'G', 'TAT', 'T', 'CTG', 'AT', 'TG', 'CTGTAT', 'CCTG', 'CT']
+greedy output: CCTGTATGTACT 1.71428571429
+152. AGGCGGG
+['AGGCGG', 'AG', 'G', 'GCGG', 'CGG', 'GG', 'GGG', 'GC', 'GGC', 'GGCG']
+greedy output: AGGCGGGCGC 1.42857142857
+153. GAACTCC
+['C', 'AAC', 'CC', 'AC', 'TCC', 'GAAC', 'T', 'CTC', 'ACTCC', 'TC', 'AACT']
+greedy output: ACTCGAACTCCT 1.71428571429
+154. ACTTCGT
+['C', 'GT', 'G', 'CG', 'ACTTCG', 'ACTTCGT', 'TTCG', 'T', 'TCG', 'TC', 'CT']
+greedy output: ACTTCGTCTTCG 1.71428571429
+155. TGCTTTC
+['CTT', 'TTTC', 'TGCT', 'GCTT', 'GCTTT', 'T', 'CTTT', 'TC']
+greedy output: CTTGCTTTCT 1.42857142857
+156. AACTGCG
+['A', 'AA', 'C', 'G', 'AACTGC', 'CTGC', 'CG', 'CTG', 'TGCG', 'ACT', 'CTGCG']
+greedy output: AACTGCGCACTG 1.71428571429
+157. GGCGCGC
+['GGCGCG', 'C', 'G', 'GCGC', 'CGC', 'GG', 'GGCGCGC', 'GGCG']
+greedy output: GGCGCGC 1.0
+158. CTTTTTA
+['CTT', 'TTTA', 'C', 'TT', 'TTTTTA', 'CTTTTTA', 'TTTT', 'T', 'TTTTA', 'CT']
+greedy output: CTTTTTATTTT 1.57142857143
+159. GGTTTTG
+['GTTTT', 'GGTT', 'TTTG', 'TT', 'GTTTTG', 'T', 'GGTTTTG', 'TG', 'TTG']
+greedy output: GGTTTTGTTTT 1.57142857143
+160. GGCACCC
+['ACC', 'C', 'G', 'ACCC', 'GG', 'GCACCC', 'CACC', 'GGCAC', 'CCC']
+greedy output: GGCACCCACC 1.42857142857
+161. AATCGAA
+['AA', 'C', 'ATCG', 'ATCGAA', 'AATC', 'TCG', 'AAT', 'ATCGA', 'AATCGAA', 'GAA']
+greedy output: AATCGAATCGACTCG 2.14285714286
+162. GTGGGAC
+['A', 'TGGG', 'AC', 'G', 'GTG', 'TGGGA', 'GG', 'TGG', 'GA', 'GTGGGAC']
+greedy output: GGTGGGACTGGGA 1.85714285714
+163. GACTGTG
+['AC', 'TGT', 'G', 'TGTG', 'GACT', 'CTG', 'T', 'ACT', 'TG']
+greedy output: ACGACTGTGT 1.42857142857
+164. AACAGCT
+['A', 'C', 'AAC', 'CAGCT', 'AACAGC', 'GC', 'GCT', 'CAGC', 'ACAGCT', 'AGCT', 'AACAGCT']
+greedy output: AACAGCTCAGC 1.57142857143
+165. ACAAGGA
+['AA', 'AAGG', 'ACAAG', 'AG', 'CAAG', 'ACAAGGA', 'AAGGA', 'AGG', 'GGA', 'CA']
+greedy output: AACAAGGAGCAAGG 2.0
+166. GCTACTC
+['CTACTC', 'C', 'CTAC', 'G', 'ACT', 'GCT', 'TAC', 'CT', 'TC', 'TACTC', 'T']
+greedy output: GCTACTACTCT 1.57142857143
+167. CTGAGTC
+['A', 'GAGT', 'C', 'GTC', 'G', 'CTGAGT', 'TGA', 'TGAG', 'TC', 'CT']
+greedy output: ACTGAGTCTGAG 1.71428571429
+168. CACGGTC
+['GGTC', 'C', 'GT', 'G', 'ACGGT', 'ACGGTC', 'T', 'ACGG', 'CGGT', 'TC', 'CGGTC']
+greedy output: GACGGTCGGT 1.42857142857
+169. ACCAGTG
+['A', 'GT', 'G', 'GTG', 'CA', 'AGTG', 'CCAGTG', 'T', 'ACCAGT', 'CAG', 'CCAG']
+greedy output: CACCAGTGTCCAG 1.85714285714
+170. CATTCCC
+['A', 'C', 'TTCC', 'CC', 'CA', 'TTCCC', 'ATTC', 'T', 'ATTCC', 'CATTCCC']
+greedy output: ATTCCATTCCCT 1.71428571429
+171. GAGCTTG
+['C', 'GA', 'G', 'TT', 'GCTT', 'GAGCTT', 'T', 'GAGCTTG', 'TG', 'TTG', 'CTTG', 'CT']
+greedy output: CTGAGCTTGCTT 1.71428571429
+172. CAGTTTA
+['A', 'GT', 'AGTTT', 'G', 'TT', 'CAGTTTA', 'T', 'GTTTA', 'TTA', 'CAG', 'CAGTTT']
+greedy output: GTCAGTTTAGTTT 1.85714285714
+173. TAAATTT
+['A', 'AA', 'AAA', 'AAAT', 'TT', 'ATT', 'AT', 'TAAAT']
+greedy output: AAATAAATT 1.28571428571
+174. CTGGGGG
+['C', 'G', 'CTGGGG', 'CTG', 'GG', 'GGG', 'CTGG']
+greedy output: CTGGGG 0.857142857143
+175. CAGAACT
+['A', 'AA', 'C', 'AAC', 'AG', 'AGA', 'CAGAA', 'AGAAC', 'ACT']
+greedy output: AAGACAGAACT 1.57142857143
+176. CGCCGTC
+['C', 'GT', 'G', 'CGCCG', 'T', 'CCG', 'CCGTC', 'GCCGT']
+greedy output: CCGCCGTCGT 1.42857142857
+177. GGCTTGC
+['G', 'TT', 'CTTGC', 'TGC', 'GCTT', 'T', 'TG', 'TTGC', 'CTTG']
+greedy output: TTGCTTGC 1.14285714286
+178. TAGCCCG
+['GCCCG', 'GCCC', 'AGC', 'AGCC', 'CG', 'C', 'CCG', 'CCC']
+greedy output: AGCCCGCCC 1.28571428571
+179. AGAGAAC
+['AGAA', 'AAC', 'AC', 'AGA', 'GAAC', 'GAGA', 'GA', 'GAG', 'AGAAC', 'GAA']
+greedy output: GAGAACGAA 1.28571428571
+180. GGGGCAA
+['AA', 'GGGG', 'C', 'G', 'GG', 'A', 'GGC', 'GGGGC', 'GGCAA']
+greedy output: CGGGGCAA 1.14285714286
+181. AGGGGGG
+['AGGGG', 'GG', 'GGG', 'G', 'AG']
+greedy output: AGGGG 0.714285714286
+182. CCGGGGC
+['CGGGGC', 'G', 'CGG', 'GG', 'GC', 'GGC', 'GGGC']
+greedy output: GGCGGGGC 1.14285714286
+183. GCCTATA
+['GCCTA', 'CCTA', 'CTATA', 'ATA', 'CCTAT', 'GCCTATA', 'CTAT', 'T', 'CT', 'GCCTAT', 'TA']
+greedy output: GCCTATACCTATCT 2.0
+184. TCCACGA
+['A', 'C', 'ACG', 'G', 'CG', 'ACGA', 'GA', 'TCCAC']
+greedy output: CGTCCACGA 1.28571428571
+185. AGAGTGA
+['A', 'AGAG', 'GTG', 'AGTGA', 'GAGTG', 'T', 'GA', 'TG']
+greedy output: AGAGTGAGTGT 1.57142857143
+186. TTAGAGT
+['A', 'TTAGA', 'AGAG', 'AG', 'G', 'TAGAGT', 'AGAGT', 'TAGA', 'TTA', 'TA']
+greedy output: ATTAGAGTAGAG 1.71428571429
+187. CAGAGCC
+['A', 'GCC', 'AGAG', 'CAGAG', 'G', 'CC', 'AGAGCC', 'AGC', 'C', 'GC', 'GA', 'CAGA']
+greedy output: GAGCAGAGCC 1.42857142857
+188. TAATAGT
+['A', 'GT', 'G', 'TAATAG', 'T', 'TAAT', 'TAG', 'AT', 'TA']
+greedy output: ATAATAGTG 1.28571428571
+189. CCTTCAT
+['A', 'C', 'CCT', 'CTTC', 'CAT', 'CCTTCA', 'TTCA', 'T', 'TTC', 'CTTCAT', 'TCA']
+greedy output: CCTTCATTCTTCA 1.85714285714
+190. GAAGTAC
+['A', 'GAAGT', 'AC', 'GAAGTAC', 'G', 'GTAC', 'AAGTAC', 'GAAG', 'T', 'AGTAC', 'TA']
+greedy output: GAAGTACTA 1.28571428571
+191. GGGGAAA
+['A', 'AA', 'GGGAAA', 'G', 'GGAAA', 'GG', 'GGG', 'GA', 'GGGGA', 'GGAA']
+greedy output: GGGGAAAGAGGAA 1.85714285714
+192. GATCCCA
+['A', 'C', 'ATC', 'CC', 'CA', 'ATCCC', 'GATCCCA', 'TCCC', 'T']
+greedy output: GATCCCATCCCT 1.71428571429
+193. CTCTCGG
+['GG', 'C', 'G', 'CTCT', 'TCT', 'CG', 'CGG', 'CTCTCG', 'CTCGG', 'T', 'CTC', 'TC', 'CTCTC']
+greedy output: CGTCTCTCGG 1.42857142857
+194. AGTGATA
+['GT', 'AG', 'G', 'TGATA', 'GTGA', 'AGTGAT', 'T', 'GA', 'AGTGA', 'TG', 'TA']
+greedy output: TGTGAGTGATA 1.57142857143
+195. GGGAGCG
+['A', 'C', 'G', 'GGAG', 'GGA', 'AGC', 'AGCG', 'GC', 'GAG', 'GAGCG']
+greedy output: AGCGGAGCG 1.28571428571
+196. AGGACCG
+['ACC', 'A', 'C', 'AGGAC', 'CC', 'ACCG', 'AGG', 'GGACCG', 'GGA', 'GA']
+greedy output: AGGACCGGACC 1.57142857143
+197. AGTTTAG
+['TTTA', 'AGTTTAG', 'AGTTT', 'TAG', 'T', 'TTA', 'TA']
+greedy output: TTTAGTTTAG 1.42857142857
+198. AGGGTAG
+['A', 'G', 'AG', 'AGG', 'GTAG', 'GG', 'T', 'GGTAG', 'GGGTAG', 'TA']
+greedy output: TAGGGTAG 1.14285714286
+199. TCATGAA
+['AA', 'A', 'TCAT', 'CATG', 'CA', 'TCATGA', 'T', 'TCATGAA', 'TCA']
+greedy output: CATGTCATGAA 1.57142857143
+200. CCCCGCT
+['C', 'CC', 'CGC', 'CCGC', 'CCCC', 'GC', 'CCCCG', 'CCCCGC', 'CCG', 'CCC']
+greedy output: CCCCGCCG 1.14285714286
+201. ACGTTAT
+['TAT', 'A', 'C', 'ACGT', 'G', 'T', 'GTTAT', 'AT', 'TTAT', 'CGT', 'TA']
+greedy output: ACGTTATACG 1.42857142857
+202. TGGAGAG
+['A', 'AG', 'G', 'TGGAG', 'T', 'GA', 'GAG']
+greedy output: TGGAGA 0.857142857143
+203. GCTAACA
+['AA', 'A', 'C', 'G', 'CTAA', 'ACA', 'CTAAC', 'GC', 'T', 'CTAACA']
+greedy output: GCTAACAAT 1.28571428571
+204. GTTGTGC
+['GT', 'TGT', 'G', 'TT', 'GTGC', 'TTGTGC', 'GC', 'T', 'TG', 'TTG']
+greedy output: GTGTTGTGC 1.28571428571
+205. GCCTATA
+['A', 'TAT', 'CTATA', 'CCT', 'TATA', 'CTAT', 'GC', 'T', 'TA']
+greedy output: GCCTATATA 1.28571428571
+206. GTCATTT
+['GTCATTT', 'A', 'G', 'CA', 'TCATT', 'T', 'TC', 'TCA']
+greedy output: GTCATTTCATTCA 1.85714285714
+207. CCTCGCC
+['C', 'G', 'CCT', 'CTC', 'CG', 'GCC', 'GC', 'TCGC', 'CCTC', 'CTCG']
+greedy output: CCTCGCCGC 1.28571428571
+208. ATGGGTG
+['TGGGTG', 'GGTG', 'G', 'GGT', 'GG', 'T', 'GGGTG', 'TG']
+greedy output: TGGGTGGT 1.14285714286
+209. TGTGAGA
+['A', 'TGAGA', 'GTGAG', 'AG', 'GTGA', 'TGTGAG', 'AGA', 'GAGA', 'T']
+greedy output: TGTGAGAGTGA 1.57142857143
+210. CCAATAT
+['A', 'C', 'ATA', 'CA', 'AT', 'CAATA', 'CAAT', 'CCA', 'TA']
+greedy output: CCAATAT 1.0
+211. AAGTTAG
+['A', 'GTTA', 'G', 'AG', 'TAG', 'AAGT', 'GTT', 'T', 'TTA', 'TA']
+greedy output: TAAGTTAG 1.14285714286
+212. TGACGTT
+['TT', 'T', 'GA', 'TGAC', 'TGACGTT', 'GAC', 'CGTT', 'GACGT']
+greedy output: GACGTGACGTT 1.57142857143
+213. GCGAGCA
+['A', 'C', 'AG', 'G', 'AGCA', 'CA', 'CGAG', 'GCG', 'CGAGC', 'GAGC', 'GCGAGC', 'GCGA', 'GC', 'GCGAGCA']
+greedy output: AGCGAGCGAGCA 1.71428571429
+214. ACTGCCT
+['C', 'ACTGCCT', 'AC', 'TGCC', 'ACTGCC', 'GC', 'T', 'ACT', 'GCC', 'CTGCCT', 'CTGCC']
+greedy output: ACTGCCTGCCGCT 1.85714285714
+215. TACGTTT
+['AC', 'ACG', 'ACGT', 'TT', 'TTT', 'TACGTT', 'GTTT', 'GTT', 'TA', 'CGTT', 'T']
+greedy output: ACGTTACGTTT 1.57142857143
+216. GGATCTG
+['ATCT', 'G', 'TCT', 'GGATCT', 'GG', 'CT', 'CTG', 'AT', 'GATC', 'T']
+greedy output: GGATCTGATCAT 1.71428571429
+217. TAAAGTA
+['A', 'GTA', 'AAG', 'AA', 'AG', 'AAAGTA', 'TAAAG', 'AGTA', 'AAGTA', 'AAA', 'TAAAGTA']
+greedy output: TAAAGTAAAG 1.42857142857
+218. TTGCGGC
+['CGGC', 'GCG', 'G', 'CG', 'GG', 'GC', 'TGCG', 'TTGCGG', 'TTGC', 'GCGGC']
+greedy output: TGCGGTTGCGGC 1.71428571429
+219. GTTAAGA
+['AAG', 'AG', 'G', 'GTT', 'TAA', 'GA', 'T']
+greedy output: GTTAAGAT 1.14285714286
+220. AGTCCAA
+['AA', 'A', 'C', 'GTC', 'AGTCC', 'GT', 'CCAA', 'CCA', 'TC', 'GTCCAA']
+greedy output: GTCCAGTCCAA 1.57142857143
+221. GAGACCC
+['A', 'ACC', 'C', 'G', 'CC', 'AGA', 'GAGA', 'GACC', 'GAGACC']
+greedy output: AGAGACCG 1.14285714286
+222. CTACGGG
+['CTACGGG', 'C', 'CTAC', 'G', 'CTACGG', 'GGG', 'TACGG', 'T', 'TACG']
+greedy output: CTACGGGTACGG 1.71428571429
+223. GGTAGCA
+['A', 'GGT', 'C', 'G', 'CA', 'AGC', 'T', 'GGTAG']
+greedy output: GGTAGCAT 1.14285714286
+224. GCTCACG
+['AC', 'CA', 'CG', 'C', 'GCTCACG', 'CTCAC', 'T', 'CTCACG']
+greedy output: GCTCACGCTCACAT 2.0
+225. GGCCTTC
+['GCC', 'GGC', 'G', 'CTTC', 'GG', 'T', 'GCCTTC', 'TTC', 'TC', 'CT']
+greedy output: GGCCTTCT 1.14285714286
+226. CCGCGGA
+['C', 'CGCGG', 'G', 'CG', 'CGG', 'GG', 'GGA', 'GA', 'CCGCG', 'CGCGGA']
+greedy output: CGGCCGCGGA 1.42857142857
+227. TACAGCC
+['A', 'ACAG', 'GCC', 'CC', 'ACAGC', 'AGC', 'C', 'ACAGCC', 'AGCC']
+greedy output: ACAGCCAGC 1.28571428571
+228. TAAATAC
+['A', 'AA', 'AC', 'AATAC', 'AAA', 'AAAT', 'TAAATAC', 'ATA', 'AAT']
+greedy output: AAATAAATAC 1.42857142857
+229. GACGATC
+['A', 'ACG', 'G', 'GAT', 'ACGA', 'AT', 'TC', 'GATC']
+greedy output: ACGATCGAT 1.28571428571
+230. TCACCGT
+['C', 'GT', 'G', 'TCAC', 'CACC', 'TCACCG', 'CCG', 'ACCGT', 'CGT']
+greedy output: CACCGTCACCGT 1.71428571429
+231. CAGGGAG
+['A', 'GGAG', 'AG', 'CAGGGAG', 'AGGGAG', 'GGG', 'GGA', 'GA', 'GAG', 'CAGGGA', 'CAGG']
+greedy output: CAGGGAGGGA 1.42857142857
+232. AGACGAA
+['A', 'AC', 'ACG', 'AG', 'G', 'CG', 'GAA']
+greedy output: ACGAAG 0.857142857143
+233. TGGTCGG
+['GGT', 'C', 'G', 'TGGTCGG', 'CG', 'GGTCG', 'CGG', 'GG', 'T', 'TG', 'TC']
+greedy output: TGGTCGGTCGGTC 1.85714285714
+234. TCTATCA
+['C', 'CTATC', 'CA', 'T', 'AT', 'ATCA', 'TATCA', 'TA', 'TC', 'CT']
+greedy output: TCTATCATA 1.28571428571
+235. GCTGAAC
+['AA', 'A', 'AC', 'G', 'AAC', 'GCTG', 'GAAC', 'GC', 'TGAA', 'GA', 'CTGAA', 'GAA']
+greedy output: GCTGAACGAA 1.42857142857
+236. CTGACGC
+['A', 'AC', 'ACG', 'G', 'GACGC', 'C', 'GC', 'T', 'TGAC', 'TG', 'TGACG']
+greedy output: ACGTGACGC 1.28571428571
+237. GGCGAAC
+['AA', 'A', 'AC', 'G', 'AAC', 'GGCGAAC', 'CG', 'GCGAA', 'GAAC', 'GA', 'GAA']
+greedy output: GGCGAACGCGAAGA 2.0
+238. TACTGTC
+['AC', 'GTC', 'ACTGTC', 'TACTG', 'TACTGT', 'CTG', 'T', 'ACT', 'GT', 'ACTG', 'CTGTC', 'CT']
+greedy output: ACTGTACTGTCT 1.71428571429
+239. CAAGACC
+['A', 'C', 'AG', 'CC', 'CAAGAC', 'AC', 'GACC', 'GAC', 'AGACC', 'AAG']
+greedy output: AAGACAAGACC 1.57142857143
+240. TTAAATA
+['AA', 'A', 'AAAT', 'TTAA', 'TTAAAT', 'AATA', 'T', 'TTA', 'TTAAATA', 'TA']
+greedy output: AAATTAAATA 1.42857142857
+241. GAACTTT
+['CTT', 'A', 'AC', 'TT', 'ACTT', 'GAACT', 'T', 'GAACTTT', 'CT']
+greedy output: ACTTGAACTTTCT 1.85714285714
+242. GTGCGAA
+['A', 'C', 'CGAA', 'G', 'GCGA', 'GTGC', 'GCGAA', 'GC', 'GA', 'GTGCGA']
+greedy output: GTGCGAAGCGA 1.57142857143
+243. TGTCACG
+['TGTCA', 'A', 'C', 'GT', 'GTCA', 'CG', 'T', 'TCA']
+greedy output: CGTGTCAT 1.14285714286
+244. GGTGGTC
+['GGT', 'GTC', 'TGGTC', 'G', 'GT', 'T', 'TG', 'GTGGTC']
+greedy output: TGGTGGTC 1.14285714286
+245. TCAAGAG
+['CAAGA', 'AA', 'C', 'AGAG', 'AG', 'CA', 'AGA', 'A', 'CAAGAG', 'GA', 'AAGAG']
+greedy output: CAAGAGAA 1.14285714286
+246. TGCTATT
+['A', 'TAT', 'GCTATT', 'G', 'TGCTAT', 'TGCTATT', 'GCTAT', 'ATT', 'T', 'TGCT', 'CT', 'CTA']
+greedy output: GCTATGCTATTCTA 2.0
+247. GACCGAT
+['ACC', 'A', 'C', 'CGA', 'ACCG', 'GAT', 'AC', 'CCGA', 'CCGAT', 'AT', 'GA']
+greedy output: CGACCGAT 1.14285714286
+248. ACATAGT
+['TAGT', 'CATA', 'C', 'GT', 'G', 'ACATA', 'CA', 'A', 'T', 'AGT']
+greedy output: CACATAGTGA 1.42857142857
+249. GATGTGG
+['A', 'GTG', 'GAT', 'GTGG', 'GG', 'TGG', 'ATGT', 'TG', 'GATGTG', 'TGTGG', 'T']
+greedy output: ATGTGATGTGGT 1.71428571429
+250. AGCGAGG
+['A', 'GCGAGG', 'GCG', 'G', 'CGA', 'AGC', 'CG', 'AGCGAGG', 'GAGG', 'GA', 'AG', 'AGCGA']
+greedy output: AGCGAGGCGACG 1.71428571429
+251. TGTACTT
+['CTT', 'A', 'C', 'GTACTT', 'TT', 'ACTT', 'T', 'ACT']
+greedy output: ACTCGTACTT 1.42857142857
+252. AATAGGT
+['A', 'TAG', 'AA', 'G', 'GG', 'AGGT', 'TAGG', 'TAGGT', 'TA']
+greedy output: AAGGTAGGT 1.28571428571
+253. AGAACAG
+['A', 'ACAG', 'AC', 'GAACAG', 'AG', 'AACAG', 'AACA', 'AGAACA', 'AAC', 'GA', 'CAG']
+greedy output: AACAGAACAGAC 1.71428571429
+254. CATATCG
+['TAT', 'A', 'C', 'ATC', 'ATA', 'CG', 'TATC', 'ATCG']
+greedy output: ATATCGC 1.0
+255. CGGCGAA
+['A', 'C', 'GGC', 'CGGCGA', 'GCGA', 'CG', 'G', 'GA', 'GGCGAA', 'GAA']
+greedy output: CGGCGAAGGCGA 1.71428571429
+256. CACCTCA
+['A', 'CACCTC', 'CACCT', 'CACCTCA', 'CA', 'T', 'CTC', 'TC', 'TCA']
+greedy output: TCTCACCTCA 1.42857142857
+257. ATCTGGG
+['ATCTG', 'G', 'ATCTGGG', 'GG', 'GGG', 'AT', 'TCTGGG', 'TC', 'ATCTGG', 'T']
+greedy output: ATCTGGGTC 1.28571428571
+258. TCAACTG
+['TCAACTG', 'A', 'AC', 'CAAC', 'AACTG', 'CTG', 'T', 'TG', 'CT']
+greedy output: ACAACTCAACTGT 1.85714285714
+259. TCGCGTT
+['GCGTT', 'C', 'G', 'TT', 'CG', 'TCGCGT', 'GC', 'T', 'CGCG']
+greedy output: CGCGCTCGCGTT 1.71428571429
+260. CTGGTAG
+['C', 'GTAG', 'G', 'TGGT', 'TAG', 'TGG', 'AG', 'TGGTA', 'T']
+greedy output: CTGGTAG 1.0
+261. AAGCAAT
+['A', 'GCA', 'AA', 'AGCA', 'CA', 'AGC', 'AAT', 'AT']
+greedy output: AGCAAT 0.857142857143
+262. ATGCGGA
+['ATGC', 'G', 'GGA', 'GCGG', 'ATGCG', 'GC', 'TGCG', 'ATGCGG', 'TGCGGA', 'GCGGA']
+greedy output: ATGCGGATGCGGC 1.85714285714
+263. GATTCCT
+['A', 'GATTC', 'ATTCCT', 'CC', 'CCT', 'TCCT', 'GAT', 'C', 'AT', 'TTCC', 'TCC', 'CT']
+greedy output: ATTCCGATTCCT 1.71428571429
+264. TAGTCTT
+['A', 'C', 'G', 'GTCTT', 'TAG', 'T', 'TC', 'CT']
+greedy output: ACTAGTCTTC 1.42857142857
+265. GTGAGAC
+['AGAC', 'A', 'AC', 'GTGAGA', 'GTGA', 'GTGAGAC', 'GAGA', 'GAGAC']
+greedy output: GTGAGACGAGA 1.57142857143
+266. CTACCAC
+['A', 'ACC', 'CTACCA', 'CTACCAC', 'ACCA', 'CTA', 'CAC', 'TACCA', 'TACC', 'CCA', 'TA']
+greedy output: CTACCACCTACCA 1.85714285714
+267. CGCTGTC
+['C', 'G', 'TGT', 'CGC', 'CG', 'CTG', 'GC', 'T', 'TG']
+greedy output: CGCTGTG 1.0
+268. CAGCCTT
+['CTT', 'A', 'C', 'AG', 'G', 'AGCCTT', 'CCT', 'TT', 'GCC', 'CC', 'GCCT', 'GCCTT', 'CAGCC']
+greedy output: AGCCTCCAGCCTT 1.85714285714
+269. ATCCTCA
+['A', 'ATCCTCA', 'CCT', 'CA', 'TCCTC', 'ATCC', 'T', 'TCA', 'TC', 'CT']
+greedy output: ATCCTCACCTCCTCT 2.14285714286
+270. GCGTGGA
+['GCGTGG', 'GCG', 'G', 'GTG', 'CG', 'GTGG', 'GG', 'GCGTG', 'GC', 'GA']
+greedy output: CGTGCGTGGA 1.42857142857
+271. CGTACCA
+['ACC', 'GTA', 'C', 'CA', 'CGTACC', 'CGTACCA', 'TACC', 'CGT', 'CGTA']
+greedy output: GTACCGTACCA 1.57142857143
+272. TCTAGTC
+['A', 'TAGT', 'C', 'GTC', 'G', 'TCTAGTC', 'TCT', 'AGTC', 'GT', 'CTAGTC', 'T', 'TCTA']
+greedy output: AGTAGTCTAGTC 1.71428571429
+273. GACCACT
+['A', 'CACT', 'C', 'AC', 'GACCAC', 'ACT', 'GAC', 'CT']
+greedy output: ACGACCACT 1.28571428571
+274. TTGTGAG
+['A', 'GT', 'G', 'AG', 'GTGA', 'TGTGAG', 'TTGT', 'TGA', 'T', 'TGT', 'TTGTGAG']
+greedy output: TTGTGAGTGTGA 1.71428571429
+275. GCACCCA
+['GCA', 'C', 'CA', 'GCACCC', 'CACCC', 'CCCA', 'CAC', 'CCA', 'CCC']
+greedy output: GCACCCACCC 1.42857142857
+276. TAAGAAG
+['A', 'TAAGAAG', 'AAGAA', 'AG', 'AAG', 'AGA', 'T', 'GAA', 'TAA']
+greedy output: TAAGAAGAAGA 1.57142857143
+277. GCAATCC
+['AA', 'A', 'AATC', 'CC', 'GCAAT', 'GCAA', 'AAT', 'GCAATC', 'GC', 'AT']
+greedy output: AATGCAATCC 1.42857142857
+278. GTGTTTC
+['GT', 'GTGTTT', 'TT', 'GTT', 'T', 'TTC', 'GTGTT', 'TC', 'GTTTC']
+greedy output: GTTGTGTTTC 1.42857142857
+279. GCAGATG
+['A', 'ATG', 'G', 'CA', 'AGA', 'GCAGA', 'AGAT', 'CAGA', 'GATG', 'AT']
+greedy output: GCAGATGCAT 1.42857142857
+280. GCATGAT
+['A', 'ATG', 'ATGA', 'G', 'CATGAT', 'GAT', 'TGA', 'AT', 'GA', 'GCAT', 'TG', 'T']
+greedy output: TGCATGATGA 1.42857142857
+281. TCAGTTC
+['A', 'GTTC', 'GT', 'AG', 'TCAGT', 'TT', 'TC', 'AGTTC', 'T', 'AGTT', 'TCAGTTC']
+greedy output: AGTTCAGTTCGT 1.71428571429
+282. TAGAGAC
+['A', 'AGAC', 'AGAGA', 'AG', 'AGA', 'TAGAG', 'T', 'TA']
+greedy output: AGTAGAGAC 1.28571428571
+283. AGGTCTT
+['A', 'GGTC', 'GGTCTT', 'GTCTT', 'GTCT', 'AGGTCTT', 'GTC', 'T', 'AGGTC']
+greedy output: AGGTCTTGGTCTGTC 2.14285714286
+284. TAGAAAC
+['A', 'AC', 'AAC', 'AGA', 'GAAA', 'TAGAA', 'AGAAAC', 'TA']
+greedy output: AGAAATAGAAAC 1.71428571429
+285. GGCGCCA
+['GGCGCCA', 'C', 'G', 'CCA', 'CGC', 'GGCG', 'CGCCA', 'GCC', 'GC', 'CGCC']
+greedy output: GGCGCCAGCGCC 1.71428571429
+286. TAAGCGA
+['C', 'CGA', 'AGC', 'AGCG', 'AAGCGA', 'GC', 'T', 'GA', 'TA']
+greedy output: TAAGCGAGCGC 1.57142857143
+287. AAAGAGA
+['A', 'GAG', 'AAAGAG', 'GA', 'AAAG']
+greedy output: AAAGAGA 1.0
+288. AATTAAC
+['A', 'AC', 'TAAC', 'TT', 'AATTAA', 'AAT', 'ATT', 'ATTAA', 'TAA', 'ATTA']
+greedy output: ATTAATTAACTT 1.71428571429
+289. TCAAACA
+['AA', 'A', 'ACA', 'AAA', 'CA', 'AC', 'TCAA', 'AAAC', 'T', 'CAAAC', 'AACA']
+greedy output: TCAAACAAAC 1.42857142857
+290. GACTGGG
+['A', 'C', 'G', 'GG', 'ACTGG', 'ACT', 'TG', 'CT']
+greedy output: ACTGGCTG 1.14285714286
+291. ATACGAT
+['A', 'C', 'ACG', 'CGA', 'ACGAT', 'CGAT', 'AT', 'GA', 'TAC']
+greedy output: CGATACGAT 1.28571428571
+292. TCCGTTT
+['TCCGTTT', 'TCCGT', 'CC', 'TC', 'TT', 'CCGTT', 'TTT', 'T', 'TCCG', 'CCG', 'CGT']
+greedy output: CCGTTCCGTTTCGT 2.0
+293. CCATTAT
+['A', 'TAT', 'CA', 'CATTA', 'AT', 'TTA', 'TTAT', 'TA']
+greedy output: CATTATA 1.0
+294. CGCTCAA
+['AA', 'A', 'C', 'CGCT', 'TCAA', 'GCT', 'T', 'CTC', 'CAA', 'CT', 'TCA']
+greedy output: CGCTCAACT 1.28571428571
+295. CTCTAAC
+['AA', 'A', 'AC', 'TAAC', 'AAC', 'TCTAAC', 'CTA', 'CTCTAAC', 'TC', 'TA']
+greedy output: TCTCTAACTAA 1.57142857143
+296. ATGAAAG
+['AA', 'A', 'AAG', 'AAA', 'G', 'TGA', 'AT', 'GA', 'GAA']
+greedy output: ATGAAAG 1.0
+297. CATGGTG
+['TGGTG', 'C', 'GT', 'ATGG', 'G', 'GTG', 'TGGT', 'AT', 'ATGGT', 'T', 'TG', 'CATGGTG', 'TGG']
+greedy output: CATGGTGGATGGT 1.85714285714
+298. AAAGTTT
+['A', 'GT', 'AG', 'TT', 'TTT', 'T', 'AAAG', 'AGT']
+greedy output: AAAGTTT 1.0
+299. AACAGTC
+['ACAG', 'ACA', 'GT', 'G', 'AAC', 'ACAGTC', 'AC', 'CAGTC', 'T', 'AGTC', 'AGT', 'CAG', 'TC']
+greedy output: GAACAGTCAGTAC 1.85714285714
+300. ATCTTCA
+['CTT', 'C', 'ATC', 'CA', 'TT', 'TTCA', 'T', 'ATCTTC', 'TC']
+greedy output: CTTCATCTTCA 1.57142857143
+301. TCAGCTG
+['C', 'CAGCTG', 'T', 'CTG', 'TCAGCTG', 'GCT', 'TG', 'AGCT', 'TCA']
+greedy output: CAGCTCAGCTG 1.57142857143
+302. GAGCCAG
+['A', 'C', 'GCCAG', 'GCCA', 'AG', 'CC', 'CCA', 'AGCC', 'AGC', 'GCC', 'CAG', 'CCAG']
+greedy output: AGCCAGCCAC 1.42857142857
+303. GTTTGCG
+['GT', 'G', 'TTTG', 'TT', 'CG', 'TTT', 'TGC', 'TG']
+greedy output: TGTTTGCG 1.14285714286
+304. GAAGCTC
+['A', 'AA', 'G', 'GAAGCT', 'CTC', 'AAGCTC', 'TC', 'CT']
+greedy output: AAGAAGCTCT 1.42857142857
+305. CAGTTGA
+['C', 'GTTG', 'CAG', 'TT', 'TGA', 'T', 'GA', 'TG', 'AGT', 'TTG', 'CAGTT']
+greedy output: CAGTTGAGTTG 1.57142857143
+306. CAAGTTG
+['AA', 'A', 'C', 'GTTG', 'CA', 'AAG', 'AAGTTG', 'GTT', 'AGTTG', 'TG', 'CAA', 'AGT']
+greedy output: AGTTCAAGTTG 1.57142857143
+307. TATAAGC
+['A', 'AAGC', 'AG', 'TATAAG', 'AGC', 'AT', 'TATAA', 'TAA', 'TA']
+greedy output: ATAAGTATAAGC 1.71428571429
+308. AGTCCGG
+['C', 'GTCCG', 'AG', 'G', 'GTCC', 'CCGG', 'AGTCCG', 'CG', 'GT', 'CCG', 'AGT', 'TCC']
+greedy output: CAGTCCGGTCCG 1.71428571429
+309. TGATAAT
+['A', 'AA', 'GATAAT', 'TAAT', 'AT', 'GA', 'TA']
+greedy output: GATAATAA 1.14285714286
+310. TACAGGC
+['A', 'AC', 'ACAGGC', 'G', 'AGGC', 'C', 'TACAGG', 'GC', 'GGC', 'AG', 'TACA', 'TA']
+greedy output: ACAGTACAGGC 1.57142857143
+311. GTATCGT
+['GTA', 'GT', 'ATC', 'G', 'CGT', 'ATCG', 'TATCGT', 'TCG', 'TC', 'GTATCG']
+greedy output: ATCGTATCGTCG 1.71428571429
+312. TCATGTT
+['C', 'CATGTT', 'TGT', 'CATG', 'TT', 'GTT', 'T', 'TG', 'TC', 'TGTT']
+greedy output: CATGTTGTC 1.28571428571
+313. TACAATC
+['A', 'C', 'ATC', 'ACAA', 'ACA', 'TACA', 'CAAT', 'TC', 'TA']
+greedy output: ATACAATC 1.14285714286
+314. GGTGGTT
+['GT', 'G', 'GTGGTT', 'GTGG', 'GG', 'T', 'GGTT', 'TG', 'GGTGGT']
+greedy output: GTGGTGGTTG 1.42857142857
+315. GCCACCA
+['ACC', 'GCCAC', 'GCC', 'GCCA', 'CC', 'CCACC', 'CA', 'ACCA', 'C', 'A', 'CCA']
+greedy output: GCCACCACC 1.28571428571
+316. CGCGCGA
+['C', 'G', 'CGA', 'CGC', 'CGCGA', 'GC', 'GA', 'CGCG', 'GCGA']
+greedy output: GCGCGA 0.857142857143
+317. ACCAAGG
+['A', 'AAGG', 'C', 'G', 'CA', 'GG', 'CAA', 'CCA']
+greedy output: ACCAAGG 1.0
+318. GCAGGGC
+['A', 'GG', 'GGG', 'GC', 'CAGG', 'GGC', 'AGGGC', 'CAGGGC']
+greedy output: AGGGCAGGGC 1.42857142857
+319. CTACGAT
+['A', 'CTACG', 'AC', 'G', 'GAT', 'TACGAT', 'CGAT', 'CTACGAT', 'GA']
+greedy output: GACTACGAT 1.28571428571
+320. TACACCT
+['ACC', 'ACA', 'CACCT', 'CCT', 'C', 'AC', 'TACAC', 'CACC', 'TACA']
+greedy output: ACACCTACACCT 1.71428571429
+321. GATCCCG
+['A', 'C', 'CC', 'CG', 'CCCG', 'ATCCC', 'GA', 'GATCC', 'AT', 'CCG', 'CCC', 'GATCCCG']
+greedy output: ATCCCGATCCCG 1.71428571429
+322. TTTGAAG
+['A', 'AG', 'TT', 'TTTGAAG', 'TTTGA', 'TGA', 'GAAG', 'T', 'GA', 'TGAA']
+greedy output: TGAATTTGAAGA 1.71428571429
+323. AGTCAAT
+['A', 'AA', 'GTC', 'AG', 'G', 'AGTCAA', 'AGTCAAT', 'AAT', 'AT', 'GTCA']
+greedy output: GTCAAGTCAAT 1.57142857143
+324. GAAGCCT
+['AA', 'C', 'G', 'AG', 'CC', 'CCT', 'AGCC', 'GCCT', 'GA', 'GAAGCCT', 'CT']
+greedy output: AAGCCGAAGCCT 1.71428571429
+325. CAAACAT
+['A', 'AC', 'CA', 'ACA', 'CAAACA', 'ACAT', 'AT', 'CAA', 'AACAT']
+greedy output: ACAAACAT 1.14285714286
+326. CTTTTTT
+['TTTTT', 'TT', 'TTT', 'T', 'CTTT', 'CTTTTT']
+greedy output: CTTTTT 0.857142857143
+327. ACCTTCA
+['A', 'C', 'CTTC', 'CCTT', 'TTCA', 'T', 'CTTCA', 'TC', 'TCA']
+greedy output: TCCTTCA 1.0
+328. CCTGGTA
+['GGT', 'TGGTA', 'G', 'GG', 'CTGG', 'CTGGT', 'T', 'CTGGTA', 'CCTG', 'TA']
+greedy output: GGTCCTGGTA 1.42857142857
+329. CGCCAAG
+['AA', 'A', 'C', 'CAAG', 'CA', 'CG', 'AAG', 'GCCAAG', 'CAA', 'CCA']
+greedy output: CGCCAAGCCAA 1.57142857143
+330. GATTTCG
+['C', 'TT', 'TTT', 'ATT', 'TCG', 'AT', 'TTTCG', 'GATTTCG', 'TC']
+greedy output: ATTTCGATTTCG 1.71428571429
+331. CAGTCCT
+['C', 'G', 'AG', 'CC', 'CCT', 'CA', 'AGTC', 'CAGTCCT', 'T', 'CT']
+greedy output: GAGTCCAGTCCT 1.71428571429
+332. GGACTGG
+['GGAC', 'AC', 'GGACTG', 'GGA', 'GACTGG', 'ACT', 'TG', 'CTGG', 'GAC']
+greedy output: GGACTGGACTG 1.57142857143
+333. CCCAGAA
+['A', 'C', 'AG', 'G', 'CC', 'CCAGA', 'CCCAGAA', 'AGA', 'CAGAA', 'GA']
+greedy output: CCAGAGCCCAGAA 1.85714285714
+334. CCAGCAC
+['A', 'AC', 'AGCAC', 'G', 'CC', 'CA', 'C', 'GC', 'CCAG']
+greedy output: GCCAGCACAC 1.42857142857
+335. GCGGGCT
+['C', 'G', 'GCG', 'GCGGGCT', 'GGGC', 'GGC', 'GC', 'CGGGCT', 'CT']
+greedy output: GGGCGGGCTGC 1.57142857143
+336. GCTCTAT
+['A', 'G', 'TCT', 'T', 'CTAT', 'GCT', 'AT', 'CT', 'TA']
+greedy output: GCTCTATA 1.14285714286
+337. CCATTTT
+['TT', 'CCAT', 'TTT', 'ATT', 'T', 'CAT']
+greedy output: CCATTT 0.857142857143
+338. CGTTGCG
+['GTTGC', 'CGTTGC', 'GT', 'GCG', 'G', 'CGTTG', 'TT', 'C', 'GC', 'T', 'TTGCG']
+greedy output: GCGTTGCGTT 1.42857142857
+339. CTATACT
+['TAT', 'A', 'C', 'T', 'CTA', 'CT', 'TATAC', 'TA']
+greedy output: CTATACTA 1.14285714286
+340. TGGACTA
+['AC', 'G', 'TGGA', 'C', 'T', 'TGGAC', 'GGA', 'CTA', 'GA', 'CT', 'GAC', 'TA']
+greedy output: GGATGGACTA 1.42857142857
+341. GAAGCTG
+['C', 'GAAGCTG', 'CTG', 'T', 'GAAGC', 'TG', 'AGCT', 'GAA', 'CT']
+greedy output: CAGCTGAAGCTG 1.71428571429
+342. AATAAAC
+['AA', 'A', 'AC', 'ATAAA', 'AAA', 'AAC', 'ATA', 'TAAA', 'AAAC']
+greedy output: AATAAAC 1.0
+343. GTGAACG
+['A', 'AC', 'GT', 'CG', 'AACG', 'C', 'TGA', 'TGAAC', 'GA', 'T']
+greedy output: GTGAACGACT 1.42857142857
+344. TTGTGTG
+['GT', 'TGT', 'G', 'GTG', 'TGTG', 'TTGT', 'T', 'GTGT', 'TTGTGT']
+greedy output: GTTGTGTGT 1.28571428571
+345. GGTATAC
+['A', 'TAT', 'AC', 'GT', 'G', 'TATA', 'T', 'TAC', 'AT']
+greedy output: ATATACGT 1.14285714286
+346. TTGAATT
+['AA', 'TGAATT', 'TTGAATT', 'TTGAAT', 'ATT', 'T', 'GAATT', 'TTG', 'GAA', 'TGAA']
+greedy output: TTGAATTGAA 1.42857142857
+347. GCCAGAG
+['A', 'C', 'AG', 'CCAGA', 'AGA', 'CAGA', 'CCA']
+greedy output: CCAGAG 0.857142857143
+348. GCTTTGC
+['G', 'TT', 'CTTTG', 'GCT', 'GC', 'CTTTGC', 'CTTT', 'TG', 'T']
+greedy output: TTGCTTTGC 1.28571428571
+349. GAACGAT
+['A', 'AA', 'GAACGAT', 'AACG', 'ACGA', 'AT', 'GA', 'AACGA']
+greedy output: GAACGAACGAT 1.57142857143
+350. TGGCCAC
+['A', 'C', 'TGGCC', 'G', 'CC', 'AC', 'GG', 'CAC', 'GCC', 'CCAC']
+greedy output: ATGGCCACGG 1.42857142857
+351. ATTCTGC
+['C', 'ATTCTGC', 'G', 'TCT', 'TTCTG', 'TTCTGC', 'GC', 'T', 'CTGC', 'TG', 'TC']
+greedy output: ATTCTGCTCTTCTG 2.0
+352. CACACAT
+['A', 'C', 'ACACA', 'CA', 'ACA', 'CAT', 'ACACAT', 'AT']
+greedy output: CACACAT 1.0
+353. GATCACC
+['A', 'AC', 'TCACC', 'CC', 'C', 'GATCACC', 'T', 'CACC', 'ATCAC', 'TC', 'GATC']
+greedy output: ATCACTCGATCACC 2.0
+354. TCCCTAG
+['A', 'C', 'AG', 'CC', 'CCCTA', 'TCCCTAG', 'T', 'TCCCTA', 'TC', 'TA']
+greedy output: CCCTATCCCTAG 1.71428571429
+355. TACGGCC
+['ACGGC', 'GCC', 'G', 'CC', 'CG', 'C', 'CGG', 'GG', 'GC', 'GGC', 'TACG']
+greedy output: TACGGCCGG 1.28571428571
+356. GTTAATG
+['TAATG', 'ATG', 'GTTA', 'G', 'TAAT', 'A', 'AT', 'TG', 'T']
+greedy output: GTTAATGAT 1.28571428571
+357. CCTCCTG
+['CCT', 'TCCT', 'CCTCC', 'CTG', 'T', 'CCTCCTG', 'TG', 'CT']
+greedy output: CTCCTCCTG 1.28571428571
+358. TATCAAG
+['A', 'AA', 'C', 'ATC', 'CAAG', 'ATCAAG', 'CA', 'TCAA', 'T', 'CAA', 'TA']
+greedy output: CATCAAGTCAATA 1.85714285714
+359. ACAATGT
+['A', 'AA', 'AATGT', 'GT', 'G', 'ACA', 'TG']
+greedy output: ACAATGTG 1.14285714286
+360. ACCCTTG
+['CTT', 'AC', 'CCCT', 'CCT', 'C', 'ACCC', 'T', 'CCCTTG', 'CCCTT', 'TG']
+greedy output: ACCCTTGCCTT 1.57142857143
+361. AGTAAAC
+['A', 'AA', 'GT', 'AAA', 'AAC', 'AAAC', 'AGT']
+greedy output: AAACAGT 1.0
+362. AAGCGGC
+['A', 'C', 'GCG', 'G', 'AGC', 'AAG', 'AGCG', 'GG', 'GGC', 'AG', 'GCGGC']
+greedy output: AAGCGGCAGG 1.42857142857
+363. CAATACT
+['A', 'C', 'TACT', 'T', 'AAT', 'AT', 'ACT', 'CAATA', 'TA']
+greedy output: AATACAATACT 1.57142857143
+364. CGTGACT
+['GTGAC', 'C', 'CGTGAC', 'TGAC', 'GACT', 'TGA', 'GA', 'ACT', 'GAC', 'CGT', 'CT']
+greedy output: CGTGACTGAC 1.42857142857
+365. CTCTGTC
+['CTGT', 'GTC', 'GT', 'CTG', 'T', 'TCTG', 'TG', 'CTCTG', 'TC', 'CTCTGTC']
+greedy output: TCTCTGTCTGTG 1.71428571429
+366. ACTCCCA
+['CTCCC', 'CC', 'TC', 'CA', 'TCCCA', 'TCC', 'CCCA', 'CTCCCA', 'ACTCC', 'TCCC', 'CT']
+greedy output: TCCCTACTCCCA 1.71428571429
+367. GGCAAGA
+['CAAGA', 'AA', 'AAG', 'GGC', 'AG', 'CA', 'GGCAAG', 'GC', 'GA', 'GGCA']
+greedy output: GCAAGGCAAGA 1.57142857143
+368. GGACCGT
+['ACC', 'C', 'GT', 'G', 'CG', 'AC', 'GG', 'GGAC', 'GAC']
+greedy output: GGACCGT 1.0
+369. AAAAGAA
+['A', 'AAG', 'AAA', 'AAGA', 'AG', 'AGAA', 'AAAG', 'GA', 'GAA']
+greedy output: AAAGAAGA 1.14285714286
+370. AGACAAC
+['A', 'AGACAA', 'C', 'AA', 'AG', 'ACA', 'CA', 'AC', 'CAA']
+greedy output: AGACAACAC 1.28571428571
+371. TTCCTTC
+['CTT', 'C', 'CCT', 'TT', 'CCTT', 'CCTTC', 'TTCCTTC', 'TTCCTT', 'T', 'TTC', 'TC']
+greedy output: CCTTCCTTCT 1.42857142857
+372. TGTCCCG
+['C', 'GT', 'CC', 'TCC', 'T', 'TG', 'TC', 'CCC']
+greedy output: GTGTCCC 1.0
+373. GTCACTG
+['A', 'CACT', 'C', 'GTC', 'CACTG', 'TCACTG', 'CTG', 'T', 'TC', 'TCA']
+greedy output: ACACTGTCACTG 1.71428571429
+374. CGAGCTA
+['A', 'GAGCTA', 'C', 'G', 'GAGCT', 'CGAGC', 'CTA', 'GAG', 'AGCT', 'T']
+greedy output: CGAGCTAGAGCT 1.71428571429
+375. GCTTGGG
+['CTT', 'G', 'T', 'GG', 'GCTT', 'GCT', 'GCTTGG', 'TTG', 'TGG']
+greedy output: CTTGCTTGGT 1.42857142857
+376. CGTCTGT
+['GT', 'TGT', 'G', 'T', 'TCTG', 'CGTCTG', 'GTCTG']
+greedy output: GCGTCTGT 1.14285714286
+377. TGGCCCA
+['C', 'TGGCCC', 'G', 'CC', 'CA', 'CCCA', 'GGCCC', 'GGC', 'CCC']
+greedy output: TGGCCCAGGCCC 1.71428571429
+378. AAGTAAG
+['A', 'GTA', 'AAG', 'GT', 'TAAG', 'AAGTAA', 'AGTAAG', 'AAGT', 'T', 'AGT', 'TA']
+greedy output: AAGTAAGTAGT 1.57142857143
+379. ATGTGTA
+['ATG', 'GT', 'ATGTGT', 'TGT', 'GTA', 'TGTA', 'GTG', 'GTGTA', 'T', 'GTGT', 'TA']
+greedy output: ATGTGTAGTGT 1.57142857143
+380. GGTATGA
+['A', 'TAT', 'GT', 'GGTAT', 'G', 'GTA', 'GGTATGA', 'GGT', 'TGA', 'AT', 'GA', 'TATG']
+greedy output: GTATGGTATGAT 1.71428571429
+381. CATACCG
+['ACC', 'CATA', 'C', 'ATA', 'CA', 'A', 'T', 'CCG', 'TACC', 'TACCG']
+greedy output: ACCATACCGT 1.42857142857
+382. AAAATAG
+['A', 'AAAT', 'AG', 'AAATAG', 'ATA', 'AAT', 'TAG', 'AATAG']
+greedy output: AATAAATAG 1.28571428571
+383. GGTCGAT
+['A', 'C', 'G', 'GAT', 'GTCGAT', 'CGAT', 'GGTCGA']
+greedy output: ACGGTCGAT 1.28571428571
+384. AAAGGCA
+['GCA', 'C', 'G', 'AGGC', 'AGG', 'GGC']
+greedy output: CGAGGCA 1.0
+385. TACATTT
+['A', 'CATTT', 'ACATTT', 'TT', 'TTT', 'ACAT', 'T', 'TAC', 'TACA']
+greedy output: ATACATTT 1.14285714286
+386. GTTCGGC
+['GTTC', 'GTTCGGC', 'CG', 'TCGG', 'TCGGC', 'GG', 'TTCG', 'GC', 'GGC', 'TCG', 'TC']
+greedy output: TTCGGTTCGGCTCG 2.0
+387. GCTTTGA
+['CTTT', 'G', 'TTTG', 'TT', 'TTTGA', 'TTT', 'GA', 'CTTTGA', 'TTGA', 'TG']
+greedy output: CTTTGATTTG 1.42857142857
+388. TGCCATA
+['CATA', 'ATA', 'TGCCATA', 'CCAT', 'T', 'GCCATA', 'GC', 'AT', 'GCCAT', 'TA', 'CCATA']
+greedy output: GCCATGCCATA 1.57142857143
+389. GTTAATA
+['A', 'GTTAATA', 'ATA', 'AAT', 'AT', 'TTAATA', 'TA', 'T']
+greedy output: GTTAATAAT 1.28571428571
+390. TGCCATG
+['A', 'GCCA', 'CC', 'CA', 'TGCC', 'AT', 'GCCATG', 'TG', 'CCA', 'T']
+greedy output: CCATGCCATGT 1.57142857143
+391. CTCAACG
+['AA', 'C', 'ACG', 'CAAC', 'CG', 'TCAAC', 'CAA', 'CT', 'TC', 'TCA']
+greedy output: CAACTCAACG 1.42857142857
+392. GTGAATT
+['GTGAAT', 'GTGAATT', 'G', 'TGAATT', 'TT', 'AAT', 'ATT', 'T', 'GA', 'TG', 'GAA', 'AT']
+greedy output: GTGAATTGAAT 1.57142857143
+393. TAACACG
+['A', 'ACACG', 'ACAC', 'AAC', 'CA', 'CG', 'TAACACG', 'CACG', 'TAA', 'AACA']
+greedy output: AACACATAACACG 1.85714285714
+394. GGAAGCC
+['A', 'AA', 'C', 'GA', 'G', 'AGCC', 'GG', 'GC', 'GAAGC', 'AG']
+greedy output: AAGAAGCCGGC 1.57142857143
+395. GGTGCTA
+['GT', 'GGTG', 'G', 'CT', 'GGTGCT', 'T', 'TG', 'TA', 'GGTGC']
+greedy output: GTGGTGCTA 1.28571428571
+396. CAAGTGT
+['C', 'AAGTG', 'CA', 'AGTG', 'AAG', 'GTG', 'AAGT', 'AAGTGT', 'T', 'TG']
+greedy output: CAGTGAAGTGT 1.57142857143
+397. CCCTTGT
+['GT', 'CCCT', 'CCT', 'TT', 'T', 'CCTTGT', 'CTTGT', 'TTG', 'CTTG', 'CCC']
+greedy output: CTTGCCCTTGTT 1.71428571429
+398. ATGTATC
+['A', 'GT', 'ATC', 'G', 'T', 'AT', 'ATGTATC', 'TGTAT', 'TC', 'TA']
+greedy output: GTGTATGTATCTA 1.85714285714
+399. TGGAAAG
+['GAAAG', 'A', 'AAG', 'AA', 'AG', 'G', 'TGGAAAG', 'TGGAA', 'GA', 'AAA', 'GAA', 'TGGAAA']
+greedy output: TGGAAAGAAA 1.42857142857
+400. GCTAGAA
+['A', 'AA', 'AG', 'GCTAGAA', 'CTAG', 'CTAGAA', 'AGA', 'CTA', 'GA', 'GAA', 'TAGA']
+greedy output: CTAGAGCTAGAA 1.71428571429
+401. GTGGGGT
+['TGGG', 'G', 'TGGGGT', 'GTGGGGT', 'TGGGG', 'GTGG', 'GG', 'GGGG', 'TGG']
+greedy output: GTGGGGTGGGG 1.57142857143
+402. TAGGTTC
+['A', 'TAGGTT', 'GTTC', 'AGGTTC', 'G', 'AGG', 'TT', 'GGTTC', 'TAGGTTC', 'TAG', 'TAGGT', 'T', 'TC']
+greedy output: AGGTTAGGTTC 1.57142857143
+403. TTACTTC
+['AC', 'TTACT', 'TT', 'C', 'T', 'TAC', 'TTC', 'TTA', 'TC', 'CT']
+greedy output: TACTTACTTC 1.42857142857
+404. TATCTAG
+['A', 'CTAG', 'C', 'TCT', 'T', 'TAG', 'AT', 'TA']
+greedy output: CTATCTAG 1.14285714286
+405. GACCCGA
+['ACC', 'C', 'G', 'CGA', 'CG', 'AC', 'ACCC', 'CCCGA', 'GACCC', 'CCC']
+greedy output: CGACCCGACCC 1.57142857143
+406. AAGAGAC
+['AGAC', 'A', 'AC', 'AAGAG', 'G', 'GAGA', 'GA', 'AGAG', 'GAC']
+greedy output: GAAGAGAC 1.14285714286
+407. CGTGCCG
+['C', 'G', 'GTGCC', 'CG', 'GCC', 'TGCC', 'T', 'CGTG', 'CCG']
+greedy output: CGTGCCGT 1.14285714286
+408. AAAAGCC
+['A', 'AA', 'GCC', 'AG', 'CC', 'AGC', 'C', 'AAAGC', 'GC']
+greedy output: AAAGCCAGC 1.28571428571
+409. TAATTGC
+['A', 'AATT', 'G', 'ATT', 'TAATT', 'GC', 'T', 'TTG', 'TA']
+greedy output: ATAATTGC 1.14285714286
+410. GAAAGGA
+['A', 'AAG', 'AGGA', 'AAAG', 'G', 'AGG', 'GAAA', 'AAAGGA', 'GA', 'GGA', 'GAA']
+greedy output: AAGGAAAGGA 1.42857142857
+411. GTACGAT
+['A', 'GT', 'G', 'GAT', 'ACGAT', 'GTACG', 'ACGA', 'AT', 'GA']
+greedy output: GTACGATGA 1.28571428571
+412. TCCTACA
+['A', 'TCCTACA', 'C', 'CTACA', 'CC', 'AC', 'TCC', 'TAC', 'TACA', 'TC']
+greedy output: TACCTCCTACA 1.57142857143
+413. AAGCCAC
+['A', 'C', 'G', 'CC', 'AAGCCAC', 'CA', 'CAC', 'CCA']
+greedy output: AAGCCACCAG 1.42857142857
+414. AAGTCTC
+['AAGTCT', 'GTC', 'TCT', 'TC', 'AGTCT', 'AAGT', 'T', 'CTC', 'AGTCTC', 'AGT', 'GTCTC', 'CT']
+greedy output: AAGTCTCAGTCT 1.71428571429
+415. TGCTGCT
+['GCTG', 'C', 'TGCTG', 'TGCTGC', 'G', 'CTGCT', 'T', 'CTG', 'TGCTGCT', 'GC', 'GCT', 'TGCT', 'TG', 'CT']
+greedy output: CTGCTGCTGCT 1.57142857143
+416. GGCAATA
+['AA', 'GCA', 'C', 'A', 'ATA', 'GGCAATA', 'GCAA', 'GC', 'GGC', 'TA']
+greedy output: CGCAAGGCAATA 1.71428571429
+417. TGGGAGC
+['GGAGC', 'TGGG', 'TGGGAGC', 'AG', 'GGAG', 'G', 'AGC', 'GG', 'A', 'GGGAGC', 'GAG']
+greedy output: TGGGAGCGGAGA 1.71428571429
+418. AGTATAG
+['TAT', 'A', 'AG', 'AGTA', 'TAG', 'T', 'AT', 'TA']
+greedy output: ATAGTAT 1.0
+419. GAACCTG
+['AC', 'G', 'CC', 'CCT', 'AACC', 'T', 'TG', 'CT', 'ACCTG', 'AACCT']
+greedy output: ACCTAACCTG 1.42857142857
+420. CGAACCG
+['A', 'C', 'CGAA', 'AAC', 'G', 'CC', 'ACCG', 'CG', 'AACC', 'GAA']
+greedy output: ACCGAACCG 1.28571428571
+421. ATGTCTC
+['C', 'GTC', 'G', 'TGTC', 'TCT', 'TGTCT', 'T', 'CTC', 'TG', 'TCTC', 'TC', 'CT']
+greedy output: GTCTGTCTC 1.28571428571
+422. TGCGCTA
+['G', 'GCTA', 'GCGC', 'CGCTA', 'CGCT', 'GC', 'T', 'GCGCTA', 'TA', 'CT']
+greedy output: GCGCTACGCT 1.42857142857
+423. TACTTCA
+['A', 'TT', 'TACT', 'TACTTCA', 'T', 'CTTCA', 'TC']
+greedy output: TTACTTCATC 1.42857142857
+424. AGCATGT
+['C', 'GT', 'TGT', 'G', 'CA', 'AGC', 'GCATGT', 'CAT', 'AT', 'AGCATGT', 'CATGT', 'GCAT']
+greedy output: CAGCATGTGCAT 1.71428571429
+425. TGTATTT
+['A', 'TATTT', 'TGTATT', 'TT', 'T', 'TATT', 'TG', 'TGTAT', 'TGTATTT']
+greedy output: ATATTGTATTT 1.57142857143
+426. CAACTTA
+['CTT', 'A', 'C', 'AACTTA', 'CTTA', 'CA', 'ACTT', 'T', 'CAACTTA']
+greedy output: CAACTTACTT 1.42857142857
+427. TCTATTG
+['CTA', 'TT', 'ATTG', 'CT', 'T', 'TG', 'TATTG', 'TCTA', 'TA']
+greedy output: CTTCTATTGTA 1.57142857143
+428. CCTATAG
+['A', 'AG', 'ATA', 'CCT', 'T', 'TAG', 'CTA', 'TA']
+greedy output: CCTATAGT 1.14285714286
+429. CTCAGTG
+['CTCAGT', 'AG', 'G', 'C', 'CA', 'AGTG', 'CAGT', 'T', 'TG', 'AGT', 'CAG', 'CT']
+greedy output: CAGTCTCAGTG 1.57142857143
+430. TCGCATT
+['A', 'C', 'CG', 'CAT', 'ATT', 'T', 'CGCATT', 'CGCAT']
+greedy output: ACGCATTCAT 1.42857142857
+431. CCTGAGT
+['A', 'C', 'GT', 'AG', 'G', 'TGAGT', 'CCTGAGT', 'TG', 'AGT', 'CT']
+greedy output: AGCCTGAGTGCT 1.71428571429
+432. CAACTTG
+['AA', 'A', 'AAC', 'AACTTG', 'CTT', 'T', 'CAACTT', 'ACTTG']
+greedy output: AACTTCAACTTG 1.71428571429
+433. CTGGGCT
+['C', 'G', 'TGGGC', 'GGCT', 'GGG', 'GGC', 'TG', 'CT']
+greedy output: GGGCTGGGCT 1.42857142857
+434. ACCTGGC
+['ACC', 'C', 'G', 'CC', 'AC', 'GG', 'CTG', 'GC', 'T', 'ACCT', 'CTGG']
+greedy output: ACCTGGCCT 1.28571428571
+435. TGTCGGA
+['C', 'GTCG', 'G', 'CG', 'CGG', 'GG', 'GGA', 'T', 'GTCGG', 'TG', 'TCGGA']
+greedy output: CGGTCGGATG 1.42857142857
+436. TCGGGCA
+['C', 'TCGGGCA', 'G', 'CA', 'TCGG', 'GG', 'GGGCA', 'T', 'TCGGG', 'GGCA', 'TC']
+greedy output: CGGTCGGGCA 1.42857142857
+437. GGACTCA
+['C', 'GGACT', 'CA', 'GACT', 'TC', 'GGA', 'T', 'ACT', 'ACTCA', 'GACTC']
+greedy output: GGACTCACTCT 1.57142857143
+438. TTAATGG
+['AA', 'A', 'G', 'ATG', 'TAATG', 'TTAATGG', 'TAATGG', 'GG', 'TG']
+greedy output: AATAATGTTAATGG 2.0
+439. CAGGTAT
+['A', 'TAT', 'G', 'AGG', 'CAGGTA', 'AGGT', 'T', 'GTAT', 'CAGGT', 'TA']
+greedy output: AGGTAGCAGGTAT 1.85714285714
+440. AGATAGC
+['AG', 'G', 'ATA', 'GATAG', 'AGC', 'ATAG', 'GC', 'T', 'TAGC', 'TA']
+greedy output: ATAGATAGCT 1.42857142857
+441. AACCGAG
+['AA', 'A', 'C', 'AG', 'G', 'CGA', 'CC', 'CCG', 'ACC', 'ACCGAG']
+greedy output: CCGAACCGAG 1.42857142857
+442. ACTGTGA
+['CTGT', 'A', 'C', 'CTG', 'TGTG', 'AC', 'TGA', 'T', 'GA', 'TG', 'CT']
+greedy output: ACTGTGATG 1.28571428571
+443. AGGCGAA
+['AA', 'A', 'CGAA', 'G', 'CGA', 'CG', 'AGGCGAA', 'GGC', 'AGGCGA', 'GGCGAA', 'GAA']
+greedy output: GGCGAGGCGAA 1.57142857143
+444. CAACTCC
+['AC', 'CC', 'ACT', 'C', 'T', 'AACTC', 'ACTC', 'TC']
+greedy output: ACTAACTCC 1.28571428571
+445. ATAGTGC
+['A', 'GT', 'TAGTGC', 'G', 'GTG', 'TGC', 'GC', 'AGT']
+greedy output: AGTGTAGTGC 1.42857142857
+446. GGTTCGA
+['G', 'CGA', 'TCGA', 'GGTTC', 'TTCG', 'T', 'GA', 'TCG', 'TC']
+greedy output: TCGGTTCGA 1.28571428571
+447. GATAATG
+['A', 'AA', 'ATG', 'AAT', 'T', 'ATAATG', 'TG', 'GATA']
+greedy output: AATGATAATG 1.42857142857
+448. CTTTTGA
+['C', 'G', 'CTTTTGA', 'TTT', 'TTTTG', 'T', 'GA', 'TG', 'TTGA', 'CTTT', 'CT']
+greedy output: CTTTTGATTTTG 1.71428571429
+449. AATAATC
+['A', 'TAATC', 'AATAATC', 'AATC', 'TAAT', 'T', 'TC', 'AATAAT', 'TA']
+greedy output: ATAATAATC 1.28571428571
+450. TTGTAGT
+['A', 'GTA', 'GT', 'TGTA', 'TAGT', 'TTGTAG', 'T', 'TG', 'AGT', 'TA']
+greedy output: TTGTAGTGTA 1.42857142857
+451. CAGTCAT
+['A', 'C', 'GTCA', 'CAGTCAT', 'CA', 'CAT', 'GTCAT', 'T', 'CAG', 'TC', 'AT']
+greedy output: AGTCAGTCATC 1.57142857143
+452. GCAGACA
+['GCAGACA', 'A', 'C', 'AGACA', 'CAG', 'CA', 'ACA', 'AGA', 'GC', 'GAC']
+greedy output: GCAGACAGACA 1.57142857143
+453. AAAAAAG
+['A', 'AAAA', 'AA', 'AAA', 'AG', 'AAG', 'AAAAAA', 'AAAAAG', 'AAAAA']
+greedy output: AAAAAAG 1.0
+454. AAAAATG
+['A', 'AA', 'AAA', 'AAAAAT', 'AAAA', 'AAT', 'AT', 'TG', 'T']
+greedy output: AAAAATGT 1.14285714286
+455. TAGGGTC
+['AGGG', 'GT', 'TAG', 'TAGGGT', 'T', 'AGGGTC', 'AGGGT', 'GTC', 'TC']
+greedy output: AGGGTAGGGTCT 1.71428571429
+456. GGTCAGG
+['GTCAG', 'C', 'GT', 'AG', 'AGG', 'CA', 'GG', 'GTC', 'CAG', 'TC', 'CAGG', 'TCA']
+greedy output: CTCAGTCAGG 1.42857142857
+457. GCGCGCG
+['C', 'CGCGCG', 'G', 'GCGC', 'CG', 'CGCGC', 'GC', 'CGCG']
+greedy output: CGCGCGCG 1.14285714286
+458. CAAGAAA
+['A', 'AA', 'AAGAA', 'AAA', 'AAGA', 'CAAG', 'GAAA', 'AAGAAA', 'GA', 'GAA']
+greedy output: CAAGAAAGAA 1.42857142857
+459. TCAACGG
+['A', 'AA', 'AAC', 'CG', 'CA', 'AACG', 'CGG', 'GG', 'T', 'CAA', 'TC']
+greedy output: ATCAACGG 1.14285714286
+460. CTTAATC
+['A', 'ATC', 'CTTA', 'AT', 'AATC', 'T', 'CTTAATC', 'TTA', 'TA', 'TAA']
+greedy output: ATTAACTTAATC 1.71428571429
+461. CATGAGT
+['A', 'GT', 'ATGAGT', 'G', 'AG', 'CATG', 'CATGAGT', 'ATGA', 'TGAGT', 'T']
+greedy output: CATGAGTATGAG 1.71428571429
+462. GGCGCCA
+['C', 'G', 'GCCA', 'CGCC', 'CA', 'GCGCC', 'GGCGC', 'GCGCCA', 'GC', 'CCA']
+greedy output: GGCGCCAGCGCC 1.71428571429
+463. AGCTACG
+['CTACG', 'C', 'ACG', 'CTAC', 'GCTA', 'AGC', 'CG', 'GC', 'GCT', 'AGCTACG', 'TACG', 'GCTACG']
+greedy output: AGCTACGCTAC 1.57142857143
+464. AAGGGAG
+['A', 'AAGGGA', 'AAG', 'G', 'GGAG', 'GGG', 'GGGA']
+greedy output: AAGGGAGGG 1.28571428571
+465. GCAGAAT
+['A', 'GCA', 'AGAA', 'AGAAT', 'AG', 'GCAGA', 'CAGAA', 'GC', 'AGA', 'CAG', 'GAA', 'AT']
+greedy output: GCAGAATCAGAA 1.71428571429
+466. TATAGTT
+['A', 'TAGT', 'GT', 'G', 'TAG', 'GTT', 'T', 'AGTT', 'AT', 'TA']
+greedy output: ATAGTTGT 1.14285714286
+467. GGACCAC
+['A', 'AC', 'G', 'CC', 'CA', 'ACCA', 'C', 'GG', 'GGACC', 'GACC', 'CCA']
+greedy output: GGACCACC 1.14285714286
+468. GGGAGAG
+['A', 'AG', 'G', 'GG', 'GGG', 'GGA', 'GA', 'GGGAGA']
+greedy output: GGAGGGAGA 1.28571428571
+469. ATTGAGC
+['TGAGC', 'G', 'AG', 'ATT', 'TGAG', 'GC', 'T', 'GAGC', 'GAG', 'TGA']
+greedy output: GAGATTGAGC 1.42857142857
+470. GAGCAAC
+['A', 'AC', 'GA', 'AGCA', 'CA', 'C', 'GAGC', 'CAA', 'AGCAAC', 'GCAAC']
+greedy output: GAGCAACAAC 1.42857142857
+471. AACGATC
+['A', 'ATC', 'AAC', 'CG', 'ACGA', 'T', 'GA', 'TC', 'AT']
+greedy output: AACGATCGT 1.28571428571
+472. CAGAATC
+['AA', 'A', 'G', 'AAT', 'CA', 'CAGAAT', 'AGA', 'CAGAA', 'AATC', 'CAGA', 'TC', 'GAA']
+greedy output: AGAAGCAGAATC 1.71428571429
+473. GAAAGTC
+['GAAAG', 'AA', 'GTC', 'AG', 'AAAGTC', 'T', 'AAAG', 'TC', 'GAA', 'GAAAGTC']
+greedy output: AAAGAAAGTCT 1.57142857143
+474. TAATACG
+['AA', 'C', 'ACG', 'TAATA', 'ATA', 'ATAC', 'CG', 'AAT', 'AATACG', 'TAC', 'TA']
+greedy output: AATACTAATACG 1.71428571429
+475. GATAAAG
+['A', 'AAG', 'TAAA', 'ATAA', 'TAAAG', 'GATAA', 'TAA', 'GATAAAG']
+greedy output: GATAAAGTAATAAA 2.0
+476. GGCATAA
+['AA', 'CATA', 'C', 'GCATAA', 'G', 'GGCATAA', 'CATAA', 'GCATA', 'GC', 'T', 'GGCA', 'GCA', 'TAA']
+greedy output: CGCATATGGCATAA 2.0
+477. AGTATAA
+['TAT', 'A', 'G', 'GTA', 'GTATA', 'T', 'GTAT', 'AT', 'TATAA', 'TA']
+greedy output: GTATAATAT 1.28571428571
+478. TGTAAGC
+['A', 'GTA', 'G', 'AG', 'TGTA', 'AGC', 'GC', 'T', 'TG', 'TAA']
+greedy output: GTGTAAGC 1.14285714286
+479. TTCGCGC
+['TTCGCG', 'TTCGC', 'TCGCG', 'GCGC', 'TCGC', 'TT', 'CGCGC', 'TTCG', 'GC', 'CGCG', 'C']
+greedy output: TCGCGTTCGCGC 1.71428571429
+480. TAACATT
+['A', 'AA', 'AC', 'TAACATT', 'TT', 'CAT', 'ATT', 'ACATT', 'T', 'AACA']
+greedy output: AACATAACATTAC 1.85714285714
+481. CGTGAGT
+['CGTGAG', 'GT', 'AG', 'CG', 'TGA', 'GA', 'GAG', 'TG', 'TGAG', 'CGT']
+greedy output: CGTGAGTGA 1.28571428571
+482. TGATTGG
+['A', 'TGAT', 'GATTG', 'GATTGG', 'TGATTG', 'GG', 'ATT', 'AT', 'TG', 'ATTGG']
+greedy output: ATTGATTGG 1.28571428571
+483. AATGCTA
+['ATGC', 'TGCTA', 'TGCT', 'AAT', 'GCTA', 'TGC', 'GC', 'CTA', 'ATGCTA', 'TA', 'T']
+greedy output: AATGCTATGCTGC 1.85714285714
+484. AATGACT
+['A', 'C', 'ATGA', 'ATGACT', 'ATGAC', 'T', 'TG', 'GAC', 'CT']
+greedy output: ATGACTGAC 1.28571428571
+485. ATAAGCA
+['A', 'GCA', 'AA', 'TAAGCA', 'AAGCA', 'TAAG', 'AGCA', 'ATAA', 'AGC', 'T', 'TAAGC']
+greedy output: AATAAGCAGCT 1.57142857143
+486. TGTCTAC
+['A', 'AC', 'GT', 'CTAC', 'TGTCT', 'GTCT', 'GTCTAC', 'CTA', 'TG', 'TC', 'T']
+greedy output: GTGTCTACTATC 1.71428571429
+487. TCCAATA
+['A', 'AA', 'TCCAAT', 'CC', 'C', 'TCCAA', 'CAA', 'CCA', 'TA']
+greedy output: CCAATCCAATA 1.57142857143
+488. CCGGTCC
+['C', 'GTC', 'G', 'GTCC', 'CC', 'GGTCC', 'CGGTCC', 'TCC', 'T', 'CGGT', 'CCGGTCC', 'CCGGTC']
+greedy output: CCGGTCCGGTCGT 1.85714285714
+489. GACTCGG
+['A', 'C', 'G', 'CG', 'GACTCGG', 'CGG', 'ACTCGG', 'GG', 'ACT', 'TCG', 'ACTC', 'GAC']
+greedy output: ACTCGACTCGGC 1.71428571429
+490. TTCAATG
+['ATG', 'C', 'TT', 'TCAAT', 'TC', 'T', 'TG', 'CA', 'CAATG']
+greedy output: CATTCAATG 1.28571428571
+491. TGTATTA
+['TGT', 'G', 'GTATT', 'TGTATT', 'TT', 'ATT', 'T', 'TATT', 'TTA', 'TA']
+greedy output: GTGTATTA 1.14285714286
+492. ATCAGAC
+['A', 'AGAC', 'AC', 'G', 'CAGAC', 'GAC', 'TCAGA']
+greedy output: AGTCAGAC 1.14285714286
+493. CTGTGCA
+['GCA', 'C', 'CTGTGC', 'TGT', 'GTG', 'CA', 'CTGTG', 'TGC', 'TG']
+greedy output: CTGTGCATGTG 1.57142857143
+494. CCTGAGA
+['A', 'TGAGA', 'G', 'CC', 'AGA', 'TGA', 'GAGA', 'GAG', 'TGAG', 'CT']
+greedy output: ACCTGAGAG 1.28571428571
+495. TTCAAGA
+['A', 'AA', 'AG', 'G', 'CA', 'TCAAGA', 'TTCAA', 'T', 'TTCAAGA', 'CAA', 'TCA']
+greedy output: TTCAAGAGTCAA 1.71428571429
+496. CACTGTC
+['CTGT', 'CACTGTC', 'GT', 'TGT', 'G', 'CTGTC', 'T', 'ACT', 'TC']
+greedy output: CACTGTCGACTGT 1.85714285714
+497. GAGGTTC
+['A', 'GT', 'G', 'AG', 'AGGT', 'TTC', 'T', 'GGTT', 'GAG', 'GAGGTTC']
+greedy output: AGGTTGTGAGGTTC 2.0
+498. TCCGCCC
+['GC', 'GCC', 'CC', 'C', 'CCGCCC', 'CCGCC', 'TCCGCC', 'CGCC', 'CCC']
+greedy output: GCGCCTCCGCCC 1.71428571429
+499. ATCGAAG
+['AA', 'A', 'C', 'ATC', 'AG', 'TCGAA', 'CG', 'AAG', 'AT', 'GA', 'TC']
+greedy output: ATCGAAGATCG 1.57142857143
+500. TTAGAGT
+['TTAGA', 'GT', 'AGAG', 'G', 'TAGAG', 'AGA', 'TTAGAG', 'AGAGT', 'TAGAGT', 'TTA', 'AGT']
+greedy output: AGAGTTAGAGT 1.57142857143
+501. TTCAGGG
+['A', 'C', 'G', 'TTCAGGG', 'AG', 'AGG', 'GG', 'TTCA', 'TTC', 'CAG', 'CAGG']
+greedy output: AGCAGGTTCAGGG 1.85714285714
+502. TGCTCTC
+['TGCTC', 'CTCT', 'GCTCT', 'GC', 'GCT', 'CTC', 'CT', 'TCTC', 'TC', 'T']
+greedy output: GCTGCTCTCT 1.42857142857
+503. ATAGAGC
+['A', 'TAGA', 'GAGC', 'G', 'TAG', 'GC', 'T', 'GA', 'TA']
+greedy output: GATAGAGC 1.14285714286
+504. GGAATCA
+['A', 'AA', 'C', 'G', 'GGAATCA', 'CA', 'GAATC', 'AT', 'AATCA', 'GAA', 'TCA']
+greedy output: GGAATCAATGAATC 2.0
+505. ACGTTAT
+['TAT', 'C', 'CGTT', 'CGTTA', 'CGTTAT', 'GTT', 'T', 'TTAT', 'TT', 'AT']
+greedy output: CGTTATGTT 1.28571428571
+506. CTTTGGT
+['C', 'GT', 'G', 'TTTG', 'TT', 'TTTGG', 'T', 'TGG']
+greedy output: CGTTTGGT 1.14285714286
+507. GTATTGA
+['A', 'G', 'GTATT', 'TT', 'T', 'GA', 'ATTGA', 'TTG']
+greedy output: TTGTATTGA 1.28571428571
+508. TTAATAG
+['A', 'AG', 'TAATAG', 'TT', 'TTAAT', 'AAT', 'TAA', 'T']
+greedy output: ATAATTAATAG 1.57142857143
+509. TACTCGC
+['G', 'TCGC', 'CGC', 'CTCGC', 'TACT', 'GC', 'T', 'CTC', 'TCG', 'ACTC']
+greedy output: TACTCGCTCG 1.42857142857
+510. CTTACGC
+['A', 'C', 'CG', 'ACGC', 'GC', 'CT', 'TA']
+greedy output: CTACGCG 1.0
+511. GCTGGCA
+['GCA', 'C', 'CTGGC', 'G', 'CA', 'GG', 'CTGG', 'GC', 'CTGGCA', 'GGC', 'GCTGGCA']
+greedy output: CTGGCTGGCAGG 1.71428571429
+512. ACGAGCC
+['A', 'GCC', 'AG', 'G', 'GAGC', 'CGA', 'CGAGCC', 'AGCC', 'CG', 'CC', 'GA']
+greedy output: AGAGCGAGCC 1.42857142857
+513. AAGTATC
+['A', 'GTA', 'AAG', 'ATC', 'G', 'AT', 'T']
+greedy output: AAGTATCGT 1.28571428571
+514. CCAGGGG
+['GG', 'C', 'G', 'AG', 'AGG', 'AGGGG', 'GGG', 'CAGGGG', 'CAGG']
+greedy output: CAGGGGAGG 1.28571428571
+515. CAAACCC
+['ACC', 'A', 'C', 'AA', 'CC', 'CAAAC', 'AAA', 'CCC']
+greedy output: AAACAAACCC 1.42857142857
+516. CAGGGAA
+['AA', 'AGGG', 'CAGGGA', 'CAGGG', 'GG', 'GAA', 'GA', 'CAG', 'CAGG']
+greedy output: CAGGGAAGGG 1.42857142857
+517. TGAAAGA
+['AA', 'A', 'AAAG', 'G', 'AGA', 'TGA', 'GA']
+greedy output: GTGAAAGA 1.14285714286
+518. CATTATA
+['A', 'CAT', 'CATTATA', 'T', 'ATTA', 'TTATA', 'TA']
+greedy output: CATTATATTAT 1.57142857143
+519. ATTTAGC
+['TTAGC', 'AG', 'AGC', 'TTTAG', 'TTT', 'GC', 'T', 'TTA', 'ATTTAG', 'ATTTAGC']
+greedy output: TTTAGTTATTTAGC 2.0
+520. GCATAGC
+['A', 'C', 'GCATAG', 'G', 'ATAGC', 'TAG', 'AT', 'TAGC', 'GCATA', 'TA', 'CATAGC', 'T']
+greedy output: ATAGCATAGCT 1.57142857143
+521. ATGTGTG
+['ATG', 'GT', 'TGT', 'GTGTG', 'ATGTG', 'T', 'TG', 'GTGT']
+greedy output: ATGTGTGTG 1.28571428571
+522. CCGGACC
+['ACC', 'A', 'GGAC', 'G', 'C', 'CGG', 'CGGAC', 'CGGA', 'GGACC', 'GACC', 'GAC']
+greedy output: AGACGGACC 1.28571428571
+523. ACGGAGC
+['GGAGC', 'A', 'ACGGAGC', 'ACG', 'AG', 'G', 'AGC', 'GC', 'GA', 'GGA', 'ACGG']
+greedy output: AGGACGGAGC 1.42857142857
+524. GTATCGA
+['A', 'ATC', 'G', 'TCGA', 'TATCGA', 'GTATCGA', 'GTATC', 'T', 'GA', 'TCG', 'TATCG', 'TC']
+greedy output: TATCGTATCGATC 1.85714285714
+525. CACTTTA
+['A', 'ACTTT', 'CA', 'T', 'CAC', 'CTTT', 'TTA', 'TT', 'CACTT', 'TA']
+greedy output: CACTTTATT 1.28571428571
+526. CACATAT
+['A', 'TAT', 'C', 'ACATA', 'ATA', 'ACAT', 'T', 'CATAT', 'AT']
+greedy output: ACATATATC 1.28571428571
+527. CCGTCGT
+['C', 'GTC', 'G', 'CG', 'GT', 'T', 'CCG', 'CCGT', 'TC']
+greedy output: TCCGTCG 1.0
+528. CAGTCTA
+['C', 'GTC', 'CTA', 'CAGT', 'CAGTCTA', 'T', 'TA', 'TCTA', 'CT']
+greedy output: GTCAGTCTACT 1.57142857143
+529. ACCCGAT
+['A', 'CCCGAT', 'AC', 'ACCCGA', 'ACCCGAT', 'CCGA', 'CCCG', 'AT', 'CCG', 'ACCCG']
+greedy output: CCCGACCCGATCCG 2.0
+530. GGTGCTG
+['GCTG', 'G', 'TGCT', 'GGTGCT', 'CTG', 'GCT', 'TG', 'GTGCT', 'T']
+greedy output: GGTGCTGCT 1.28571428571
+531. AGGGATA
+['A', 'G', 'AG', 'GGGAT', 'ATA', 'GG', 'GA', 'GGATA', 'TA']
+greedy output: GAGGGATA 1.14285714286
+532. CATTCCT
+['C', 'CC', 'CCT', 'CA', 'TC', 'ATT', 'AT', 'CATTC', 'CATTCC', 'TCC', 'CT']
+greedy output: CATTCCTCATT 1.57142857143
+533. TAGACAC
+['A', 'AGAC', 'AC', 'AG', 'AGACA', 'CA', 'GACAC', 'TAG', 'TAGA']
+greedy output: TAGACACAG 1.28571428571
+534. CCCACTA
+['A', 'C', 'CC', 'CA', 'T', 'ACT', 'CAC', 'ACTA', 'CT']
+greedy output: CCACTACT 1.14285714286
+535. CCTCGAA
+['A', 'C', 'CG', 'CTCGA', 'CTC', 'CCTC', 'CT', 'TC', 'GAA', 'CCTCGAA']
+greedy output: CCTCGAACTCGATCG 2.14285714286
+536. GGGCGCA
+['GCGCA', 'GCA', 'C', 'G', 'GCG', 'CGC', 'CG', 'GGCGC', 'GGCG', 'GGGCGC', 'CGCA']
+greedy output: GGCGCGGGCGCA 1.71428571429
+537. ATTCCAG
+['C', 'AG', 'CC', 'CAG', 'TT', 'CCAG', 'ATTCCAG', 'TTCCA', 'ATTC', 'AT', 'CCA', 'TC', 'ATTCCA', 'TCCA']
+greedy output: TTCCATTCCAGTCC 2.0
+538. TTTGCGC
+['C', 'G', 'CGC', 'TTTGC', 'GC', 'TGCG', 'TTGCG', 'TTT', 'TT', 'TTTGCG']
+greedy output: GTTTGCGC 1.14285714286
+539. TCATCTT
+['A', 'C', 'ATCTT', 'CATCT', 'ATC', 'TCATC', 'TCT', 'CAT', 'CATC', 'T']
+greedy output: ACATCATCTTCT 1.71428571429
+540. TGAGACT
+['A', 'C', 'AG', 'TGAGAC', 'GACT', 'TGAG', 'GA', 'TGAGACT', 'CT']
+greedy output: AGACTGAGACT 1.57142857143
+541. GTCCCGA
+['C', 'TCCCGA', 'G', 'CC', 'TCCCG', 'TCC', 'GT', 'GA', 'TC', 'TCCC']
+greedy output: CCGTCCCGA 1.28571428571
+542. GCGAGTG
+['GT', 'G', 'GTG', 'CGA', 'CGAGT', 'GAG', 'TG', 'AGT']
+greedy output: CGAGTGAG 1.14285714286
+543. GGGGAAG
+['A', 'GG', 'AAG', 'G', 'GGAAG', 'GGGGAA', 'GGG', 'GAAG', 'GA']
+greedy output: GGGGAAGA 1.14285714286
+544. CGCCAAA
+['AA', 'A', 'GCCAA', 'AAA', 'GCCA', 'CGC', 'CCAA', 'CAA']
+greedy output: CGCCAAA 1.0
+545. CTCGTCC
+['C', 'GT', 'G', 'CC', 'CTCGTC', 'CGTCC', 'CGT', 'GTC', 'T', 'TCG', 'TC']
+greedy output: GTCGTCTCGTCC 1.71428571429
+546. CGTCAGT
+['GTCAG', 'GT', 'AG', 'TCAGT', 'CA', 'CAGT', 'TC', 'CGTCAGT', 'CAG', 'CGT']
+greedy output: TCACGTCAGTCAG 1.85714285714
+547. GCTTGGT
+['GCTTG', 'GGT', 'C', 'GT', 'G', 'CTTG', 'GG', 'GCT', 'TG', 'TTGGT']
+greedy output: CGGCTTGGTG 1.42857142857
+548. TTAGGCA
+['AGGCA', 'TAGGC', 'G', 'TTAGG', 'TT', 'C', 'TAGG', 'TAGGCA', 'GGCA', 'CA']
+greedy output: TTAGGCACTAGG 1.71428571429
+549. CAAATTT
+['AA', 'A', 'ATTT', 'AAA', 'TT', 'AT', 'AATTT', 'CA', 'T']
+greedy output: ATCAAATTT 1.28571428571
+550. GAAGGGG
+['A', 'AA', 'AGGG', 'GAAGGG', 'GAAGGGG', 'G', 'AAGG', 'AAGGG', 'GG', 'GAA']
+greedy output: AAGGGAAGGGG 1.57142857143
+551. TTCGAAG
+['A', 'AA', 'AG', 'TTCGA', 'TCGAA', 'TT', 'TCGA', 'CG', 'T', 'TTC']
+greedy output: TCGACGTTCGAAG 1.85714285714
+552. CCCTCTC
+['C', 'CC', 'CTCT', 'T', 'CTC', 'CCC', 'TCTC', 'TC', 'CTCTC', 'CT']
+greedy output: CCCTCTCT 1.14285714286
+553. TCAGGAC
+['A', 'G', 'GAC', 'CA', 'GG', 'GA', 'TCAG', 'CAG', 'CAGG', 'TCA']
+greedy output: TCAGGACA 1.14285714286
+554. CCCAAAC
+['A', 'AA', 'C', 'AAA', 'AAC', 'CA', 'CAAA', 'CCAA', 'CCA']
+greedy output: CCAAACA 1.0
+555. TCGGAAT
+['C', 'GAAT', 'CGGAAT', 'CGGA', 'TC', 'AAT', 'GGA', 'T', 'GGAAT', 'TCGGAAT', 'AT']
+greedy output: CGGATCGGAAT 1.57142857143
+556. TCGGGTG
+['TCGGGTG', 'GGT', 'GGGT', 'GGTG', 'GTG', 'CGG', 'GG', 'T', 'TCG', 'TCGGG']
+greedy output: CGGGTCGGGTGG 1.71428571429
+557. AACCTCA
+['A', 'C', 'AAC', 'AACC', 'ACCTC', 'CCTCA', 'T', 'ACCT', 'AACCTCA']
+greedy output: AACCTCACCTCT 1.71428571429
+558. TCAGGAG
+['A', 'AG', 'G', 'AGG', 'CA', 'GG', 'TCAGGAG', 'T', 'CAGGA', 'TCA']
+greedy output: CAGGATCAGGAGG 1.85714285714
+559. TCCTCTC
+['C', 'CCTCT', 'CC', 'CCT', 'TCT', 'TCCTC', 'TCC', 'T', 'TC', 'CTCTC']
+greedy output: CCTCCTCTCT 1.42857142857
+560. GTTCATA
+['A', 'C', 'TCAT', 'ATA', 'TTCATA', 'CAT', 'T', 'GTTCA', 'TA']
+greedy output: CTCATGTTCATA 1.71428571429
+561. AGGTCAG
+['A', 'GTCAG', 'C', 'GTC', 'GGTCAG', 'G', 'AG', 'GGTCA', 'TCAG', 'CAG', 'AGGTCAG']
+greedy output: GGTCAGGTCAGTC 1.85714285714
+562. GACTCGG
+['AC', 'G', 'C', 'GACTCGG', 'GG', 'TCGG', 'GA', 'ACT', 'TCG']
+greedy output: ACTCGACTCGGC 1.71428571429
+563. ACCTAGT
+['A', 'CTAG', 'C', 'GT', 'AG', 'G', 'TAG', 'CTA', 'ACCT', 'ACC', 'CT']
+greedy output: ACCTAGTCTG 1.42857142857
+564. TACGGCC
+['GCC', 'ACGG', 'G', 'TACGGC', 'CGGCC', 'CG', 'C', 'CGG', 'GG', 'GC', 'T', 'GGC']
+greedy output: ACGGCGTACGGCC 1.85714285714
+565. GAGATGG
+['ATG', 'ATGG', 'G', 'GAT', 'T', 'GA', 'TG', 'TGG']
+greedy output: TGATGG 0.857142857143
+566. GAGACTG
+['C', 'GA', 'G', 'CTG', 'GAGAC', 'ACT', 'GAG', 'ACTG', 'GAC', 'AGACT', 'CT']
+greedy output: GAGACTGACT 1.42857142857
+567. CTTAAAC
+['AA', 'A', 'C', 'AAA', 'AC', 'T']
+greedy output: AAACT 0.714285714286
+568. ACTATTC
+['A', 'TAT', 'TT', 'TATTC', 'ATT', 'T', 'TTC', 'ACTA', 'CTA']
+greedy output: ATTACTATTC 1.42857142857
+569. AGCAACT
+['GCA', 'A', 'C', 'G', 'AGC', 'CA', 'GCAA', 'ACT', 'CAA', 'CT']
+greedy output: CAGCAACTG 1.28571428571
+570. CACAATA
+['AA', 'C', 'AAT', 'CACA', 'T', 'ACAAT', 'CAATA', 'TA']
+greedy output: CACAATAAT 1.28571428571
+571. TCGGACT
+['A', 'C', 'G', 'AC', 'CGG', 'GGA', 'CGGA', 'CGGAC', 'GAC', 'CT']
+greedy output: CGGACTGGA 1.28571428571
+572. ACTGCCT
+['C', 'CC', 'CCT', 'TGCCT', 'TGCC', 'ACTG', 'ACT', 'TG', 'CT', 'CTGCC']
+greedy output: CCACTGCCTG 1.42857142857
+573. ATAAGAC
+['AGAC', 'AC', 'AAGA', 'G', 'ATAAG', 'AGA', 'GA', 'GAC', 'TA']
+greedy output: GTAGATAAGAC 1.57142857143
+574. CGCCGAT
+['A', 'C', 'G', 'CGA', 'CGCCG', 'CG', 'GCC', 'CCGAT', 'GC', 'AT', 'GA', 'CCG']
+greedy output: CGAGCCGCCGAT 1.71428571429
+575. TTGTTTC
+['TGTTT', 'TGT', 'TT', 'TTT', 'T', 'TTC', 'TTG', 'GTTT']
+greedy output: TTGTTTC 1.0
+576. GTAGGTA
+['GTA', 'GT', 'GTAG', 'GTAGG', 'AGG', 'GG', 'TAGG', 'T', 'AGGTA', 'TA']
+greedy output: GGTAGGTAT 1.28571428571
+577. TATATTT
+['TAT', 'A', 'ATATTT', 'TT', 'ATT', 'T', 'TA']
+greedy output: ATTATATTT 1.28571428571
+578. ACACTAA
+['AA', 'CACT', 'C', 'ACAC', 'CTAA', 'CACTA', 'A', 'T', 'ACTA', 'TAA', 'CT']
+greedy output: CTACACTAA 1.28571428571
+579. GAGGCGG
+['C', 'G', 'AG', 'GCGG', 'CG', 'CGG', 'GA']
+greedy output: CGCGGAG 1.0
+580. AAAACCT
+['A', 'ACC', 'C', 'AAC', 'CC', 'CCT', 'AACC', 'AAAAC', 'CT']
+greedy output: AAAACCTC 1.14285714286
+581. TATCATA
+['ATCATA', 'CATA', 'ATC', 'TAT', 'CA', 'TATCATA', 'T', 'ATCA', 'TC']
+greedy output: TATCATATCATC 1.71428571429
+582. ACGCTAA
+['AA', 'C', 'CGCTAA', 'ACG', 'ACGCTA', 'CGCTA', 'CG', 'ACGC', 'ACGCT', 'GC', 'TA']
+greedy output: GCGCTACGCTAA 1.71428571429
+583. AGTAAAG
+['A', 'AAG', 'GT', 'AAA', 'AG', 'TAA', 'AAAG', 'AGTAA']
+greedy output: AAAGTAAGT 1.28571428571
+584. TCGTCAA
+['A', 'AA', 'C', 'GTC', 'CGTCA', 'TCAA', 'T', 'CGTC', 'TCG', 'TC']
+greedy output: GTCGTCAATC 1.42857142857
+585. TACTTTA
+['AC', 'TT', 'C', 'TTT', 'T', 'TACTTTA', 'CTTT', 'TTA', 'TA']
+greedy output: ACTTTACTTTA 1.57142857143
+586. CTCCGTT
+['C', 'GT', 'G', 'TT', 'TCCGTT', 'TC', 'T', 'TCCG', 'CCGT', 'TCC']
+greedy output: CCGTCCGTTG 1.42857142857
+587. CTGGGCT
+['TGGG', 'C', 'G', 'GGCT', 'GG', 'GCT', 'TGGGCT', 'CT']
+greedy output: TGGGCTCGG 1.28571428571
+588. CTAAGAA
+['AA', 'A', 'AAGAA', 'G', 'AAGA', 'CTAAGAA', 'CTA', 'GA', 'GAA', 'TAA']
+greedy output: GCTAAGAAGATAA 1.85714285714
+589. GACACTA
+['C', 'ACAC', 'CA', 'AC', 'GACACT', 'CAC', 'ACTA', 'ACACTA']
+greedy output: CACACGACACTA 1.71428571429
+590. TTTGTAA
+['AA', 'A', 'TTTGTAA', 'G', 'TTGT', 'TTTGTA', 'TAA', 'TA', 'T']
+greedy output: GTATTGTTTGTAA 1.85714285714
+591. AAATCAA
+['A', 'C', 'AAAT', 'AATC', 'CA', 'TCAA', 'T', 'CAA', 'TCA']
+greedy output: CAAATCAAT 1.28571428571
+592. CGCCAAC
+['A', 'AA', 'AC', 'CC', 'CGC', 'CAAC', 'GCCAA', 'GCCAAC', 'CCAAC', 'CGCCAA']
+greedy output: AACCGCCAAC 1.42857142857
+593. TCAACTC
+['AA', 'C', 'AAC', 'T', 'TCAAC', 'CT', 'TC', 'AACT']
+greedy output: AACTCAACT 1.28571428571
+594. TATACTT
+['TAT', 'A', 'C', 'TACTT', 'TT', 'ATAC', 'T', 'ATACTT', 'TATACTT', 'TA']
+greedy output: ATACTATACTT 1.57142857143
+595. TAGCTAG
+['A', 'C', 'TA', 'G', 'AGC', 'AGCTA', 'TAGCTAG', 'T', 'AG', 'CT', 'AGCTAG']
+greedy output: CTAGCTAGCTAGT 1.85714285714
+596. ATTTATC
+['A', 'TTTA', 'ATC', 'T', 'TAT', 'TATC', 'TTTATC', 'AT', 'TTA', 'TA']
+greedy output: TTATTTATCTA 1.57142857143
+597. GAAATGT
+['A', 'AATGT', 'GT', 'G', 'GAAA', 'AT', 'ATGT', 'TG', 'GAAATGT', 'GAA']
+greedy output: ATGAAATGT 1.28571428571
+598. GATTATC
+['TAT', 'A', 'ATC', 'ATTAT', 'TATC', 'ATT', 'T', 'GA', 'TTAT', 'TC', 'GATTATC']
+greedy output: ATTATGATTATC 1.71428571429
+599. TCTAGAA
+['AA', 'A', 'C', 'AG', 'G', 'TCT', 'CTAGA', 'TCTAG', 'AGA', 'TAGA', 'GA', 'TCTAGA', 'TCTA']
+greedy output: CTCTAGAAG 1.28571428571
+600. CAAACCG
+['AA', 'A', 'C', 'AAA', 'AACCG', 'AAC', 'ACCG', 'CG', 'CCG', 'CAA']
+greedy output: ACAAACCG 1.14285714286
+601. CTCCAGC
+['A', 'C', 'TCCAGC', 'CCAGC', 'CAG', 'AGC', 'TCCAG', 'T', 'CTC', 'CAGC', 'CCA']
+greedy output: ACTCCAGCCAGT 1.71428571429
+602. ATATTGG
+['A', 'G', 'ATT', 'T', 'TG', 'ATATTGG', 'ATAT', 'TTGG']
+greedy output: ATTGATATTGG 1.57142857143
+603. GGCGCCA
+['GCGCC', 'GGCGCC', 'G', 'CC', 'CA', 'C', 'GGCGC', 'GG', 'GC', 'GGC']
+greedy output: GGCGCCAGC 1.28571428571
+604. CTTTAGG
+['A', 'G', 'AGG', 'TT', 'GG', 'CTTTA', 'T']
+greedy output: TTCTTTAGG 1.28571428571
+605. TCCACCA
+['A', 'C', 'CC', 'CCACC', 'CA', 'ACCA', 'CACC', 'CAC', 'CCA']
+greedy output: ACCACCAC 1.14285714286
+606. TCGCCTC
+['C', 'G', 'CC', 'T', 'TCG', 'CCTC', 'TC', 'TCGCCT', 'CT']
+greedy output: CCTCGCCTCG 1.42857142857
+607. TACTCCC
+['C', 'TA', 'CC', 'TAC', 'AC', 'T', 'TACTC', 'CTCC', 'TCCC', 'CCC', 'ACTCCC']
+greedy output: ACTACTCCCTCC 1.71428571429
+608. GAAACTA
+['AA', 'AC', 'GAAACTA', 'AAACTA', 'GAAA', 'AAACT', 'CTA', 'ACT', 'ACTA', 'CT', 'TA']
+greedy output: ACGAAACTAAACT 1.85714285714
+609. CTGCCTT
+['GCC', 'CCT', 'TT', 'C', 'TGC', 'GCCTT', 'T', 'CTGC', 'CTGCCT', 'CTGCCTT', 'CT']
+greedy output: CTGCCTGCCTT 1.57142857143
+610. ATTTGAT
+['A', 'TTGAT', 'G', 'TT', 'AT', 'GA', 'TG', 'T']
+greedy output: TTGATGA 1.0
+611. CTCTTTG
+['CTT', 'CTTTG', 'TTT', 'T', 'CTC', 'TG', 'TTG', 'TC', 'CT']
+greedy output: TTTCTCTTTG 1.42857142857
+612. CCGGGCG
+['C', 'CGGG', 'G', 'GCG', 'CGGGCG', 'CG', 'CGG', 'GGC', 'CGGGC']
+greedy output: CGGGCGGC 1.14285714286
+613. CTTATGC
+['A', 'ATGC', 'G', 'TT', 'CTTA', 'CTTATGC', 'CT', 'GC', 'T', 'TG', 'AT', 'TTAT', 'TA']
+greedy output: TTATGCTTATGCTA 2.0
+614. CAAATAT
+['AA', 'AAAT', 'AAATA', 'ATA', 'CAAA', 'CAAAT', 'AAT', 'AATAT', 'AT', 'CAAATA', 'TA']
+greedy output: AAATACAAATAT 1.71428571429
+615. TTTTAAG
+['A', 'AAG', 'AG', 'TT', 'TTAA', 'TTTT', 'T']
+greedy output: ATTTTAAG 1.14285714286
+616. GGGCCGG
+['GCC', 'CCGG', 'G', 'CC', 'CG', 'C', 'GGCC', 'GGCCGG', 'CCG']
+greedy output: GCCGGCCGGC 1.42857142857
+617. TGTGCGG
+['G', 'GCG', 'GTG', 'CG', 'GTGC', 'TGTG', 'CGG', 'TGTGCG', 'GC', 'TGCG', 'TGT']
+greedy output: TGTGCGGTGC 1.42857142857
+618. TGTCTCT
+['C', 'TGT', 'TGTC', 'TCT', 'GTCTCT', 'T', 'CTC', 'GTCTC', 'CT']
+greedy output: CTGTCTCTCT 1.42857142857
+619. CCAATTT
+['AA', 'A', 'ATTT', 'CCAAT', 'AATT', 'CAATTT', 'TT', 'CCAATT', 'T', 'CCAA', 'AT']
+greedy output: AATTCCAATTTAT 1.85714285714
+620. GCATGGT
+['GGT', 'GT', 'G', 'CA', 'CAT', 'ATGGT', 'AT', 'TG', 'CATGGT', 'GCAT']
+greedy output: GCATGGTGCAT 1.57142857143
+621. TACGCCT
+['A', 'GCC', 'G', 'CC', 'CCT', 'TAC', 'TACGCCT', 'C', 'ACGCCT', 'GCCT', 'TACGCC', 'T', 'TACGC']
+greedy output: AGCCTACGCCT 1.57142857143
+622. TTTCTTG
+['CTT', 'TTCT', 'TT', 'TCTT', 'TCTTG', 'TTTCTT', 'T', 'TG', 'CTTG', 'CT']
+greedy output: CTTCTTTCTTGT 1.71428571429
+623. CTTCAGC
+['TTCAGC', 'AG', 'TTCAG', 'GC', 'T', 'TCAG', 'TTC', 'CTTCA', 'CAG', 'TCA']
+greedy output: TTCAGCTTCAGC 1.71428571429
+624. GGTGTCG
+['C', 'GTCG', 'TGT', 'G', 'CG', 'GTGTC', 'GGTGTCG', 'GTC', 'T', 'TC', 'GGTG']
+greedy output: GGTGTCGTGTGTC 1.85714285714
+625. GCTTGCT
+['GCTTG', 'C', 'G', 'TT', 'TTGCT', 'CTTGC', 'GCTT', 'GCT', 'T', 'TTG', 'CT']
+greedy output: CGCTTGCTTGT 1.57142857143
+626. TCAGATT
+['A', 'C', 'CA', 'GAT', 'T', 'AT', 'TCAG', 'TCAGAT', 'TCA']
+greedy output: CATCAGAT 1.14285714286
+627. ATGACTC
+['A', 'ATG', 'C', 'G', 'ACT', 'ATGACT', 'TGA', 'T', 'CTC', 'GAC', 'TC', 'CT']
+greedy output: ATGACTCTGACGT 1.85714285714
+628. AAGGGGT
+['GG', 'GGT', 'GT', 'GGGGT', 'G']
+greedy output: GGGGT 0.714285714286
+629. GGCGTCA
+['GT', 'G', 'CA', 'CG', 'CGTCA', 'GGCGTC', 'GTC', 'T', 'GGCGT', 'TC', 'TCA']
+greedy output: GTCGGCGTCAT 1.57142857143
+630. CCATGTG
+['ATG', 'C', 'GT', 'G', 'TGT', 'CATG', 'CAT', 'T', 'ATGT', 'TG']
+greedy output: CATGTG 0.857142857143
+631. CACGATA
+['AC', 'C', 'ACG', 'G', 'ATA', 'CA', 'CG', 'ACGAT', 'CACGATA', 'CACG', 'T', 'CGATA']
+greedy output: CACGATACGATCG 1.85714285714
+632. CTTATAA
+['TAT', 'AA', 'ATA', 'CTTAT', 'T', 'TAA', 'AT', 'TATAA', 'TA']
+greedy output: CTTATAATAT 1.42857142857
+633. GAGTATG
+['A', 'ATG', 'GT', 'G', 'GAGTA', 'AGTATG', 'AGTA', 'T', 'GAG', 'TG', 'AGT']
+greedy output: AGTAGAGTATGT 1.71428571429
+634. TTCTATG
+['TAT', 'TTCT', 'ATG', 'TTCTA', 'CTAT', 'AT', 'TTCTAT', 'TG', 'TC', 'TCTA']
+greedy output: TCTATTCTATG 1.57142857143
+635. CGAGCCA
+['A', 'C', 'AG', 'G', 'CC', 'CA', 'GCC', 'GAGC', 'CCA']
+greedy output: AGAGCCAC 1.14285714286
+636. GCGAGAC
+['AC', 'GAGAC', 'G', 'CGAGAC', 'CGAG', 'CGAGA', 'GAGA', 'GA', 'GAG', 'GAC']
+greedy output: GAGACGAGAC 1.42857142857
+637. CGGGCGT
+['C', 'GT', 'GCG', 'G', 'CGGGCG', 'GGGCG', 'GC', 'GGC', 'GGGCGT', 'CGGGCGT']
+greedy output: GGGCGGGCGTGGC 1.85714285714
+638. ACATACC
+['A', 'CATACC', 'C', 'ATA', 'CC', 'ACATAC', 'ATACC', 'AC', 'AT', 'TACC', 'ACC', 'TA']
+greedy output: ATACATACC 1.28571428571
+639. CGATATG
+['TAT', 'TATG', 'AT', 'CGATA', 'ATAT', 'CGATATG', 'T']
+greedy output: ATATCGATATG 1.57142857143
+640. CGACTAT
+['A', 'C', 'ACTAT', 'AC', 'T', 'CGACTA', 'CTAT', 'CTA', 'CGACTAT', 'CGACT', 'AT', 'TA']
+greedy output: ACTACGACTAT 1.57142857143
+641. TACAAAT
+['A', 'AA', 'ACAAA', 'ACAA', 'CA', 'CAAA', 'CAAAT', 'AAT', 'AT']
+greedy output: CAACAAAT 1.14285714286
+642. AGGAGCC
+['A', 'C', 'GGAG', 'AGGAGCC', 'CC', 'AGC', 'GG', 'AGG', 'GC']
+greedy output: AGGAGCCGGAGC 1.71428571429
+643. TTGCGCT
+['GCG', 'G', 'GCGC', 'TTGCGCT', 'GC', 'GCGCT', 'CT', 'TTG', 'T']
+greedy output: GCGCTTGCGCT 1.57142857143
+644. TGCCCCT
+['GCCC', 'CCCT', 'CC', 'CCT', 'CCCCT', 'TGCCC', 'TG', 'GCCCCT', 'CCC', 'CT']
+greedy output: CCCTGCCCCT 1.42857142857
+645. CTTATAT
+['A', 'TAT', 'ATA', 'TT', 'TATA', 'T', 'AT', 'TTA', 'ATAT', 'TA']
+greedy output: TTATATA 1.0
+646. GCGCTTT
+['CTT', 'C', 'TT', 'GCGCTT', 'TTT', 'GC', 'T', 'CGCTT', 'GCGCTTT']
+greedy output: CGCTTGCGCTTT 1.71428571429
+647. AAGTCAG
+['A', 'AGTCAG', 'GT', 'AAGTC', 'G', 'AG', 'C', 'AAG', 'AGTC', 'GTC', 'AAGTCA', 'AGT', 'GTCA']
+greedy output: AAGTCAGTCAGTC 1.85714285714
+648. GCGGTAA
+['AA', 'GTA', 'GTAA', 'GCG', 'G', 'GCGGT', 'GG', 'GT', 'T', 'CGGT', 'TAA']
+greedy output: GGCGGTAAGT 1.42857142857
+649. CTCCACT
+['CACT', 'C', 'CC', 'CA', 'ACT', 'AC', 'CTCCAC', 'TCCAC', 'CAC', 'CTCCA', 'CCA', 'TCC', 'CT']
+greedy output: CTCCACTCCAC 1.57142857143
+650. GCGAAAG
+['AA', 'A', 'CGAAAG', 'CGAAA', 'AG', 'GCGA', 'CG', 'AAG', 'GAAA', 'AAAG', 'GAA']
+greedy output: CGCGAAAGAAA 1.57142857143
+651. GGCGACC
+['A', 'C', 'GA', 'CGAC', 'CGA', 'CG', 'GCGA', 'GGCGA', 'GCG', 'GC', 'GGC', 'GGCGAC']
+greedy output: GGCGACGCGA 1.42857142857
+652. TACTTAG
+['A', 'C', 'AG', 'TTAG', 'ACTTAG', 'ACTT', 'T', 'TTA', 'TA']
+greedy output: CTTACTTAG 1.28571428571
+653. TATGAAC
+['A', 'ATG', 'AC', 'ATGA', 'AAC', 'GAAC', 'TGA', 'GA', 'ATGAAC', 'TA']
+greedy output: TGATGAACTA 1.42857142857
+654. TGGTCCA
+['GGT', 'C', 'GT', 'TGGTCCA', 'TGGTCC', 'GTCC', 'TGGT', 'GGTCCA', 'T', 'CCA', 'TCCA']
+greedy output: GGTCCTGGTCCA 1.71428571429
+655. TAAGTGA
+['A', 'AAGTGA', 'G', 'GTG', 'AGTGA', 'AAGT', 'T', 'GA', 'TAAG', 'AGT']
+greedy output: TAAGTGAGTG 1.42857142857
+656. TACCGTA
+['A', 'C', 'CCGT', 'TA', 'CG', 'T', 'TAC', 'CCGTA', 'CGTA', 'TACCGT', 'ACCGTA', 'TACCG']
+greedy output: CCGTACCGTACGT 1.85714285714
+657. AATGACA
+['ATG', 'C', 'ATGACA', 'CA', 'ACA', 'AATGAC', 'GA', 'TGAC', 'TG', 'GAC']
+greedy output: TGAATGACATGAC 1.85714285714
+658. CAGTTTG
+['AGTTTG', 'GT', 'G', 'TT', 'T', 'AGTT', 'TG', 'AGT', 'CAG', 'CA', 'CAGTTT']
+greedy output: AGTTCAGTTTGT 1.71428571429
+659. AATAATA
+['A', 'AATAA', 'AA', 'TAATA', 'ATA', 'ATAA', 'AATAATA', 'TAAT', 'T']
+greedy output: AATAATAAT 1.28571428571
+660. GCCTCTG
+['GCCTCT', 'C', 'CCTCT', 'TCT', 'GCCTCTG', 'CTG', 'GC', 'CCTC', 'TCTG', 'TG']
+greedy output: CCTCTGCCTCTG 1.71428571429
+661. GGGGTCG
+['GGTC', 'C', 'GT', 'CG', 'GGGGT', 'GGGGTCG', 'GGGTC', 'T', 'TCG', 'GTC']
+greedy output: GGGGTCGTGGGTC 1.85714285714
+662. TGTCGCA
+['C', 'TCGCA', 'G', 'TGTCG', 'TGTCGC', 'GTC', 'T', 'TG', 'CGCA']
+greedy output: GTCTGTCGCA 1.42857142857
+663. ATTCTTG
+['A', 'ATTCT', 'C', 'TTCT', 'TCT', 'CTT', 'TCTTG', 'ATTC', 'T', 'TTC', 'TG', 'TT']
+greedy output: ATTCTTGCTTCTT 1.85714285714
+664. CATAAAA
+['AA', 'A', 'C', 'AAA', 'TAAA', 'ATAA', 'ATA', 'CATAAA', 'AT', 'TAA']
+greedy output: CATAAATAA 1.28571428571
+665. GGCTACG
+['A', 'CTACG', 'ACG', 'GGCTAC', 'G', 'GCTA', 'CG', 'GGCT', 'GG', 'TACG', 'TA', 'CT']
+greedy output: GGCTACGCTACT 1.71428571429
+666. TAGGACC
+['A', 'TAGGA', 'C', 'G', 'AGG', 'TAGGACC', 'GGACC', 'GACC', 'GAC']
+greedy output: AGGACTAGGACC 1.71428571429
+667. CAAGTAT
+['CAAGTAT', 'AAGTA', 'G', 'GTA', 'CA', 'AGTA', 'A', 'GTAT', 'TAT', 'AAGTAT', 'TA']
+greedy output: AAGTAGCAAGTAT 1.85714285714
+668. AGTGTAG
+['GTA', 'GT', 'TGT', 'AG', 'GTG', 'GTAG', 'GTGTA', 'T', 'AGTGT', 'TA']
+greedy output: GTGTAGTGTAG 1.57142857143
+669. TTTAGTG
+['TTTAGTG', 'G', 'GTG', 'TTT', 'TTAGTG', 'T', 'TG', 'TA']
+greedy output: TTTAGTGTA 1.28571428571
+670. AGACTCC
+['C', 'AGACTCC', 'AG', 'CC', 'TC', 'CTC', 'TCC', 'T', 'ACT', 'AGACT']
+greedy output: AGACTCCTACTC 1.71428571429
+671. CGCACCA
+['ACC', 'C', 'CG', 'ACCA', 'GC', 'CACC', 'CCA']
+greedy output: CGCACCA 1.0
+672. CTCGAAG
+['A', 'C', 'AG', 'G', 'CGA', 'TCGA', 'GAAG', 'GA']
+greedy output: CTCGAAGA 1.14285714286
+673. TCCTTTT
+['CTTTT', 'TCCTTT', 'CCT', 'TT', 'TTT', 'TTTT', 'T', 'CCTTT']
+greedy output: CCTCCTTTT 1.28571428571
+674. AATTCGA
+['C', 'TTCGA', 'G', 'TT', 'CG', 'ATT', 'ATTC', 'T', 'GA', 'TCG', 'AT']
+greedy output: CTTCGATTCGA 1.57142857143
+675. GGACGTC
+['ACGT', 'A', 'GTC', 'ACG', 'CGT', 'G', 'TC', 'CGTC', 'GGACGTC']
+greedy output: ACGTGGACGTC 1.57142857143
+676. TCCCCGA
+['C', 'G', 'CC', 'TCCCC', 'CGA', 'CCCG', 'CCCGA', 'TCCCCG', 'CCC']
+greedy output: CCCGTCCCCGA 1.57142857143
+677. TCCCGCC
+['GCC', 'G', 'CC', 'CCCGCC', 'CG', 'GC', 'CCCG', 'CCG', 'CGCC', 'TCC', 'CCGCC']
+greedy output: TCCCGCCGC 1.28571428571
+678. GGATTGT
+['GGATT', 'GT', 'G', 'TT', 'ATT', 'T', 'TG', 'GATTGT', 'GGAT']
+greedy output: GGATTGTGATT 1.57142857143
+679. AAGTGCA
+['AA', 'GCA', 'C', 'GTGC', 'GTG', 'AAGTGCA', 'CA', 'AGTG', 'AGTGC', 'GC', 'GTGCA', 'AGT']
+greedy output: AAGTGCAGTGCGTG 2.0
+680. AGTAGTG
+['TAGT', 'GTA', 'GT', 'GTAGTG', 'AG', 'GTAGT', 'TAG', 'T', 'AGTAG', 'TA']
+greedy output: TAGTAGTAGTG 1.57142857143
+681. AACGTGC
+['A', 'C', 'GT', 'AAC', 'G', 'AACGT', 'AACG', 'TGC', 'T', 'ACGTGC']
+greedy output: AACGTGCGT 1.28571428571
+682. TACTGTT
+['C', 'G', 'TGT', 'TACT', 'AC', 'TACTGT', 'CTG', 'GTT', 'T', 'TAC', 'CT']
+greedy output: ACTGTACTGTT 1.57142857143
+683. TGGGTTA
+['GTTA', 'TGGGTT', 'GGGTTA', 'G', 'TT', 'GGG', 'T', 'TTA', 'TA']
+greedy output: GGGTTGGGTTA 1.57142857143
+684. ACAACTG
+['AA', 'ACA', 'AAC', 'ACAA', 'AC', 'ACT', 'TG', 'CAA', 'CT', 'AACT']
+greedy output: ACAACTG 1.0
+685. ATTAACG
+['AA', 'A', 'AC', 'ACG', 'AACG', 'CG', 'C', 'T', 'TTAACG', 'TTAAC', 'TTA']
+greedy output: AACTTAACG 1.28571428571
+686. TTTTTTA
+['TTTA', 'TTTTT', 'TT', 'TTTTTTA', 'TTT', 'TTTT', 'T']
+greedy output: TTTTTTA 1.0
+687. CTCGGCG
+['C', 'GCG', 'G', 'CTCGGC', 'CG', 'GG', 'TCG', 'TC']
+greedy output: CTCGGCGGTCG 1.57142857143
+688. CGAATCA
+['C', 'CGAA', 'ATC', 'G', 'AATC', 'T', 'GA', 'ATCA', 'CGAATC', 'CGAATCA', 'GAA', 'TCA']
+greedy output: GAATCGAATCAT 1.71428571429
+689. ATGCGGA
+['ATG', 'G', 'GCG', 'TGC', 'GGA', 'T', 'GA', 'ATGCGG', 'ATGCGGA', 'AT']
+greedy output: TGCGATGCGGA 1.57142857143
+690. CCCATCT
+['C', 'CATCT', 'CC', 'CA', 'T', 'AT', 'CCA', 'TC', 'CT']
+greedy output: CCATCTCAT 1.28571428571
+691. CACTTTC
+['A', 'TT', 'CACTTTC', 'TTT', 'CTTTC', 'T', 'CAC', 'CACTT', 'CT']
+greedy output: ACACTTTCTTT 1.57142857143
+692. TACGTCG
+['TACGT', 'ACGTCG', 'C', 'GTC', 'ACG', 'ACGTC', 'G', 'CGT', 'GT', 'TACGTCG', 'TC', 'TACG']
+greedy output: ACGTCGTACGTCGT 2.0
+693. AGCTGTG
+['CTGT', 'GCTG', 'A', 'TGT', 'AGC', 'GC', 'T', 'AGCTGT', 'TG']
+greedy output: AGCTGTGCTG 1.42857142857
+694. TCTGTAT
+['A', 'C', 'GT', 'TGTA', 'T', 'AT', 'TCT', 'TCTG', 'CTGTAT', 'TC', 'TA']
+greedy output: CGTGTATCTGTAT 1.85714285714
+695. ACGATAA
+['A', 'ACG', 'CGA', 'ACGATAA', 'T', 'GATAA', 'CGAT', 'TAA', 'CGATAA', 'TA']
+greedy output: CGATACGATAA 1.57142857143
+696. AATTGAA
+['AA', 'A', 'AATTG', 'G', 'ATTG', 'AATTGA', 'ATTGA', 'TG', 'TTG', 'GAA']
+greedy output: AATTGAATTG 1.42857142857
+697. CATCGGA
+['A', 'C', 'CATC', 'ATC', 'G', 'TCGG', 'CGG', 'T', 'GA', 'TC', 'TCGGA']
+greedy output: CGGTCATCGGA 1.57142857143
+698. GGTAAGT
+['AA', 'GGT', 'GT', 'AAGT', 'G', 'GG', 'GTAA', 'GTAAGT', 'AGT', 'TAAGT']
+greedy output: AAGGTAAGT 1.28571428571
+699. ACATGGC
+['A', 'ACA', 'ATGG', 'G', 'ACATG', 'GG', 'GC', 'TGG', 'T']
+greedy output: ACATGGCT 1.14285714286
+700. CAACCGG
+['C', 'CCGG', 'G', 'AACCGG', 'CC', 'CAAC', 'CG', 'CGG', 'AACC']
+greedy output: CCAACCGGCG 1.42857142857
+701. GTCCTCG
+['C', 'GTCC', 'CC', 'CCTCG', 'CTC', 'CCTC', 'TC']
+greedy output: CTCGTCCTCG 1.42857142857
+702. ATCATGG
+['A', 'ATG', 'C', 'CATG', 'CA', 'CATGG', 'TGG', 'TG', 'AT', 'T']
+greedy output: ATGCATGGT 1.28571428571
+703. CTGGTGC
+['GGT', 'GT', 'GGTGC', 'G', 'GTG', 'GTGC', 'TGC', 'T', 'GGTG']
+greedy output: GTGGTGCT 1.14285714286
+704. CTGGGGA
+['GGGA', 'G', 'TGGGG', 'GG', 'GGG', 'GGA', 'T', 'GA', 'TG', 'CT']
+greedy output: GGGCTGGGGA 1.42857142857
+705. AAACTCA
+['A', 'C', 'AAC', 'CA', 'ACT', 'AAACT', 'T', 'CTC']
+greedy output: AACAAACTCT 1.42857142857
+706. ATAGCAC
+['A', 'GCA', 'AC', 'CA', 'AGCAC', 'TAG', 'GC', 'CAC', 'TA']
+greedy output: GCATAGCAC 1.28571428571
+707. TACCTTT
+['C', 'CC', 'TACCTT', 'TT', 'TACCT', 'CCTT', 'T', 'TACC', 'CT']
+greedy output: CCTACCTT 1.14285714286
+708. CCAAGAG
+['A', 'AA', 'C', 'AGAG', 'G', 'AG', 'CC', 'CCAAG', 'AAGAG']
+greedy output: AACCAAGAG 1.28571428571
+709. TCTCCTT
+['CTT', 'C', 'CTCC', 'CC', 'TCCT', 'CTCCT', 'CCTT', 'TT', 'TCCTT', 'TCC', 'CT']
+greedy output: CTCCTTCC 1.14285714286
+710. TAACCTA
+['A', 'AC', 'CCTA', 'TAAC', 'C', 'T', 'AACCTA', 'TAACCTA', 'TA', 'CT']
+greedy output: ACTAACCTAT 1.42857142857
+711. CCGGCTA
+['C', 'CTA', 'G', 'CGG', 'CGGCTA', 'GC', 'T', 'TA']
+greedy output: GCGGCTAT 1.14285714286
+712. TATACAG
+['A', 'C', 'ATACAG', 'AG', 'T', 'TATACA', 'TAC', 'CAG', 'TATAC']
+greedy output: ATACTATACAG 1.57142857143
+713. TGATAGT
+['A', 'TAGT', 'GT', 'G', 'ATA', 'TAG', 'T', 'TG', 'AGT', 'TA']
+greedy output: TATAGTG 1.0
+714. GACGTCC
+['GT', 'ACGTC', 'G', 'CC', 'GACGTC', 'CG', 'CGTCC', 'T', 'CGTC', 'ACGT']
+greedy output: GACGTCCGTACGTC 2.0
+715. TCTGGCC
+['TGGC', 'CC', 'TCTGG', 'GG', 'CTGG', 'GC', 'GGC', 'CTGGCC', 'GGCC', 'TG', 'TC']
+greedy output: GGTGGCTCTGGCC 1.85714285714
+716. CTTAATC
+['A', 'ATC', 'TT', 'CTTA', 'T', 'CTTAATC', 'CTTAAT', 'TC', 'TA']
+greedy output: TTACTTAATC 1.42857142857
+717. TGCTAGA
+['C', 'G', 'AG', 'GCTA', 'CTAGA', 'GCTAGA', 'AGA', 'TGCTAG', 'TAGA', 'GA', 'T', 'GCT']
+greedy output: CGCTAGTGCTAGA 1.85714285714
+718. AATGAAT
+['A', 'ATG', 'AA', 'GAAT', 'T', 'AAT', 'TGA', 'AT', 'TG', 'TGAA']
+greedy output: AATGAATG 1.14285714286
+719. AGCCATA
+['CATA', 'GCC', 'G', 'ATA', 'CC', 'CA', 'C', 'GC', 'AT', 'TA', 'CCATA']
+greedy output: GCCATATCA 1.28571428571
+720. TGATGGG
+['TGAT', 'TGGG', 'ATGG', 'G', 'GATGGG', 'GG', 'GGG', 'TGG', 'TG', 'GATG']
+greedy output: ATGGTGATGGG 1.57142857143
+721. CCTGTTA
+['GTTA', 'C', 'G', 'TT', 'GTT', 'TGTTA', 'TTA', 'TGTT', 'TA']
+greedy output: CGTTGTTA 1.14285714286
+722. ACGTATA
+['GT', 'G', 'ATA', 'TATA', 'T', 'ACGTAT', 'AT', 'GTAT', 'CGTA', 'TA']
+greedy output: GTCGTACGTATAT 1.85714285714
+723. GGCAGAC
+['A', 'AGAC', 'AC', 'AG', 'G', 'CAGAC', 'GA', 'CAG']
+greedy output: AGACAGAC 1.14285714286
+724. GTGACTG
+['GTGAC', 'AC', 'GT', 'G', 'TGACTG', 'C', 'GACT', 'T', 'GA', 'TG', 'ACTG']
+greedy output: ACGTGACTGACT 1.71428571429
+725. AGCCTTG
+['A', 'CTT', 'AGCCTT', 'TT', 'AGC', 'GC', 'T', 'AGCCTTG', 'CTTG']
+greedy output: AGCCTTGCTT 1.42857142857
+726. CCCCTAT
+['TAT', 'C', 'CC', 'CCT', 'CCCTAT', 'CCCCT', 'CCCC', 'CTAT', 'AT', 'T']
+greedy output: CCTCCCCTAT 1.42857142857
+727. TCGGTGG
+['GGT', 'CGGTGG', 'G', 'CGGT', 'TCGGTG', 'TCGG', 'GTGG', 'GG', 'T', 'TCG', 'TG', 'CGGTG']
+greedy output: CGGTGTCGGTGGT 1.85714285714
+728. CAGCAGG
+['A', 'C', 'AG', 'AGCAG', 'CA', 'GG', 'GC', 'CAGG']
+greedy output: AGCAGGCA 1.14285714286
+729. CACCAAG
+['A', 'AA', 'C', 'CAAG', 'ACCA', 'CC', 'CCAA']
+greedy output: AACCAAGCC 1.28571428571
+730. TTCGGCT
+['C', 'G', 'CGGCT', 'GC', 'GCT', 'TTCGGCT', 'TTC', 'CT', 'GGCT', 'TCGGC', 'T']
+greedy output: GTTCGGCTCGGC 1.71428571429
+731. CCCTAAG
+['A', 'C', 'CCTA', 'AG', 'CTAA', 'CCCTAAG', 'T', 'CCTAAG', 'CCCTAA', 'TA']
+greedy output: CCTAATACCCTAAG 2.0
+732. GAACTGT
+['ACTGT', 'A', 'GT', 'G', 'T', 'GA', 'ACT', 'AACT', 'GAA', 'CT']
+greedy output: AGAACTGTCT 1.42857142857
+733. CGGAATC
+['AA', 'ATC', 'CG', 'GAATC', 'AAT', 'GGA', 'T', 'CGGAA', 'GGAAT', 'TC']
+greedy output: CGGAATCGGAAT 1.71428571429
+734. TAACTAC
+['A', 'AA', 'CTAC', 'AAC', 'ACTAC', 'CT', 'T', 'ACTA', 'TA', 'AACT']
+greedy output: AACTACTA 1.14285714286
+735. GCTTGCA
+['GCTTG', 'C', 'G', 'TT', 'CTTGC', 'GCTT', 'TGCA', 'T', 'CTTGCA', 'CT']
+greedy output: CTTGCTTGCA 1.42857142857
+736. GTATCTG
+['TAT', 'GTA', 'ATCT', 'ATCTG', 'CTG', 'T', 'TG', 'TC', 'TATCTG']
+greedy output: GTATCTGATCTC 1.71428571429
+737. ACCCACA
+['AC', 'A', 'ACA', 'CC', 'CA', 'C', 'CACA']
+greedy output: ACCACAC 1.0
+738. TGGATGA
+['A', 'TGGATG', 'G', 'GAT', 'GGATG', 'TGA', 'TGG', 'GA', 'TG', 'GGATGA']
+greedy output: GATGGATGAT 1.42857142857
+739. TACTTAC
+['CTT', 'C', 'TACTTA', 'TT', 'ACT', 'TTAC', 'AC', 'ACTTAC', 'TAC', 'TA', 'ACTTA', 'CT']
+greedy output: CTTACTTACTTAC 1.85714285714
+740. CCTGGAC
+['A', 'CTGGA', 'GGAC', 'CCTGGA', 'G', 'CC', 'C', 'CTGG', 'GGA', 'TGG', 'TG', 'CT']
+greedy output: CCTGGACTGGATG 1.85714285714
+741. CGCGCGC
+['C', 'GCG', 'G', 'GCGC', 'CG', 'CGC', 'GCGCGC', 'CGCGC', 'GC']
+greedy output: CGCGCGCG 1.14285714286
+742. GACGTCC
+['AC', 'GT', 'G', 'CC', 'CG', 'CGT', 'GACGTCC', 'GA', 'GAC', 'TC', 'GACGT']
+greedy output: ACGTCGACGTCC 1.71428571429
+743. CGTCGTG
+['C', 'GT', 'G', 'CG', 'GTCG', 'T', 'CGTCGT', 'CGTG', 'CGTC']
+greedy output: CGTCGTCGTGT 1.57142857143
+744. TGGAATA
+['AA', 'G', 'ATA', 'GAATA', 'GG', 'AAT', 'AATA', 'T', 'TA']
+greedy output: GGAATAAT 1.14285714286
+745. TATCCGC
+['C', 'ATC', 'G', 'CC', 'CGC', 'TATC', 'TCCGC', 'TATCCGC', 'GC', 'CCG']
+greedy output: ATCCGTATCCGC 1.71428571429
+746. GAATGGA
+['G', 'GAAT', 'T', 'AAT', 'TGG', 'GA', 'GAA', 'AT']
+greedy output: GAATGG 0.857142857143
+747. TATTGGC
+['A', 'TGGC', 'G', 'TTGGC', 'TT', 'T', 'GGC', 'TG', 'TTG', 'TTGG', 'TGG']
+greedy output: ATTGGCTGG 1.28571428571
+748. TTGTGGT
+['GGT', 'GT', 'G', 'TTGT', 'TGTGGT', 'TG', 'TGTGG', 'TTG']
+greedy output: TTGTGGTG 1.14285714286
+749. GGCTCTG
+['C', 'GCTCTG', 'G', 'TCT', 'CTCT', 'GCT', 'T', 'CTC', 'TG', 'CT']
+greedy output: CTCTGCTCTG 1.42857142857
+750. AGACAAC
+['A', 'AA', 'C', 'AGACA', 'CA', 'AC', 'GACAA', 'GACAAC', 'ACA']
+greedy output: AAGACAACAC 1.42857142857
+751. CCACGGC
+['CGGC', 'CACGG', 'ACG', 'G', 'CA', 'CGG', 'ACGGC', 'CACG', 'GC', 'ACGG']
+greedy output: ACGGCACGGC 1.42857142857
+752. TGTCGTT
+['C', 'G', 'TT', 'GTT', 'T', 'TGTCGT', 'TC', 'TCGT']
+greedy output: GTGTCGTTC 1.28571428571
+753. GACGTTG
+['AC', 'GT', 'GAC', 'C', 'GTT', 'T', 'TG', 'GACGTT', 'CGT', 'GACG']
+greedy output: ACGTGACGTT 1.42857142857
+754. TGCGCCG
+['GCC', 'GCG', 'CC', 'CGCCG', 'CG', 'C', 'GCGCC', 'GCGCCG', 'TGCG', 'TGCGC']
+greedy output: TGCGCCGCGCC 1.57142857143
+755. CTTTTGA
+['G', 'TTTG', 'CTTTTG', 'TT', 'CTTTTGA', 'TTTTG', 'T', 'GA', 'TG']
+greedy output: CTTTTGATTTTG 1.71428571429
+756. GGGGGTG
+['GT', 'G', 'GTG', 'GGGGT', 'GG', 'GGG', 'T', 'TG']
+greedy output: GGGGTGT 1.0
+757. TGCAGCA
+['A', 'GCA', 'C', 'G', 'TGCAG', 'TGCAGCA', 'GCAG', 'AGC', 'TGC', 'CAG', 'CA']
+greedy output: GTGCAGCAGCA 1.57142857143
+758. GTGGTGG
+['GGTGG', 'G', 'GGT', 'GTGGT', 'GTG', 'GG', 'TGGT', 'TGG']
+greedy output: GGTGGTGG 1.14285714286
+759. GCCCCAA
+['A', 'C', 'GCCCC', 'G', 'CC', 'CA', 'GC', 'CCCCA']
+greedy output: CCGCCCCA 1.14285714286
+760. GCTTGAA
+['G', 'GCTTGA', 'CTTG', 'GCTTGAA', 'TTGAA', 'TGAA', 'TTG', 'TT', 'GAA', 'CT']
+greedy output: TTCTTGCTTGAA 1.71428571429
+761. CCGTTTC
+['GT', 'G', 'CCGTTT', 'CGT', 'GTTTC', 'GTTT', 'TTC', 'TC', 'T']
+greedy output: GCCGTTTCGTTT 1.71428571429
+762. CATCTGT
+['C', 'GT', 'G', 'TGT', 'CA', 'ATCTGT', 'ATCTG', 'CTG', 'T', 'ATCT', 'TG', 'CT']
+greedy output: CATCTGTCTG 1.42857142857
+763. AATCGCC
+['AA', 'TCGCC', 'GCC', 'G', 'CC', 'TCGC', 'CG', 'TCG', 'TC']
+greedy output: AATCGCCG 1.14285714286
+764. GTGCGTG
+['GT', 'GCG', 'G', 'GCGTG', 'TGCGTG', 'T', 'CGTG', 'CGT', 'GTGCGTG', 'GCGT']
+greedy output: GCGTGCGTGT 1.42857142857
+765. TACATAT
+['A', 'CATA', 'C', 'ATA', 'CA', 'TACATA', 'CAT', 'AT', 'TACA', 'ACATAT', 'TA']
+greedy output: CATACATATA 1.42857142857
+766. AATTATA
+['A', 'AATTA', 'AAT', 'ATT', 'T', 'TTATA', 'AT']
+greedy output: AATTATATT 1.28571428571
+767. CGCCCGG
+['CGCCCG', 'C', 'G', 'CC', 'CG', 'GG', 'GC', 'GCCCGG', 'CGCC']
+greedy output: CCGCCCGGC 1.28571428571
+768. TAAACAA
+['A', 'C', 'AAA', 'AAACA', 'AC', 'AACAA', 'CAA', 'TAAACAA', 'TA']
+greedy output: TAAACAAACAC 1.57142857143
+769. TTATTAA
+['A', 'AA', 'TATTAA', 'TT', 'TTATT', 'TTAA', 'ATTAA', 'T', 'TATT', 'TA', 'TTATTA', 'TAA']
+greedy output: TATTATTAA 1.28571428571
+770. GTACAGA
+['A', 'GTAC', 'AC', 'GT', 'AG', 'CA', 'GTACA', 'GA', 'TAC', 'TACA', 'ACAG', 'TA']
+greedy output: GTACAGATACA 1.57142857143
+771. CTACGGA
+['A', 'C', 'G', 'GG', 'ACGG', 'TAC']
+greedy output: ACTACGG 1.0
+772. ATCCCTC
+['C', 'CCCTC', 'TCC', 'T', 'TCCCT', 'CT', 'TC', 'ATCC']
+greedy output: ATCCCTCT 1.14285714286
+773. TGATTGT
+['TGAT', 'GT', 'G', 'TT', 'ATTGT', 'TTGT', 'ATTG', 'TGA', 'T', 'TG', 'GATTGT', 'TTG']
+greedy output: ATTGATTGTTG 1.57142857143
+774. AATTATC
+['A', 'ATTATC', 'ATC', 'AATT', 'ATTAT', 'AAT', 'T', 'TTA', 'TTAT', 'TC']
+greedy output: AATTATCTTAT 1.57142857143
+775. AAAGAGC
+['AA', 'A', 'AAAGAG', 'G', 'AAGAGC', 'AGC', 'AGA', 'AGAGC', 'GA']
+greedy output: GAGAAAGAGC 1.42857142857
+776. CGTCCCC
+['C', 'CC', 'TCCC', 'TCC', 'GTCCCC', 'TC', 'CCC']
+greedy output: GTCCCCTCCC 1.42857142857
+777. CTTTACC
+['CTT', 'C', 'CTTTAC', 'CC', 'TTTAC', 'TT', 'TTAC', 'TAC', 'TTA']
+greedy output: CTTTACCTTA 1.42857142857
+778. AGATAGT
+['A', 'GT', 'AG', 'GATAG', 'GAT', 'AGA', 'AT', 'GA', 'AGAT', 'GATA', 'TA']
+greedy output: GAGATAGTAT 1.42857142857
+779. CCCGCGG
+['C', 'GCG', 'G', 'CC', 'CG', 'GCGG', 'GG', 'CCCG', 'CCC']
+greedy output: CCCGCGG 1.0
+780. TCTTGTA
+['GTA', 'G', 'TGTA', 'TCTT', 'T', 'TCTTGTA', 'TG', 'CTTGT', 'TA']
+greedy output: TGCTTGTCTTGTA 1.85714285714
+781. GGAATTA
+['AATT', 'G', 'GAAT', 'TT', 'GG', 'ATTA', 'TA']
+greedy output: TTGGAATTA 1.28571428571
+782. CGCATCG
+['C', 'CATC', 'G', 'CA', 'CGCATC', 'CG', 'T', 'TCG', 'TC']
+greedy output: CGCATCGTCA 1.42857142857
+783. CATACCC
+['A', 'C', 'CC', 'ACCC', 'CAT', 'T', 'ATACCC', 'TA']
+greedy output: CATACCCTA 1.28571428571
+784. TGTGCAT
+['GCA', 'A', 'TGT', 'G', 'GTGCA', 'CA', 'TGC', 'T', 'TGTGC']
+greedy output: GTGCTGTGCA 1.42857142857
+785. CGAGATC
+['CGAGATC', 'ATC', 'G', 'GAT', 'AT', 'CGAGA', 'GA', 'TC', 'T']
+greedy output: GATCGAGATC 1.42857142857
+786. ACATGTA
+['A', 'GTA', 'GT', 'G', 'ACATG', 'CAT', 'ACATGTA', 'AT', 'TG', 'T']
+greedy output: ACATGTAGTGCAT 1.85714285714
+787. CTTCGTT
+['C', 'G', 'CGTT', 'CG', 'TT', 'TTCGT', 'GTT', 'T', 'CTTCGT', 'TC', 'TCGT', 'TCGTT']
+greedy output: CTTCGTTCG 1.28571428571
+788. TACGAGT
+['A', 'GT', 'ACG', 'G', 'AG', 'CG', 'CGAGT', 'GA', 'TAC', 'TACG']
+greedy output: AGATACGAGT 1.42857142857
+789. CACCGTC
+['ACC', 'C', 'GTC', 'G', 'CC', 'CG', 'CGTC', 'CACC', 'CCGTC', 'CGT']
+greedy output: GCACCGTCGT 1.42857142857
+790. CCTGGTA
+['GTA', 'C', 'GT', 'TGGTA', 'G', 'CTG', 'CCTGG', 'GGTA', 'TA']
+greedy output: CTGTGCCTGGTA 1.71428571429
+791. CGCAGCG
+['AG', 'AGC', 'CA', 'CG', 'AGCG', 'CGCAG', 'GC', 'CGCA', 'CAGC', 'CAG', 'CGCAGC']
+greedy output: CAGCGCAGCG 1.42857142857
+792. GTTGCAT
+['A', 'GCA', 'C', 'GT', 'TT', 'CAT', 'TTGCAT', 'AT', 'GTTGCAT', 'TTG']
+greedy output: CGTTGCATTGCA 1.71428571429
+793. TATCAGC
+['A', 'G', 'AG', 'T', 'AT', 'CAG', 'TC', 'TCA']
+greedy output: ATCAG 0.714285714286
+794. GTCTCTA
+['G', 'TCTC', 'TCT', 'CTCT', 'TCTCTA', 'T', 'CTC', 'CTCTA', 'TC']
+greedy output: GTCTCTCTA 1.28571428571
+795. CCACCTC
+['C', 'CACCTC', 'CA', 'AC', 'ACCTC', 'CACC', 'CTC', 'CCTC', 'CCAC', 'TC', 'CT']
+greedy output: CACCACCTCT 1.42857142857
+796. TTGATTC
+['TGAT', 'A', 'GATT', 'TT', 'TGATTC', 'TGATT', 'TTGATT', 'T', 'TTC', 'TC', 'AT']
+greedy output: ATGATTGATTCT 1.71428571429
+797. TAATACA
+['A', 'C', 'AATAC', 'TAATA', 'TAAT', 'AT', 'TAC', 'TA']
+greedy output: ATAATAC 1.0
+798. GTGGCAA
+['A', 'TGGCAA', 'GTG', 'GG', 'T', 'GGC', 'CAA', 'GGCAA']
+greedy output: GTGGCAAGGCT 1.57142857143
+799. GCTCGAT
+['A', 'TCGA', 'GCTC', 'G', 'GAT', 'CG', 'GC', 'AT', 'GA']
+greedy output: CGCTCGATGA 1.42857142857
+800. CCAGAAC
+['AA', 'A', 'AGAA', 'AG', 'GAAC', 'GAA', 'CAGAAC', 'CCAG']
+greedy output: AGAACCAGAAC 1.57142857143
+801. GCACAAC
+['A', 'ACAAC', 'AC', 'CAAC', 'C', 'GCAC', 'CACAA', 'CAC']
+greedy output: AGCACAACAC 1.42857142857
+802. CTCGCAC
+['CTCGCAC', 'C', 'G', 'CGCAC', 'CA', 'CG', 'AC', 'CTCGCA', 'GC', 'CAC']
+greedy output: CTCGCACGCA 1.42857142857
+803. CATAATT
+['AA', 'ATA', 'CATAATT', 'TT', 'CATAA', 'CAT', 'AAT', 'ATT', 'TAATT', 'T', 'CATAAT']
+greedy output: AATACATAATT 1.57142857143
+804. TAGTGAA
+['A', 'G', 'AG', 'AGTG', 'TAG', 'T', 'TG', 'TA', 'GAA', 'TGAA']
+greedy output: GTAGTGAA 1.14285714286
+805. GTAGAGA
+['A', 'AG', 'G', 'TAG', 'GAGA', 'T', 'GA', 'GTAG']
+greedy output: TGTAGAGA 1.14285714286
+806. CCAGACG
+['C', 'ACG', 'CC', 'CCAGA', 'CG', 'AGACG', 'GA', 'CAGACG', 'GAC']
+greedy output: CCAGACGAC 1.28571428571
+807. CATCAAA
+['A', 'AA', 'C', 'CA', 'CAT', 'T', 'CAA', 'ATCAA']
+greedy output: CATCAAT 1.0
+808. GGTGAAC
+['A', 'GGT', 'AC', 'G', 'GGTGAA', 'GG', 'GTGA', 'GGTGA', 'GAAC', 'TGAAC', 'GA']
+greedy output: GGTGAACGTGA 1.57142857143
+809. TTGGTGC
+['TGGTG', 'GGT', 'GGTGC', 'G', 'GTG', 'TT', 'GTGC', 'TGGT', 'T', 'TG', 'GGTG']
+greedy output: TTGGTGGTGC 1.42857142857
+810. CATATGC
+['A', 'TAT', 'C', 'CATATGC', 'G', 'CATA', 'ATATGC', 'CA', 'TGC', 'GC', 'T', 'TG', 'TA']
+greedy output: ACATATGCTATG 1.71428571429
+811. TCATGCG
+['A', 'ATGC', 'C', 'ATG', 'CG', 'TCATG', 'CAT', 'TGC', 'GC', 'T']
+greedy output: ACATCATGCGT 1.57142857143
+812. GGCGCCC
+['GCGCC', 'GCCC', 'G', 'GCG', 'CC', 'C', 'GC', 'CGCC', 'CCC']
+greedy output: GCGCCC 0.857142857143
+813. CTTCGTG
+['GT', 'G', 'GTG', 'CTTC', 'TTCGT', 'T', 'TG', 'TTC', 'CTTCGT', 'CT']
+greedy output: TTCTTCGTG 1.28571428571
+814. TCTGTAC
+['A', 'GTAC', 'CTGTAC', 'G', 'TGTA', 'TGTAC', 'AC', 'T', 'TG', 'TCT', 'TA']
+greedy output: GTGTATCTGTAC 1.71428571429
+815. AATGCCG
+['A', 'ATG', 'GCC', 'ATGCCG', 'C', 'TGC', 'GC', 'AT', 'CCG']
+greedy output: ATGCCGCTGCC 1.57142857143
+816. CGACGAA
+['C', 'CGAA', 'CGAC', 'G', 'CGA', 'CG', 'GA', 'ACGAA', 'ACG', 'GAA']
+greedy output: CGACGAAGA 1.28571428571
+817. CATCAGT
+['A', 'C', 'GT', 'ATC', 'CATC', 'ATCAG', 'TC', 'TCA']
+greedy output: ACGTCATCAG 1.42857142857
+818. GAACGGT
+['A', 'AC', 'GT', 'ACG', 'G', 'ACGGT', 'CGG', 'ACGG', 'GAA']
+greedy output: CGGAACGGT 1.28571428571
+819. CGGTACG
+['A', 'GGT', 'AC', 'GGTACG', 'ACG', 'C', 'CG', 'GTACG', 'GG', 'T', 'CGGTA', 'TACG']
+greedy output: ACGGTACGGT 1.42857142857
+820. TTACGGC
+['A', 'G', 'TTACGGC', 'GG', 'GC', 'T', 'TTA', 'TT', 'TACG']
+greedy output: ATTACGGCTACGG 1.85714285714
+821. GGCTGTG
+['GT', 'G', 'GTG', 'TGTG', 'CTGTG', 'GGCT', 'GG', 'TG', 'GCTGT', 'CT']
+greedy output: GGCTGTGTCT 1.42857142857
+822. CAATTTC
+['C', 'TTTC', 'AATT', 'AATTTC', 'CAATTTC', 'CAATT', 'ATT', 'ATTTC', 'T', 'AATTT', 'TTC']
+greedy output: CAATTTCAATTTATT 2.14285714286
+823. CCGGAGT
+['GAGT', 'GT', 'G', 'CC', 'CGG', 'CCGG', 'GA', 'GGAGT']
+greedy output: GACCGGAGT 1.28571428571
+824. CGAAGGA
+['A', 'GG', 'CGAAG', 'CGAA', 'G', 'AG', 'CGA', 'CGAAGGA', 'GGA', 'GA', 'AGGA']
+greedy output: CGAAGGAGG 1.28571428571
+825. TACGTTC
+['C', 'GT', 'CGT', 'G', 'CGTT', 'GTTC', 'TACGTT', 'GTT', 'T', 'TTC', 'TC', 'TACG']
+greedy output: CGTACGTTCG 1.42857142857
+826. GAGTGTC
+['A', 'GTC', 'G', 'TGTC', 'GT', 'GA', 'GAG', 'TC']
+greedy output: AGAGTGTC 1.14285714286
+827. GGCGTTA
+['GCGTT', 'GTTA', 'G', 'GCG', 'CGTT', 'CG', 'CGTTA', 'T', 'GGC', 'GGCG']
+greedy output: CGGCGTTAT 1.28571428571
+828. GATGGTG
+['TGGTG', 'GT', 'GGTG', 'G', 'GTG', 'GG', 'TGG', 'TG', 'AT']
+greedy output: GTGGTGGAT 1.28571428571
+829. TTCACGG
+['A', 'AC', 'ACG', 'G', 'CG', 'CGG', 'CACG', 'TTCA', 'T', 'CAC']
+greedy output: ACTTCACGG 1.28571428571
+830. CAATACC
+['ACC', 'C', 'CC', 'ATACC', 'AT', 'TACC', 'TA']
+greedy output: TATACC 0.857142857143
+831. GGATCTG
+['GATCT', 'G', 'TCT', 'GGATCTG', 'GATCTG', 'ATCTG', 'T', 'TCTG', 'GGATC', 'CT', 'AT']
+greedy output: GGATCTGATCTAT 1.85714285714
+832. CGGGCTT
+['GGGCT', 'C', 'CG', 'GG', 'GCTT', 'GGGC', 'T', 'CGGGCT', 'CT']
+greedy output: GGGCGGGCTTCT 1.71428571429
+833. CTCTACG
+['AC', 'TCTACG', 'TCTAC', 'C', 'T', 'CTA', 'CTC', 'TCTA', 'CT']
+greedy output: TCTACTCTACG 1.57142857143
+834. TTGGCAG
+['A', 'TGGC', 'G', 'TT', 'GCAG', 'GC', 'GGC', 'AG', 'TG', 'GGCA', 'TTG', 'CA']
+greedy output: TTGGCAGCATG 1.57142857143
+835. AGACAGG
+['A', 'AG', 'G', 'AGG', 'ACAGG', 'GG', 'GA', 'GACA', 'CAG', 'CAGG']
+greedy output: ACAGACAGG 1.28571428571
+836. CAGAGCC
+['A', 'C', 'AGAG', 'AG', 'G', 'CC', 'CAGAGCC', 'AGAGCC', 'GCC', 'AGA', 'CAGAG']
+greedy output: AGAGCAGAGCC 1.57142857143
+837. AAACGGA
+['AA', 'AAACG', 'AAA', 'G', 'GG', 'ACGG', 'AACGGA', 'AACGG']
+greedy output: AAACGGACGG 1.42857142857
+838. CAAGGAT
+['A', 'AAGG', 'G', 'AAGGA', 'GAT', 'CAAGGA', 'AGGAT', 'GA', 'AGG', 'CAA']
+greedy output: AAGGACAAGGAT 1.71428571429
+839. CCGCCAC
+['GCCAC', 'C', 'G', 'CC', 'CA', 'CGCCA', 'CAC', 'CCG', 'CCAC']
+greedy output: CCGCCACAG 1.28571428571
+840. GAGTGCT
+['C', 'TGCT', 'G', 'GTG', 'AGTG', 'GAGTGCT', 'GC', 'GCT', 'GA', 'TG', 'CT']
+greedy output: AGTGCGAGTGCT 1.71428571429
+841. AATCAGC
+['AG', 'G', 'CA', 'AGC', 'AAT', 'GC', 'T', 'TCA', 'CAG', 'TCAGC']
+greedy output: AATCAGCAG 1.28571428571
+842. AATATGG
+['TAT', 'ATG', 'TATGG', 'TATG', 'ATATGG', 'T', 'AATATG', 'A', 'AT', 'TG', 'TGG']
+greedy output: AATATGGATATG 1.71428571429
+843. CAACCAG
+['ACC', 'AACCA', 'C', 'AG', 'CAG', 'CA', 'AC', 'CAACCA', 'ACCAG', 'CCA', 'CCAG']
+greedy output: CACCAACCAG 1.42857142857
+844. TAGCTTG
+['CTT', 'GCTTG', 'TAGCT', 'TT', 'AGC', 'GCTT', 'T', 'TG', 'TTG']
+greedy output: AGCTTAGCTTGT 1.71428571429
+845. AGCCCTA
+['C', 'AG', 'CCT', 'AGCCC', 'CCCTA', 'AGC', 'GCCCT', 'CTA', 'AGCCCT', 'CCC', 'CT']
+greedy output: CCCTAGCCCTA 1.57142857143
+846. TCCGGAA
+['A', 'GGAA', 'AA', 'G', 'CC', 'CGG', 'CCG', 'GAA']
+greedy output: GCCGGAA 1.0
+847. TCAACCA
+['A', 'AACCA', 'C', 'AACC', 'ACCA', 'TCAAC', 'CAA', 'TC', 'CAACC']
+greedy output: CTCAACCAA 1.28571428571
+848. AGCTTCA
+['C', 'CA', 'CTTC', 'GC', 'T', 'TTC', 'AGCTTCA', 'TCA']
+greedy output: GCTTCTAGCTTCA 1.85714285714
+849. CAGCCTA
+['C', 'CC', 'CA', 'AGC', 'GCCT', 'CTA', 'CAGCCT', 'AGCCT', 'CAGCC', 'TA']
+greedy output: CCAGCCTAGC 1.42857142857
+850. ATAGACG
+['A', 'C', 'G', 'ATA', 'AGA', 'AGACG', 'TAGACG', 'TAG', 'AT', 'GAC', 'TA']
+greedy output: ATAGACGTAGAC 1.71428571429
+851. GGCTTCC
+['GGCTTCC', 'C', 'G', 'GCTTCC', 'TT', 'TTCC', 'GGCT', 'GGCTT', 'GC', 'GGC', 'TTC', 'TCC', 'CT']
+greedy output: GCTTCGGCTTCC 1.71428571429
+852. ATTTTGG
+['ATTTT', 'TTTG', 'TT', 'ATTTTGG', 'TTT', 'GG', 'TTTTG', 'T', 'AT', 'TTG', 'TGG']
+greedy output: TTTTGATTTTGG 1.71428571429
+853. CATGCTC
+['TGCTC', 'C', 'GCTC', 'G', 'AT', 'T', 'TG', 'CATGCTC', 'TC', 'ATGCT', 'GCT']
+greedy output: CATGCTCATGCTG 1.85714285714
+854. GCATAGA
+['A', 'GCA', 'G', 'GCATAGA', 'AGA', 'TAGA', 'GA', 'GCAT', 'AT', 'CATAGA']
+greedy output: GCATAGAT 1.14285714286
+855. TACGGGG
+['GGGG', 'CGGGG', 'ACG', 'G', 'C', 'GGG', 'GG', 'ACGGGG', 'TACGG']
+greedy output: ACGCTACGGGG 1.57142857143
+856. AGATACA
+['A', 'C', 'AG', 'G', 'ATACA', 'CA', 'ACA', 'AT']
+greedy output: CATACAG 1.0
+857. CTGAGCC
+['A', 'GCC', 'CC', 'CTGAG', 'CTG', 'GC', 'GA', 'TGAGCC', 'GAG', 'CTGAGCC', 'TGA']
+greedy output: ATGAGCTGAGCC 1.71428571429
+858. CTTTTGT
+['G', 'TTTG', 'CTTTTG', 'TT', 'TTT', 'T', 'TG', 'CTTT', 'TTG']
+greedy output: TTTCTTTTG 1.28571428571
+859. ACGCGGA
+['ACGCG', 'C', 'GCG', 'G', 'CGC', 'AC', 'GGA', 'CGCGG', 'CGCG', 'GCGGA']
+greedy output: CGCGACGCGGA 1.57142857143
+860. ATAAGCC
+['A', 'TAAGCC', 'C', 'AAGC', 'G', 'AG', 'CC', 'AAG', 'ATAAGCC', 'T', 'GCC']
+greedy output: AGAAGCATAAGCCT 2.0
+861. TCGAGGT
+['GGT', 'C', 'GT', 'CGAGG', 'G', 'AG', 'CGA', 'CG', 'CGAG', 'GG', 'GAGG']
+greedy output: CGAGGTAGG 1.28571428571
+862. CCCAATG
+['ATG', 'C', 'CCCAAT', 'CCCAA', 'CC', 'AAT', 'CCCA', 'AATG', 'AT', 'CAAT', 'CCA', 'T']
+greedy output: CCCAATGCCAT 1.57142857143
+863. CGGCCAC
+['A', 'CGGCCAC', 'C', 'GCCA', 'CA', 'AC', 'CGG', 'GC', 'GGCCAC', 'CCA']
+greedy output: CGGCCACGCCA 1.57142857143
+864. AACCTCG
+['A', 'ACC', 'AC', 'AACCT', 'CC', 'CCTCG', 'AACC', 'T', 'AACCTC', 'AACCTCG', 'CT', 'TC', 'CTCG']
+greedy output: ACCTCAACCTCG 1.71428571429
+865. GGTCTTC
+['CTT', 'C', 'GGTCTT', 'TT', 'CTTC', 'GT', 'T', 'TC', 'GGTCT', 'CT']
+greedy output: GTGGTCTTCTT 1.57142857143
+866. ACATAGG
+['A', 'ACATA', 'ACA', 'G', 'CA', 'ACATAG', 'GG', 'TAGG', 'T', 'ACAT', 'TA']
+greedy output: CACATAGGTA 1.42857142857
+867. GTCAAGG
+['AA', 'A', 'C', 'GTCAAGG', 'CAAGG', 'AG', 'GTCAA', 'CAAG', 'AAGG', 'G', 'GG', 'CAA']
+greedy output: AACAAGTCAAGG 1.71428571429
+868. CAGTGCC
+['CAGTGCC', 'G', 'GTG', 'CC', 'CA', 'AGTGC', 'CAGTGC', 'GC', 'CAG']
+greedy output: GTGAGTGCAGTGCC 2.0
+869. TTGCGAG
+['TTGCGAG', 'G', 'CGA', 'TT', 'TGCGA', 'TGCG', 'TGCGAG', 'GAG']
+greedy output: TTGCGAGTGCGA 1.71428571429
+870. GGTTACG
+['GTTA', 'C', 'ACG', 'G', 'GTTAC', 'CG', 'GGTTACG', 'T', 'TTA', 'TACG', 'TTACG', 'TA']
+greedy output: GGTTACGTTACTTA 2.0
+871. AGTCCCT
+['C', 'AG', 'CCCT', 'CC', 'CCT', 'T', 'AGT', 'CT']
+greedy output: CCCTAGT 1.0
+872. GTGGCAT
+['GCA', 'A', 'C', 'GT', 'GTGGCAT', 'G', 'CA', 'GGCAT', 'GC', 'T', 'GCAT', 'GGCA']
+greedy output: GTGGCATGCGGCA 1.85714285714
+873. GATTGCT
+['C', 'G', 'GATT', 'TT', 'TTGCT', 'ATTGCT', 'GC', 'T', 'ATTGC', 'TTGC', 'CT']
+greedy output: GATTGCTTGCT 1.57142857143
+874. TCCTCGT
+['CCTCGT', 'GT', 'CC', 'TCCT', 'TCCTC', 'T', 'TCG']
+greedy output: CCTCCTCGTCG 1.57142857143
+875. TGGTAAG
+['AA', 'TAAG', 'AAG', 'AG', 'G', 'GGTAA', 'T', 'TGGTAAG', 'GGTAAG', 'TGG']
+greedy output: TGGTAAGGTAA 1.57142857143
+876. CGGCGTG
+['GT', 'CG', 'CGG', 'GCGTG', 'T', 'GGC', 'GGCGTG', 'CGTG', 'GGCG', 'GCGT']
+greedy output: CGGCGTGCGT 1.42857142857
+877. AGGAATC
+['A', 'GGAA', 'AGGAA', 'AG', 'G', 'AAT', 'AGG', 'AATC', 'GGA', 'GA', 'TC']
+greedy output: GGAGGAATC 1.28571428571
+878. GCCTTCT
+['C', 'G', 'TT', 'CCTT', 'TC', 'TTC', 'TCT', 'CT']
+greedy output: CCTTCTG 1.0
+879. TACGACG
+['C', 'ACG', 'CGAC', 'CGA', 'CG', 'AC', 'TACGA', 'TACGACG', 'GACG', 'T']
+greedy output: TACGACGAC 1.28571428571
+880. TAAGAGG
+['A', 'TAAG', 'AGAG', 'AG', 'G', 'AGG', 'GG', 'GA']
+greedy output: TAAGAGGA 1.14285714286
+881. AGGATGA
+['A', 'ATG', 'ATGA', 'AGGA', 'AG', 'G', 'GAT', 'GA', 'TG', 'GATGA', 'GGATGA', 'AGGATG']
+greedy output: AGGATGATGA 1.42857142857
+882. GAGTTTG
+['AGTTTG', 'GAGTTT', 'AGTTT', 'G', 'TTTG', 'TT', 'GTT', 'T', 'TG', 'AGT', 'GAGTT']
+greedy output: AGTTTGAGTTTGTT 2.0
+883. TATACCG
+['C', 'ATA', 'ATAC', 'CG', 'AC', 'T', 'AT', 'CCG', 'TATAC', 'TA']
+greedy output: TATATACCG 1.28571428571
+884. CTCCTGT
+['C', 'GT', 'G', 'TCCTG', 'CCT', 'T', 'CTC', 'TCC', 'CT']
+greedy output: CCTCCTGTGCT 1.57142857143
+885. ACGTTGA
+['A', 'GT', 'ACG', 'GTTG', 'G', 'CGTTG', 'TT', 'T', 'GA', 'TG', 'TTG']
+greedy output: GACGTTGTT 1.28571428571
+886. ACTAGAG
+['A', 'AC', 'CTAGA', 'AG', 'G', 'CTAGAG', 'ACTAGAG', 'ACT', 'GAG']
+greedy output: CTAGACTAGAG 1.57142857143
+887. GCGCTCA
+['GCTC', 'GCTCA', 'CA', 'CGCTC', 'GC', 'T', 'CTC', 'TCA', 'TC', 'CT']
+greedy output: GCGCTCATCTC 1.57142857143
+888. AGTATGG
+['A', 'ATGG', 'G', 'TATGG', 'AGTATG', 'GG', 'GTAT', 'TA']
+greedy output: AGTATGGTATA 1.57142857143
+889. AGGGTGC
+['AGGG', 'GGTG', 'G', 'GTG', 'AGG', 'GG', 'TGC', 'GGGTGC', 'T', 'GGGTG']
+greedy output: GGTGAGGGTGCT 1.71428571429
+890. TCCATTG
+['C', 'TT', 'CATT', 'T', 'TG', 'TCC']
+greedy output: TCCATTG 1.0
+891. TGGCGAT
+['A', 'TGGCG', 'GA', 'G', 'CGAT', 'GC', 'AT', 'GGC', 'GGCG']
+greedy output: TGGCGATGAGGC 1.71428571429
+892. GGTGGGT
+['GT', 'GGTG', 'G', 'GG', 'GGG', 'GGGT', 'TGG']
+greedy output: GGGTGGT 1.0
+893. GATATTT
+['A', 'TATTT', 'G', 'ATA', 'TT', 'T', 'GA', 'GATAT', 'TA']
+greedy output: ATAGATATTT 1.42857142857
+894. AGCACGC
+['GCA', 'A', 'AC', 'CACGC', 'AGC', 'CA', 'CG', 'ACGC', 'ACG', 'GCACG', 'CGC']
+greedy output: AGCACGCACG 1.42857142857
+895. AACTGAC
+['A', 'C', 'AAC', 'AC', 'AACTGAC', 'CTG', 'ACTG', 'GAC', 'TGA', 'CT']
+greedy output: AACTGACTGACT 1.71428571429
+896. TTGGGAA
+['AA', 'TGGG', 'G', 'TT', 'TGGGA', 'GGG', 'GGA', 'T', 'GA', 'TTGGGA']
+greedy output: TTGGGAATGGG 1.57142857143
+897. GCTTCTG
+['TTCT', 'C', 'TTCTG', 'CTTC', 'GCTTCT', 'GC', 'T', 'CT']
+greedy output: CTTCGCTTCTGT 1.71428571429
+898. CCTTCTC
+['CTT', 'TTCT', 'C', 'TTCTC', 'T', 'CTC', 'CCTTC', 'TC', 'CT']
+greedy output: CCTTCTCTT 1.28571428571
+899. CGGATCG
+['A', 'CGGA', 'GAT', 'GGAT', 'C', 'ATCG', 'GATCG', 'T', 'GGATC', 'TCG', 'TC', 'GATC']
+greedy output: ACGGATCGATCT 1.71428571429
+900. CTCCAAA
+['A', 'AA', 'AAA', 'CCAAA', 'TCCAA', 'CCAA', 'CTCCAAA', 'CAA', 'CCA', 'CT']
+greedy output: TCCAACCACTCCAAA 2.14285714286
+901. AGTGAAT
+['AA', 'A', 'GT', 'AG', 'G', 'GTG', 'GAAT', 'T', 'AGTGAAT', 'AT']
+greedy output: AAGTGAATGTG 1.57142857143
+902. ATGTCCT
+['A', 'C', 'G', 'CC', 'TCCT', 'AT', 'GTCCT', 'TG', 'CT']
+greedy output: ATGTCCTCC 1.28571428571
+903. AACCAAC
+['A', 'AACCA', 'C', 'AAC', 'AACCAA', 'CA', 'CAAC', 'AACCAAC', 'CCAAC', 'CAA']
+greedy output: ACAACCAAC 1.28571428571
+904. AATTGAT
+['TGAT', 'A', 'AA', 'AATTG', 'G', 'GAT', 'T', 'TG', 'AATTGA', 'AT']
+greedy output: AATTGATG 1.14285714286
+905. ATTGAGT
+['A', 'GAGT', 'GT', 'G', 'ATT', 'ATTGAGT', 'TGAGT', 'T', 'ATTGA', 'TG']
+greedy output: ATTGAGTG 1.14285714286
+906. AAGCCAC
+['A', 'GCCAC', 'GCC', 'AA', 'GCCA', 'G', 'CC', 'CCA', 'C', 'GC', 'CAC', 'AAGCCAC']
+greedy output: GCCAAGCCACC 1.57142857143
+907. AGCCTAG
+['TAG', 'C', 'AG', 'G', 'CCTAG', 'CCT', 'AGCCTAG', 'GCCT', 'CTA', 'TA', 'T']
+greedy output: CAGCCTAGCCTAT 1.85714285714
+908. CCCAGTT
+['C', 'G', 'CCAGTT', 'CAGTT', 'GTT', 'T', 'AGTT', 'CAG', 'TT', 'CCAGT']
+greedy output: CAGCCAGTT 1.28571428571
+909. AGCGGCA
+['GCA', 'CGGC', 'G', 'AGC', 'GCGG', 'GG', 'GC', 'GGCA', 'AGCGG']
+greedy output: GGCAGCGGCA 1.42857142857
+910. CTAGTTA
+['TAGT', 'GT', 'TT', 'TAGTTA', 'T', 'AGTT', 'TTA', 'CT', 'CTAGT', 'TA']
+greedy output: GTCTAGTTAGTT 1.71428571429
+911. CTTTTCC
+['C', 'CTTTT', 'CC', 'TT', 'TTT', 'T', 'CTTTTCC', 'CT']
+greedy output: CTTTTCCTTT 1.42857142857
+912. CTGGACA
+['AC', 'G', 'CA', 'CTGGACA', 'C', 'GGACA', 'TG', 'ACA', 'GGAC', 'GAC']
+greedy output: CTGGACTGGACA 1.71428571429
+913. TTTTCAA
+['A', 'AA', 'C', 'TCAA', 'TT', 'TTTTCAA', 'TTT', 'TTTCA', 'T', 'TC']
+greedy output: TTTCATTTTCAATC 2.0
+914. GCGTCGT
+['GT', 'GTCGT', 'G', 'GCG', 'CGTC', 'CG', 'TC', 'CGTCGT', 'GCGTC', 'TCG', 'CGT', 'TCGT']
+greedy output: GCGTCGTCG 1.28571428571
+915. ACGACGT
+['AC', 'CGACG', 'CGAC', 'G', 'CG', 'C', 'ACGA', 'CGACGT', 'ACGACGT', 'GACG', 'GACGT']
+greedy output: ACGACGACGTGC 1.71428571429
+916. TCGGGAT
+['CGGG', 'GGGA', 'G', 'GGGAT', 'TCGGGAT', 'CGG', 'GG', 'AT', 'GA', 'TCG', 'GGAT']
+greedy output: GGCGGGATCGGGAT 2.0
+917. GCCGCCG
+['C', 'G', 'CGC', 'CCGC', 'GCC', 'GC', 'CCG', 'CGCC']
+greedy output: GCCGCC 0.857142857143
+918. TGGTGAC
+['A', 'GGT', 'AC', 'GT', 'G', 'GGTGA', 'GTGA', 'GTGAC', 'T', 'TG', 'GAC']
+greedy output: AGTGGTGAC 1.28571428571
+919. CATCGAT
+['A', 'C', 'CATC', 'ATCGAT', 'CA', 'T', 'TCG', 'AT']
+greedy output: ACATCGATCG 1.42857142857
+920. TGTTCGA
+['G', 'TTCGA', 'CGA', 'CG', 'GTTCG', 'TG', 'GTT', 'T', 'GA', 'TGTTCG', 'TCG', 'TGTT']
+greedy output: TCGTTGTTCGA 1.57142857143
+921. GTCTCCA
+['C', 'TCTCCA', 'TCTCC', 'CTC', 'CTCCA', 'GTCTC', 'CTCC', 'CCA', 'TCCA']
+greedy output: CTCCGTCTCCA 1.57142857143
+922. ACGAGTG
+['A', 'CGAG', 'ACGAGT', 'G', 'GTG', 'C', 'CG', 'GAGTG', 'T', 'TG', 'AGT']
+greedy output: ACGAGTGCGAGT 1.71428571429
+923. ATAGCCT
+['A', 'C', 'ATAGCC', 'AG', 'CCT', 'GCCT', 'AT', 'AGCCT', 'TAGCC']
+greedy output: AGCATAGCCT 1.42857142857
+924. ACCTTCT
+['ACC', 'A', 'C', 'CC', 'CCT', 'TT', 'CCTT', 'T', 'TTC', 'ACCT', 'TC']
+greedy output: ACCTTCCT 1.14285714286
+925. CCGTTAG
+['A', 'CGTTAG', 'GT', 'AG', 'CGTT', 'CGTTA', 'TAG', 'T', 'TTA', 'CCGTTA', 'CGT']
+greedy output: CCGTTAGTCGTTA 1.85714285714
+926. ACCAATA
+['AA', 'C', 'CCAATA', 'ATA', 'AAT', 'AATA', 'AT', 'CCAA', 'CAAT', 'TA']
+greedy output: CCAATAACAAT 1.57142857143
+927. TCGTTTC
+['C', 'G', 'TT', 'CGT', 'CGTT', 'GTTTC', 'TTC', 'TCGTT', 'TC', 'T']
+greedy output: CGTTCGTTTCGT 1.71428571429
+928. ATAATCG
+['AA', 'C', 'ATC', 'TAA', 'TAATCG', 'AATC', 'AT', 'TCG', 'AATCG', 'T']
+greedy output: AATCATAATCGT 1.71428571429
+929. GCCGGGA
+['C', 'GA', 'G', 'CCGG', 'CG', 'CGG', 'GG', 'GC', 'GCCGG', 'GGGA']
+greedy output: CGCCGGGA 1.14285714286
+930. GTCACAA
+['A', 'AA', 'AC', 'GTC', 'GTCAC', 'GTCACA', 'CA', 'TCACAA', 'C', 'CACAA', 'CAA']
+greedy output: GTCACAACAC 1.42857142857
+931. ACTGGAG
+['A', 'AC', 'AG', 'G', 'TGGAG', 'GG', 'CTGG', 'T', 'GA', 'CT']
+greedy output: ACTGGAGGAT 1.42857142857
+932. TGATCTA
+['ATCT', 'CTA', 'C', 'T', 'ATCTA', 'TG', 'AT', 'TA', 'TC', 'GATC']
+greedy output: TGATCTATC 1.28571428571
+933. GTGACCG
+['A', 'ACC', 'C', 'G', 'GTGAC', 'CC', 'GTGA', 'CG', 'AC', 'T', 'GAC', 'TGACC']
+greedy output: ATGACGTGACC 1.57142857143
+934. GGGCTAC
+['CTAC', 'GGGCT', 'AC', 'GGCTA', 'G', 'GGGCTA', 'A', 'GCTAC', 'GG', 'GC', 'CTA', 'T']
+greedy output: GGGCTACTAGCT 1.71428571429
+935. CGAAATC
+['A', 'AA', 'CGAAA', 'ATC', 'T', 'TC', 'AAAT']
+greedy output: AACGAAATCT 1.42857142857
+936. CCGTCGC
+['C', 'GTCG', 'G', 'CGTCG', 'CGC', 'CGTC', 'TCG', 'CCG', 'CGT']
+greedy output: CCGCGTCG 1.14285714286
+937. AGCTCAA
+['A', 'AG', 'AGC', 'AGCTCAA', 'CTCAA', 'GC', 'CTC', 'CTCA', 'CAA', 'CT', 'AGCTCA']
+greedy output: GCTCAGCTCAA 1.57142857143
+938. GTGGATT
+['A', 'TT', 'GAT', 'T', 'GTGG', 'ATT', 'GGA', 'AT', 'GA', 'GGAT']
+greedy output: GTGGATTGAT 1.42857142857
+939. TTGTTCG
+['G', 'TTGTT', 'CG', 'TTGT', 'TC', 'GTTCG', 'TCG', 'TGTTC', 'TTC', 'TG', 'TTGTTCG']
+greedy output: TTGTTCGTGTTC 1.71428571429
+940. GGTACAA
+['AA', 'GTA', 'C', 'G', 'CA', 'GTACA', 'GTACAA', 'GGTACAA', 'GG', 'TACAA', 'TAC', 'CAA']
+greedy output: GTACAGGTACAATAC 2.14285714286
+941. GAATAGT
+['A', 'GT', 'G', 'AG', 'AATAG', 'ATA', 'GAATA', 'AGT', 'AAT', 'TAG', 'T', 'AATA', 'TA']
+greedy output: AATAGAATAGT 1.57142857143
+942. TGGCCCT
+['C', 'GCCC', 'TGGCC', 'CCCT', 'CC', 'CCT', 'GCC', 'TGG', 'CT', 'T']
+greedy output: GCCTGGCCCT 1.42857142857
+943. AACCCTT
+['ACC', 'A', 'AACCC', 'CC', 'TT', 'ACCCTT', 'CCTT', 'T', 'CCCTT']
+greedy output: ACCAACCCTT 1.42857142857
+944. AGCTCCT
+['C', 'CC', 'CCT', 'AGC', 'GCTCCT', 'GCT', 'CTCC', 'TC', 'CT']
+greedy output: AGCTCCTCCTC 1.57142857143
+945. CGGGATA
+['GAT', 'CGG', 'GG', 'GGG', 'AT', 'GGGA', 'GATA', 'TA']
+greedy output: CGGGATAT 1.14285714286
+946. GGGCTTC
+['CTT', 'C', 'G', 'TT', 'GGGCTTC', 'GG', 'GCTT', 'GCT', 'T', 'TTC', 'TC', 'GGGCTT', 'CT']
+greedy output: GGGCTTCTGCTT 1.71428571429
+947. TCTACAA
+['AA', 'CTACAA', 'C', 'CTACA', 'TCTAC', 'TCT', 'TACAA', 'TACA', 'CAA', 'CA', 'TA']
+greedy output: CTCTACAATACA 1.71428571429
+948. CCGGTAG
+['C', 'GGTA', 'AG', 'CCGG', 'CCGGTA', 'CG', 'CGG', 'CCGGTAG', 'CCGGT', 'CGGT', 'CCG']
+greedy output: CGGTACCGGTAG 1.71428571429
+949. TATAGCC
+['A', 'GCC', 'AG', 'ATAGC', 'CC', 'C', 'GC', 'T']
+greedy output: AGCATAGCCT 1.42857142857
+950. TGAACGT
+['AA', 'A', 'GT', 'ACG', 'ACGT', 'G', 'AACG', 'TGAAC', 'GAAC', 'TGAA', 'T']
+greedy output: AAGTGAACGT 1.42857142857
+951. ATGGCCC
+['A', 'C', 'TGGCC', 'G', 'CC', 'GG', 'GC', 'AT', 'GGCC', 'TG', 'ATGGCC']
+greedy output: ATGGCCTGGC 1.42857142857
+952. GAGCCCA
+['A', 'GCC', 'CC', 'CA', 'C', 'GAGCCCA', 'GAGC', 'GAGCCC', 'CCA', 'CCC']
+greedy output: GCCCGAGCCCA 1.57142857143
+953. ACAAGTG
+['A', 'ACA', 'GT', 'ACAA', 'AG', 'GTG', 'CAAG', 'G', 'T', 'AGT']
+greedy output: ACAAGTGT 1.14285714286
+954. GTTGGCC
+['GCC', 'GTTGGCC', 'TGGCC', 'G', 'CC', 'TT', 'C', 'GG', 'GC', 'T', 'TTG', 'TTGG']
+greedy output: GCTTGGTTGGCC 1.71428571429
+955. CCGTCAG
+['A', 'C', 'GTC', 'GTCA', 'AG', 'CCGTCA', 'T', 'CGTC', 'CCGTC', 'CAG', 'TC', 'TCA']
+greedy output: ACGTCCGTCAGT 1.71428571429
+956. CGCATCA
+['GCA', 'CGCATCA', 'C', 'GCATC', 'CGC', 'CAT', 'CATCA', 'T', 'GCATCA', 'CA']
+greedy output: GCATCGCATCATCA 2.0
+957. CACGTCA
+['A', 'C', 'GTC', 'G', 'CA', 'AC', 'CGTC', 'CACG', 'GT', 'CGTCA', 'TC', 'TCA']
+greedy output: ACACGTCAGTC 1.57142857143
+958. ATAAATC
+['A', 'AA', 'AAA', 'AAATC', 'TAAA', 'ATAA', 'T', 'TC', 'AAAT']
+greedy output: AATAAATCT 1.28571428571
+959. CCCCAAG
+['A', 'CCCCAA', 'C', 'AG', 'CC', 'CCCC', 'CAAG', 'CCAA', 'CCA']
+greedy output: CCCCAAGCCA 1.42857142857
+960. GTCTATT
+['A', 'GT', 'GTCTAT', 'G', 'TCT', 'TT', 'ATT', 'GTCTA', 'TATT', 'GTCTATT', 'TC', 'TCTA']
+greedy output: GTCTATTCTA 1.42857142857
+961. AGTCGCA
+['GCA', 'C', 'AGTCG', 'G', 'AG', 'CA', 'GTC', 'AGTCGC', 'TC']
+greedy output: GTCAGTCGCA 1.42857142857
+962. AATATTG
+['A', 'TT', 'ATTG', 'AATA', 'TATTG', 'ATATT', 'AT', 'ATAT', 'T']
+greedy output: AATATTGATT 1.42857142857
+963. GAAACGG
+['A', 'AC', 'G', 'CG', 'AACG', 'CGG', 'GG', 'ACGG', 'AACGG', 'GAA']
+greedy output: ACGAACGG 1.14285714286
+964. GGATACC
+['A', 'ACC', 'C', 'G', 'GAT', 'GG', 'AT', 'TAC', 'TACC', 'GGAT']
+greedy output: AGGATACC 1.14285714286
+965. TGAACCC
+['A', 'ACC', 'AACCC', 'CC', 'AC', 'ACCC', 'TGAAC', 'TGAACCC']
+greedy output: ACCTGAACCC 1.42857142857
+966. CGTTCAT
+['A', 'C', 'GTTCAT', 'CGTTC', 'GTT', 'AT', 'GTTCA', 'TTCA', 'CGTTCA', 'TCA']
+greedy output: CGTTCATGTTCA 1.71428571429
+967. CATCTCA
+['A', 'CATCT', 'CATCTCA', 'TCT', 'TCTCA', 'CAT', 'ATCTC', 'CTCA', 'CT', 'TCTC', 'TC', 'CA', 'TCA']
+greedy output: ATCTCTCATCTCA 1.85714285714
+968. TGCGAAT
+['AA', 'A', 'GAAT', 'GCGA', 'AAT', 'GCGAAT', 'T', 'TGCGAAT', 'TG', 'GAA']
+greedy output: GCGAATGCGAAT 1.71428571429
+969. GTTGAGT
+['A', 'GT', 'AG', 'GTTG', 'TT', 'G', 'GTTGAG', 'GA', 'GAG', 'TTG']
+greedy output: TTGTTGAGA 1.28571428571
+970. TCAACCA
+['A', 'C', 'AAC', 'CA', 'T', 'CAACCA', 'CAA', 'CCA', 'TC']
+greedy output: AACAACCATC 1.42857142857
+971. GGTTATT
+['TAT', 'A', 'GGTTATT', 'TT', 'TTATT', 'ATT', 'GTT', 'AT', 'GGTT', 'GGTTAT', 'TATT', 'TTA', 'TA']
+greedy output: GTTATAGGTTATT 1.85714285714
+972. CTTCCAT
+['C', 'CC', 'TT', 'CAT', 'TCC', 'TTCCA', 'AT', 'TTCC', 'CTTCC', 'TC']
+greedy output: CTTCCATTCC 1.42857142857
+973. CATAACC
+['A', 'ATAAC', 'C', 'AA', 'AAC', 'CC', 'AACC', 'T', 'ACC', 'TA']
+greedy output: TAATAACC 1.14285714286
+974. CATTTGA
+['A', 'G', 'CATTTG', 'TTTGA', 'ATTTGA', 'TGA', 'CATT', 'T', 'GA', 'CAT']
+greedy output: GTCATTTGA 1.28571428571
+975. AAATCGA
+['AA', 'C', 'AAA', 'AAAT', 'G', 'AATCG', 'AAATCGA', 'T', 'TCG', 'ATCGA', 'TC', 'AT']
+greedy output: AAATCGAATCGATC 2.0
+976. GCGGGGC
+['GGGG', 'CGGG', 'G', 'GCGGGGC', 'GG', 'GGG']
+greedy output: CGGGGCGGGGC 1.57142857143
+977. GATATCG
+['A', 'C', 'ATC', 'G', 'CG', 'GA', 'TATCG', 'TC', 'TA']
+greedy output: TATCGATC 1.14285714286
+978. CACAGTT
+['ACAG', 'GT', 'AG', 'CACA', 'T', 'AGTT', 'GTT', 'AGT', 'CAG', 'ACAGT']
+greedy output: CACAGTTCAGT 1.57142857143
+979. ACCAACG
+['ACC', 'A', 'AC', 'ACG', 'AAC', 'CC', 'CA', 'ACCA', 'ACCAACG']
+greedy output: CCAACCAACG 1.42857142857
+980. AGATAAG
+['A', 'TAAG', 'ATA', 'ATAA', 'GATAA', 'T', 'AGAT', 'AT', 'AGATAA', 'GATA', 'GATAAG']
+greedy output: AGATAAGATAAT 1.71428571429
+981. ATATGCA
+['GCA', 'ATGC', 'ATA', 'ATATGC', 'ATATG', 'ATATGCA', 'GC', 'T', 'TATGCA', 'TATG', 'TA']
+greedy output: ATATGCATATGC 1.71428571429
+982. AGCCAAG
+['AA', 'AGCCAAG', 'C', 'G', 'AG', 'AGCCA', 'GCCA', 'A']
+greedy output: AAGCCAAGCCAC 1.71428571429
+983. CAGGGCC
+['GCC', 'GGC', 'G', 'AG', 'CC', 'CA', 'CAGGG', 'GG', 'GGGC', 'AGGGCC', 'CAGGGC']
+greedy output: AGGGCAGGGCC 1.57142857143
+984. GCTACGA
+['A', 'CTACG', 'ACG', 'CTAC', 'G', 'CGA', 'GCTACGA', 'ACGA', 'CTA', 'GA', 'CT', 'GCTACG']
+greedy output: CTACGCTACGA 1.57142857143
+985. CCTAGTG
+['A', 'CTAG', 'C', 'AG', 'G', 'TAGTG', 'TAG', 'T', 'TG', 'CT', 'CCTAGT', 'TA']
+greedy output: CTAGTACCTAGTG 1.85714285714
+986. AATTCGA
+['A', 'C', 'G', 'CGA', 'CG', 'T', 'GA', 'TC']
+greedy output: GTCGA 0.714285714286
+987. TAGTTAC
+['A', 'AC', 'AG', 'GTTAC', 'TTAC', 'TAGTTA', 'T', 'TAGTT', 'TA']
+greedy output: AGTAGTTAC 1.28571428571
+988. TAGATTG
+['A', 'AG', 'G', 'TT', 'T', 'ATTG', 'AT', 'AGAT', 'TG', 'TTG', 'TA']
+greedy output: ATTAGATTG 1.28571428571
+989. TCTGTAC
+['A', 'GTAC', 'AC', 'GT', 'TGT', 'GTA', 'TCT', 'C', 'T', 'TCTG', 'TG', 'TA', 'CT']
+greedy output: TCTGTACTGTA 1.57142857143
+990. AGAAGCA
+['A', 'GCA', 'AAG', 'AAGCA', 'G', 'AGC', 'C', 'AGA', 'AGAAGCA', 'GA', 'AGAAGC', 'GAAGCA']
+greedy output: GAAGCAGAAGCA 1.71428571429
+991. CGAGAGT
+['A', 'GAGT', 'GT', 'AGAG', 'AG', 'G', 'CGAGAGT', 'GAGAG', 'GAG', 'CGAGA', 'GA', 'GAGAGT', 'CGAGAG', 'AGT']
+greedy output: AGAGAGCGAGAGT 1.85714285714
+992. AAAGACG
+['AA', 'GA', 'C', 'ACG', 'G', 'AAGA', 'CG', 'AAAGACG', 'A', 'AAAG', 'GAC']
+greedy output: AAGACAAAGACG 1.71428571429
+993. CCTTTCC
+['C', 'CC', 'TT', 'TTTCC', 'T', 'TTCC', 'TTC', 'TCC']
+greedy output: TTTCCTTC 1.14285714286
+994. AATAGAT
+['A', 'G', 'ATA', 'GAT', 'AGA', 'AATAG', 'ATAGAT', 'AT', 'AGAT', 'T', 'TAGA']
+greedy output: AATAGATAGATG 1.71428571429
+995. TGGATCC
+['C', 'ATC', 'CC', 'GAT', 'TCC', 'ATCC', 'GGATCC', 'GATCC', 'TC', 'GATC']
+greedy output: GATCGGATCC 1.42857142857
+996. AATTCAA
+['A', 'C', 'AATTCAA', 'AAT', 'ATTCA', 'T', 'ATTCAA', 'TC', 'TCA']
+greedy output: AATTCAATTCATC 1.85714285714
+997. TTGTTGG
+['GT', 'GTTGG', 'TGT', 'TT', 'TTGTTG', 'GG', 'TGTTG', 'T', 'TG', 'TTG']
+greedy output: TGTTGTTGG 1.28571428571
+998. ACTTATT
+['TT', 'ACT', 'TTATT', 'T', 'CTTATT', 'ACTTAT', 'TATT']
+greedy output: ACTTATT 1.0
+999. GGACAGA
+['C', 'AG', 'G', 'AC', 'GGA', 'GACAG', 'CAGA', 'GA']
+greedy output: AGGACAGAC 1.28571428571
+maxRatio: 2.14285714286
